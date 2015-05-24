@@ -72,9 +72,9 @@ Purpose: Unspecified.
 ## Domain: All functions & activities within the Circle
 
 ### Policy: Agenda building and administration
-Proposals are announced and written down in English in the beginning 
-Again at the end 
-Agenda points are preferably pre-loaded into Glassfrog by the one who proposes it
+ - Proposals are announced and written down in English in the beginning
+ - Again at the end
+ - Put your proposal in words before the governance meeting in a Pull Request.
 
 ### Policy: Bugfixing for clients
 Risk of bugs is managed in the planning phase preferably. 
@@ -197,7 +197,7 @@ Measure time with an alarm clock!
 
 ### Policy: Transparency levels
 Public: 
- - Glassfrog records 
+ - [Governance](https://github.com/Brickflow/lab-governance) records 
  - Salary formula (without personal records)
 
 Private: 
