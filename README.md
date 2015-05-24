@@ -201,7 +201,8 @@ Public:
  - Salary formula (without personal records)
 
 Private: 
- - Trello boards 
+ - Trello boards
+ - Asana
  - Slack 
  - Drive 
  - Personal salary parameters, end salary
@@ -210,12 +211,8 @@ Private:
 Make sure every week, before the tactical meeting, that all your cards are up-to-date. 
 Comment on cards what you tell on tactical as update.
 
-### Policy: Trello for top level boards
-- Use Trello for top level circle boards 
-- Circles should decide what task manager tool they wanna use
-
-
-
+### Policy: Asana for top level boards
+- Use [Asana](https://app.asana.com/0/31935013151061) for top level circle boards
 
 # Lab / Client work
 Purpose: Unspecified.
