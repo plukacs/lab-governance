@@ -10,6 +10,7 @@ Purpose: Build Tech Ventures
 
 ### Admin - Virag
 Purpose: Unspecified.
+
 ### Biz Dev	- Petak 
 Purpose: Unspecified.
 
@@ -66,6 +67,7 @@ Purpose: Unspecified.
 Purpose: Unspecified.
 
 ### Vision / Mission - Petak
+Purpose: Unspecified.
 
 ## Domain: All functions & activities within the Circle
 
@@ -86,6 +88,7 @@ Preferably paid by a company bank card. Always provide invoices.
 Have your calendar email address at ContactSheet. 
 Keep your calendar free-busy status for work hours up to date. Pay extra attention to mark full-day events as "busy" if you're not available. 
 Share your calendar free-busy status publicly (or with everyone in the ContactSheet).
+
 ContactSheet: https://docs.google.com/spreadsheets/d/1311Z9D_srqIJhXcKYxcZV6xy0dS_ADp_k1SHI96G_PQ/edit#gid=0
 
 ### Policy: Client relations
@@ -119,14 +122,10 @@ Make a brownbag talk if possible.
 - Uber home of working later than 10pm
 
 ### Policy: Employee money
-Salary formula: 
-https://docs.google.com/spreadsheets/d/1kfwA4IM55vJ-dbh2-AKVupUe_kiNiwSjbA2N07_4RiE/edit#gid=65766471
-Salary levels: 
-https://docs.google.com/spreadsheets/d/1UEgP6s-GShg3j6ed25MpW_XIGpLYj-CfdiE5gAUnKu4/edit#gid=0
-Glue levels: 
-https://docs.google.com/spreadsheets/d/1UEgP6s-GShg3j6ed25MpW_XIGpLYj-CfdiE5gAUnKu4/edit#gid=1962070492
-Glue multiplier: 
-https://docs.google.com/spreadsheets/d/1UEgP6s-GShg3j6ed25MpW_XIGpLYj-CfdiE5gAUnKu4/edit#gid=437591356
+ - Salary formula: https://docs.google.com/spreadsheets/d/1kfwA4IM55vJ-dbh2-AKVupUe_kiNiwSjbA2N07_4RiE/edit#gid=65766471
+ - Salary levels: https://docs.google.com/spreadsheets/d/1UEgP6s-GShg3j6ed25MpW_XIGpLYj-CfdiE5gAUnKu4/edit#gid=0
+ - Glue levels: https://docs.google.com/spreadsheets/d/1UEgP6s-GShg3j6ed25MpW_XIGpLYj-CfdiE5gAUnKu4/edit#gid=1962070492
+ - Glue multiplier: https://docs.google.com/spreadsheets/d/1UEgP6s-GShg3j6ed25MpW_XIGpLYj-CfdiE5gAUnKu4/edit#gid=437591356
 
 ### Policy: Google Drive usage (non-negotiable)
 - keep all docs on drive in the respective folder 
@@ -198,13 +197,14 @@ Measure time with an alarm clock!
 
 ### Policy: Transparency levels
 Public: 
-Glassfrog records 
-Salary formula (without personal records)
+ - Glassfrog records 
+ - Salary formula (without personal records)
+
 Private: 
-Trello boards 
-Slack 
-Drive 
-Personal salary parameters, end salary
+ - Trello boards 
+ - Slack 
+ - Drive 
+ - Personal salary parameters, end salary
 
 ### Policy: Transparent task progress report
 Make sure every week, before the tactical meeting, that all your cards are up-to-date. 
