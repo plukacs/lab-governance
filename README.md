@@ -108,17 +108,17 @@ Make it transparent at https://docs.google.com/spreadsheets/d/1n1xfIGBuBe1IAIjhP
 Make a brownbag talk if possible.
 
 ### Policy: Employee benefits
-- tee: differentiate CBA (Tojás) and Kusmi (Anikó) quality 
-- coffee 
-- beer 
-- wine 
-- sparkling water aka szóda 
-- fruit 
-- yogurt 
-- cereals 
-- szörp Szobi 
-- dinner if working after 8pm 
-- Uber home of working later than 10pm
+ - tee: differentiate CBA (Tojás) and Kusmi (Anikó) quality 
+ - coffee 
+ - beer 
+ - wine 
+ - sparkling water aka szóda 
+ - fruit 
+ - yogurt 
+ - cereals 
+ - szörp Szobi 
+ - dinner if working after 8pm 
+ - Uber home of working later than 10pm
 
 ### Policy: Employee money
  - Salary formula: https://docs.google.com/spreadsheets/d/1kfwA4IM55vJ-dbh2-AKVupUe_kiNiwSjbA2N07_4RiE/edit#gid=65766471
@@ -127,16 +127,16 @@ Make a brownbag talk if possible.
  - Glue multiplier: https://docs.google.com/spreadsheets/d/1UEgP6s-GShg3j6ed25MpW_XIGpLYj-CfdiE5gAUnKu4/edit#gid=437591356
 
 ### Policy: Google Drive usage (non-negotiable)
-- keep all docs on drive in the respective folder 
-- download the Drive app for synchronization
+ - keep all docs on drive in the respective folder 
+ - download the Drive app for synchronization
 
 ### Policy: Governance log
 All the policies are logged on Github.
 
 ### Policy: Holiday planning
-- Let others know about your holiday plans on Slack 
-- Let leadlink know 3x the length of your planned holiday (in workdays) before the start of it 
-- Letting them know within this period doesn't mean that it's no allowed, but can result in decline (if your plan is not safe to fail)
+ - Let others know about your holiday plans on Slack 
+ - Let leadlink know 3x the length of your planned holiday (in workdays) before the start of it 
+ - Letting them know within this period doesn't mean that it's no allowed, but can result in decline (if your plan is not safe to fail)
 
 ### Policy: Language
 All our written documents must be in English unless it's not possible.
@@ -170,17 +170,17 @@ No other person (TLC lead link) should get into mini-projects
 
 ### Policy: Salary process
 Assessments based on Level and Glue indicators.
-1. self assessment 
-2. peer feedback with name (you'll only see your responses) 
-3. no more edits/responses, results internally published 
-4. display results + pitch + questions 
-5. self-set levels and glue can be challenged by anyone until the next work day. Use the conflict resolution process.
+ 1. self assessment 
+ 2. peer feedback with name (you'll only see your responses) 
+ 3. no more edits/responses, results internally published 
+ 4. display results + pitch + questions 
+ 5. self-set levels and glue can be challenged by anyone until the next work day. Use the conflict resolution process.
 
 ### Policy: salary until no approved salary formula
 300k HUF net for everyone as this is the Brickflow legacy salary. 300k HUF net should be paid in May.
 
 ### Policy: Stand-up style
-- Focus on what was achieved yesterday and what is your goal for the day and what obstacles you have
+ - Focus on what was achieved yesterday and what is your goal for the day and what obstacles you have
 
 ### Policy: Stand-ups
 Separate circle standups (Top-Level, Emarsys) 
@@ -211,4 +211,4 @@ Make sure every week, before the tactical meeting, that all your cards are up-to
 Comment on cards what you tell on tactical as update.
 
 ### Policy: Asana for top level boards
-- Use [Asana](https://app.asana.com/0/31935013151061) for top level circle boards
+Use [Asana](https://app.asana.com/0/31935013151061) for top level circle boards
