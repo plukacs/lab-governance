@@ -42,6 +42,30 @@ Purpose: Unspecified.
 ### HR & recruitment - Cassus, Petak
 Purpose: More fasza people for projects
 
+#### Domain: Salary system and peer-reviews
+
+##### Policy: Employee money
+ - Salary formula: https://docs.google.com/spreadsheets/d/1kfwA4IM55vJ-dbh2-AKVupUe_kiNiwSjbA2N07_4RiE/edit#gid=65766471
+ - Salary levels: https://docs.google.com/spreadsheets/d/1UEgP6s-GShg3j6ed25MpW_XIGpLYj-CfdiE5gAUnKu4/edit#gid=0
+ - Glue levels: https://docs.google.com/spreadsheets/d/1UEgP6s-GShg3j6ed25MpW_XIGpLYj-CfdiE5gAUnKu4/edit#gid=1962070492
+ - Glue multiplier: https://docs.google.com/spreadsheets/d/1UEgP6s-GShg3j6ed25MpW_XIGpLYj-CfdiE5gAUnKu4/edit#gid=437591356
+
+##### Policy: Part-time
+If you are an x% part-time employee in the Lab, you get x% pay and x% ownership. 
+This is a company level policy.
+
+##### Policy: Salary process
+Assessments based on Level and Glue indicators.
+ 1. self assessment 
+ 2. peer feedback with name (you'll only see your responses) 
+ 3. no more edits/responses, results internally published 
+ 4. display results + pitch + questions 
+ 5. self-set levels and glue can be challenged by anyone until the next work day. Use the conflict resolution process.
+
+##### Policy: salary until no approved salary formula
+300k HUF net for everyone as this is the Brickflow legacy salary. 300k HUF net should be paid in May.
+
+
 ### Jogi - Hoki
 Purpose: Unspecified.
 
@@ -120,12 +144,6 @@ Make a brownbag talk if possible.
  - dinner if working after 8pm 
  - Uber home of working later than 10pm
 
-### Policy: Employee money
- - Salary formula: https://docs.google.com/spreadsheets/d/1kfwA4IM55vJ-dbh2-AKVupUe_kiNiwSjbA2N07_4RiE/edit#gid=65766471
- - Salary levels: https://docs.google.com/spreadsheets/d/1UEgP6s-GShg3j6ed25MpW_XIGpLYj-CfdiE5gAUnKu4/edit#gid=0
- - Glue levels: https://docs.google.com/spreadsheets/d/1UEgP6s-GShg3j6ed25MpW_XIGpLYj-CfdiE5gAUnKu4/edit#gid=1962070492
- - Glue multiplier: https://docs.google.com/spreadsheets/d/1UEgP6s-GShg3j6ed25MpW_XIGpLYj-CfdiE5gAUnKu4/edit#gid=437591356
-
 ### Policy: Google Drive usage (non-negotiable)
  - keep all docs on drive in the respective folder 
  - download the Drive app for synchronization
@@ -150,10 +168,6 @@ Take and share notes if relevant. If two people attend a meeting, one of them sh
 ### Policy: Office hygiene
 Clean your desk everyday after yourself: no food, no dirty dishes. Leave the office clean every day. Do not risk that someone else, who walks in with a guest would feel ashamed. Or just throws up.
 
-### Policy: Part-time
-If you are an x% part-time employee in the Lab, you get x% pay and x% ownership. 
-This is a company level policy.
-
 ### Policy: Pay everybody's mobile cost from the company
 Both subscription fee and devices.
 
@@ -167,17 +181,6 @@ Postponing a meeting is OK if all parties agreed
 ### Policy: Project leading
 Every project lead has to take responsibility in organizing meetings, liaising with clients, and do resource management for the project → mini project management 
 No other person (TLC lead link) should get into mini-projects
-
-### Policy: Salary process
-Assessments based on Level and Glue indicators.
- 1. self assessment 
- 2. peer feedback with name (you'll only see your responses) 
- 3. no more edits/responses, results internally published 
- 4. display results + pitch + questions 
- 5. self-set levels and glue can be challenged by anyone until the next work day. Use the conflict resolution process.
-
-### Policy: salary until no approved salary formula
-300k HUF net for everyone as this is the Brickflow legacy salary. 300k HUF net should be paid in May.
 
 ### Policy: Stand-up style
  - Focus on what was achieved yesterday and what is your goal for the day and what obstacles you have
