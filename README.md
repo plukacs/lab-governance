@@ -100,6 +100,7 @@ Dedicate weekly 4 hours for the tactical and governance meeting.
 
 ### Policy: Collaboration should be above your work
 It is key to communicate seamlessly to work together. Make it a daily priority to answer your emails, slack messages, invites etc.
+If you (re)assign a task, the assignees has to accept, otherwise you are responsible for the task.
 
 ### Policy: Company financed Learning
 Get an invoice for the the company. Pay by company card/transfer if possible. 
