@@ -127,7 +127,7 @@ Dedicate weekly 4 hours for the tactical and governance meeting.
 
 ### Policy: Collaboration should be above your work
 It is key to communicate seamlessly to work together. Make it a daily priority to answer your emails, slack messages, invites etc.
-If you (re)assign a task, the assignees has to accept, otherwise you are responsible for the task.
+If you (re)assign a task, the assignees has to accept, otherwise you are responsible for the task. No answer means that the assignee accepts. If you cannot accept it you should help finding an assignee.
 
 ### Policy: Company financed Learning
 Get an invoice for the the company. Pay by company card/transfer if possible. 
@@ -227,3 +227,11 @@ Use [Asana](https://app.asana.com/0/31935013151061) for top level circle boards
 
 ### Policy: Credit card usage
 Employees gain access to company credit cards after the 3rd month of employment.
+
+### Policy: Probation time and ownership cliff
+Probation time is 3 months, when it comes to ownership there is a one year cliff.
+
+### Policy: Splitting collectively paid personal costs
+Use Splitwise mobile app. (https://www.splitwise.com)
+
+### Policy: 
