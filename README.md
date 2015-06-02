@@ -132,6 +132,12 @@ Up to 2000 EUR + VAT / person / year (incl. travel costs)
 Make it transparent at https://docs.google.com/spreadsheets/d/1n1xfIGBuBe1IAIjhP-SUL0LrzrLgYIjZm2XaaFaV-rY/edit#gid=0
 Make a brownbag talk if possible.
 
+### Policy: Learning
+Every 3 month on the first Friday of the month is a FedEx day. (First occasion: 2015-07-03)
+A 24 hour "hackatlon"
+Every kind of project is welcomed (Does not have to be Lab related)
+The teams have to deliver the full project on the end.
+
 ### Policy: Employee benefits
  - tee: differentiate CBA (Tojás) and Kusmi (Anikó) quality 
  - coffee 
