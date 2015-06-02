@@ -224,3 +224,6 @@ Comment on cards what you tell on tactical as update.
 
 ### Policy: Asana for top level boards
 Use [Asana](https://app.asana.com/0/31935013151061) for top level circle boards
+
+### Policy: Credit card usage
+Employees gain access to company credit cards after the 3rd month of employment.
