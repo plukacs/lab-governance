@@ -65,6 +65,9 @@ Assessments based on Level and Glue indicators.
 ##### Policy: salary until no approved salary formula
 300k HUF net for everyone as this is the Brickflow legacy salary. 300k HUF net should be paid in May.
 
+##### Policy: Peer review frequency
+Peer reviews should be done every half year. New partners should be re-evaluated after 3 month they joined.
+
 
 ### Jogi - Hoki
 Purpose: Unspecified.
