@@ -23,6 +23,17 @@ The assignee should resolve any emerging dependency for the current week.
 ### Policy: Estimation
 Next week's commitment is reestimated by the team before the demo, 
 taking the roadmap into account.
+UI tasks' estimation must be based on existing and approved mockups.
+If a UI task has backend dependencies, then the backend and frontend tasks must be defined in
+separate tasks in the same user story.
+If there is lack of information to estimate a user story, then estimation is
+forbidden and has to be marked.
+
+### Policy: Development process
+- To do
+- In progress
+- Done
+- Reviewed
 
 ### Policy: JIRA usage
 On the Monday-meeting we copy the tasks from the backlog. 
@@ -45,3 +56,4 @@ Sick people aren't counted in the reestimation for that week.
 
 ### Policy: Timesheet
 At the end of the day fill in the timesheet.
+
