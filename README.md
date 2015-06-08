@@ -16,9 +16,6 @@ Purpose: Clarity on out commitments and free resources
 ### Biz Dev	- Petak 
 Purpose: Unspecified.
 
-### Culture - Petak 
-Purpose: Unspecified.
-
 ### Evangelist, Representing - Petak
 Purpose: Unspecified.
 
@@ -31,7 +28,7 @@ Purpose: Unspecified.
 ### Org Dev Consulting venture - Cassus
 Purpose: Unspecified.
 
-### PR - marketing - Dani 
+### PR, Marketing - Dani 
 Purpose: Unspecified.
 
 ### Strategy, Vision, Mission  - Marci Banyo, Petak, Tojas

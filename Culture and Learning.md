@@ -23,5 +23,5 @@ Purpose: Unspecified.
 #### Accountabilities
 - Scheduling events, notifying and updating members, preparing meeting agenda and booking location (especially booking a meeting room if needed)
 
-### Culture - ?
+### Culture - Petak
 Purpose: Unspecified.
