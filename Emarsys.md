@@ -13,10 +13,6 @@ Purpose: Earn money
 
 ## All functions & activities within the Circle
 
-### Policy: Demo schedule
-We don't demo incomplete features at all. 
-Thursday and Friday inner demos are at 10 AM.
-
 ### Policy: Dependency resolution
 The assignee should resolve any emerging dependency for the current week.
 
@@ -46,8 +42,23 @@ Every task must have someone who will assure its quality.
 He/She has to check on the staging environment whether all AC are met. 
 Every task have to be QA-d by its assigner in JIRA with special attention to edge cases.
 
-### Policy: Retro and governance schedule
-We should hold the retro & the governance meeting every week right after the Friday's demo.
+### Policy: Meetings and schedule
+- Retro: Weekly, Friday after the demo (16:00)
+- Governance meeting: Monthly (or if requested on retro for next), Monday after sprint launch (11:00)
+- Sprint launch: Weekly, Monday after standup (10:00)
+- Standup: Daily, (9:30)
+- Demo: Weekly, Friday (15:00)
+- Inner demo: Weekly, Friday (12:00)
+- Planning: Weekly, Thursday (16:00)
+
+### Policy: Demo
+We don't demo incomplete features at all. 
+
+### Policy: Inner demo
+Inner schedule for inner demo:
+- Demo the features of the current sprint
+- Reestimation of the commitment
+- Estimation forward
 
 ### Policy: Sick leave
 If you are sick tell the team ASAP on Slack Emarsys channel. 
