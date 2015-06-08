@@ -18,3 +18,12 @@ Purpose:
 Use master branch
 codeship merges to production
 Use feature switches if needed.
+
+### Definition of DONE
+- works locally
+- has tests, unit tests, integration tests including UI interaction and mocked server
+- (codeship success)
+- (deployed and works in production)
+
+### Acceptance criteria
+On the cards, as subtasks
