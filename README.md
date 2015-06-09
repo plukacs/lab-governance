@@ -10,7 +10,7 @@ Purpose: Build Tech Ventures
 ### Admin - Virag
 Purpose: Unspecified.
 
-### Resource manager - Marci Banyo, Petak 
+### Resource manager - Marci Banyo
 Purpose: Clarity on out commitments and free resources
 
 ### Biz Dev	- Petak 
@@ -31,13 +31,15 @@ Purpose: Unspecified.
 ### PR, Marketing - Dani 
 Purpose: Unspecified.
 
-### Strategy, Vision, Mission  - Marci Banyo, Petak, Tojas
+### Strategy  -  Petak, Tojas
 Purpose: Define strategy
+Accountability: Preparing incubation projects
+Present KPIs and strategic changes monthly to the whole company.
 
-### Office and Supplies - Petak
+### Office and Supplies - Virag
 Purpose: Unspecified.
 
-#### Domain: Office equipments
+#### Domain: Office equipment
 
 ### Teaching venture - Tojas
 Purpose: Unspecified.
@@ -122,20 +124,13 @@ Facilitator keeps the log
 Old Brickflow beer debts are brought to the Brickflow farewell party 
 Postponing a meeting is OK if all parties agreed
 
-### Policy: Stand-up style
- - Focus on what was achieved yesterday and what is your goal for the day and what obstacles you have
-
 ### Policy: Stand-ups
-Separate circle standups (Top-Level, Emarsys) 
-Status report at top level standup per circle 
+Separate circle standups. Each circle is free to decide if they have a standup or not. 
+Focus on what was achieved yesterday and what is your goal for the day and what obstacles you have. 
 Time boxing is important, to not spend too much time on standupping
 
 ### Policy: Time tracking
 We should track the time dedicated to each role, even internal roles. Preferably use one, company wide tool.
-
-### Policy: TLC standup
-10 min/standup 
-Measure time with an alarm clock!
 
 ### Policy: Transparency levels
 Public: 
@@ -164,4 +159,8 @@ Probation time is 3 months, when it comes to ownership there is a one year cliff
 
 ### Policy: Splitting collectively paid personal costs
 Use [Splitwise](https://www.splitwise.com) mobile app.
+
+### Policy: Participation in salary and ownership related policy changes
+Anyone working at the organization can bring tensions and participate in the salary and ownership related policy changes.
+This should be announced 24 hrs prior to the meeting.
 
