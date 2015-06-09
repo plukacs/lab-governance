@@ -1,5 +1,5 @@
-# Lab / Visibl
-Purpose:
+# Lab / Product Dev / Visibl
+Purpose: Unspecified.
 
 ## Roles
 

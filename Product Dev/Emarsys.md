@@ -1,4 +1,4 @@
-# Lab / Emarsys
+# Lab / Product Dev / Emarsys
 Purpose: Earn money
 
 ## Roles

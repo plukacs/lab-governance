@@ -10,89 +10,36 @@ Purpose: Build Tech Ventures
 ### Admin - Virag
 Purpose: Unspecified.
 
+### Resource manager - Marci Banyo, Petak 
+Purpose: Clarity on out commitments and free resources
+
 ### Biz Dev	- Petak 
 Purpose: Unspecified.
 
-### Brickflow - Laci
-Purpose: Unspecified.
-
-### Culture - Petak 
-Purpose: Unspecified.
-
-### Employee handbook editor - Latest hire
-Purpose: Useful employee handbook
-
-#### Domain: Employee handbook
-
-### Engineering learning - Tojas
-Purpose: Unspecified.
-
-### English lesson organizer - David
-Purpose: Unspecified.
-
-#### Accountabilities
-- Scheduling events, notifying and updating members, preparing meeting agenda and booking location (especially booking a meeting room if needed)
-
-### Evangelizing / Representation - Petak
+### Evangelist, Representing - Petak
 Purpose: Unspecified.
 
 ### Finances - Virag
 Purpose: Unspecified.
 
-### HR & recruitment - Cassus, Petak
-Purpose: More fasza people for projects
-
-#### Domain: Salary system and peer-reviews
-
-##### Policy: Employee money
- - Salary formula: https://docs.google.com/spreadsheets/d/1kfwA4IM55vJ-dbh2-AKVupUe_kiNiwSjbA2N07_4RiE/edit#gid=65766471
- - Salary levels: https://docs.google.com/spreadsheets/d/1UEgP6s-GShg3j6ed25MpW_XIGpLYj-CfdiE5gAUnKu4/edit#gid=0
- - Glue levels: https://docs.google.com/spreadsheets/d/1UEgP6s-GShg3j6ed25MpW_XIGpLYj-CfdiE5gAUnKu4/edit#gid=1962070492
- - Glue multiplier: https://docs.google.com/spreadsheets/d/1UEgP6s-GShg3j6ed25MpW_XIGpLYj-CfdiE5gAUnKu4/edit#gid=437591356
-
-##### Policy: Part-time
-If you are an x% part-time employee in the Lab, you get x% pay and x% ownership. 
-This is a company level policy.
-
-##### Policy: Salary process
-Assessments based on Level and Glue indicators.
- 1. self assessment 
- 2. peer feedback with name (you'll only see your responses) 
- 3. no more edits/responses, results internally published 
- 4. display results + pitch + questions 
- 5. self-set levels and glue can be challenged by anyone until the next work day. Use the conflict resolution process.
-
-##### Policy: salary until no approved salary formula
-300k HUF net for everyone as this is the Brickflow legacy salary. 300k HUF net should be paid in May.
-
-##### Policy: Peer review frequency
-Peer reviews should be done every half year. New partners should be re-evaluated after 3 month they joined.
-
-
-### Jogi - Hoki
+### Legal - Hoki
 Purpose: Unspecified.
 
-### Org. Dev - Cassus
-Purpose: Develop other organizations
-
-### Org Dev Consultant - Cassus
+### Org Dev Consulting venture - Cassus
 Purpose: Unspecified.
 
-### PR - marketing - Dani 
+### PR, Marketing - Dani 
 Purpose: Unspecified.
 
-### Strategy - Marci Banyo, Petak, Tojas
+### Strategy, Vision, Mission  - Marci Banyo, Petak, Tojas
 Purpose: Define strategy
 
-### Supplies - Petak
+### Office and Supplies - Petak
 Purpose: Unspecified.
 
 #### Domain: Office equipments
 
-### Teaching - Tojas
-Purpose: Unspecified.
-
-### Vision / Mission - Petak
+### Teaching venture - Tojas
 Purpose: Unspecified.
 
 ## Domain: All functions & activities within the Circle
@@ -101,10 +48,6 @@ Purpose: Unspecified.
  - Proposals are announced and written down in English in the beginning
  - Again at the end
  - Put your proposal in words before the governance meeting in a Pull Request.
-
-### Policy: Bugfixing for clients
-Risk of bugs is managed in the planning phase preferably. 
-When time is needed for bugfixing it is communicated towards clients transparently, and financially dealt with according to the contract.
 
 ### Policy: Business trip reimbursement
 All costs during a business trip should be covered, including food, transportation, accommodation, representation costs within a common sense limit. No ***** hotel, no luxury. 
@@ -116,14 +59,6 @@ Keep your calendar free-busy status for work hours up to date. Pay extra attenti
 Share your calendar free-busy status publicly (or with everyone in the ContactSheet).
 
 ContactSheet: https://docs.google.com/spreadsheets/d/1311Z9D_srqIJhXcKYxcZV6xy0dS_ADp_k1SHI96G_PQ/edit#gid=0
-
-### Policy: Client relations
-Each project has a responsible. 
-Sales hands over the project once the deal is signed.
-
-### Policy: Client timeboxing
-If someone needs to work on a client job outside of the allocated timebox let the others (especially TLC lead link) know 
-Dedicate weekly 4 hours for the tactical and governance meeting.
 
 ### Policy: Collaboration should be above your work
 It is key to communicate seamlessly to work together. Make it a daily priority to answer your emails, slack messages, invites etc.
@@ -187,10 +122,6 @@ Facilitator keeps the log
 Old Brickflow beer debts are brought to the Brickflow farewell party 
 Postponing a meeting is OK if all parties agreed
 
-### Policy: Project leading
-Every project lead has to take responsibility in organizing meetings, liaising with clients, and do resource management for the project → mini project management 
-No other person (TLC lead link) should get into mini-projects
-
 ### Policy: Stand-up style
  - Focus on what was achieved yesterday and what is your goal for the day and what obstacles you have
 
@@ -232,6 +163,5 @@ Employees gain access to company credit cards after the 3rd month of employment.
 Probation time is 3 months, when it comes to ownership there is a one year cliff.
 
 ### Policy: Splitting collectively paid personal costs
-Use Splitwise mobile app. (https://www.splitwise.com)
+Use [Splitwise](https://www.splitwise.com) mobile app.
 
-### Policy: 
