@@ -9,41 +9,45 @@ Purpose: Build Tech Ventures
 
 ### Admin - Virag
 Purpose: Unspecified.
+Accountibility: Handling paperwork.
 
 ### Resource manager - Marci Banyo
-Purpose: Clarity on out commitments and free resources
+Purpose: Clarity on our commitments and available resources
 
 ### Biz Dev	- Petak 
 Purpose: Unspecified.
+Accountibility: 
 
-### Evangelist, Representing - Petak
+### Evangelist - Petak
 Purpose: Unspecified.
+Accountibility: Networking. Perticipating at events. Representing the organization in any public manner. Keeping good relation with the press and public figures. Building a trustwothy brand.
 
 ### Finances - Virag
 Purpose: Unspecified.
+Accountibility: Working with the accountant. Managing all financial issues.
 
 ### Legal - Hoki
 Purpose: Unspecified.
+Accountibility: Writing and reviewing all our contracts. Making sure our accounting and financial practices are legal.
 
-### Org Dev Consulting venture - Cassus
+### Consulting Branch - Cassus
 Purpose: Unspecified.
 
 ### PR, Marketing - Dani 
 Purpose: Unspecified.
+Accountibility: Copywriting, press outreach, website, social media, blog.
 
-### Strategy  -  Petak, Tojas
+### Strategy - Petak, Tojas
 Purpose: Define strategy
-Accountability: Preparing incubation projects
-Present KPIs and strategic changes monthly to the whole company.
+Accountability: Setting up mid and long run plans. Seeing the big picture. Overseeing the Lab's all activities as a system. Preparing incubation projects. Present KPIs and strategic changes monthly to the whole company.
 
 ### Office and Supplies - Virag
 Purpose: Unspecified.
+Accountibility: Buying food, office equipment, tech devices to the office. Managing the office's daily operations. Fixing broken things in the office.
 
-#### Domain: Office equipment
-
-### Teaching venture - Tojas
+### Education Branch - Tojas
 Purpose: Unspecified.
-
+Accountibility: Facilitating and leading educational projects.
 ## Domain: All functions & activities within the Circle
 
 ### Policy: Agenda building and administration
@@ -57,28 +61,30 @@ Preferably paid by a company bank card. Always provide invoices.
 
 ### Policy: Calendar and meetings (for everyone in the Lab)
 Have your calendar email address at ContactSheet. 
-Keep your calendar free-busy status for work hours up to date. Pay extra attention to mark full-day events as "busy" if you're not available. 
-Share your calendar free-busy status publicly (or with everyone in the ContactSheet).
+Share your private calendar free-busy status publicly (or with everyone in the ContactSheet). Keep your private calendar free-busy status for work hours up to date. Pay extra attention to mark full-day events as "busy" if you're not available. 
 
 ContactSheet: https://docs.google.com/spreadsheets/d/1311Z9D_srqIJhXcKYxcZV6xy0dS_ADp_k1SHI96G_PQ/edit#gid=0
 
 ### Policy: Collaboration should be above your work
 It is key to communicate seamlessly to work together. Make it a daily priority to answer your emails, slack messages, invites etc.
-If you (re)assign a task, the assignees has to accept, otherwise you are responsible for the task. No answer means that the assignee accepts. If you cannot accept it you should help finding an assignee.
 
-### Policy: Company financed Learning
-Get an invoice for the the company. Pay by company card/transfer if possible. 
-Up to 2000 EUR + VAT / person / year (incl. travel costs) 
-Make it transparent at https://docs.google.com/spreadsheets/d/1n1xfIGBuBe1IAIjhP-SUL0LrzrLgYIjZm2XaaFaV-rY/edit#gid=0
-Make a brownbag talk if possible.
+### Policy: Assigning Tasks
+If you (re)assign a task, the assignee has to accept, otherwise you are responsible for the task. No answer means that the assignee has accepted. If the asignee cannot accept it, he or she should help finding an assignee.
 
-### Policy: Learning
+### Policy: Learning - Company finance
+- Get an invoice for the the company. Pay by company card/transfer if possible. 
+- Up to 2000 EUR + VAT / person / year (incl. travel costs) 
+- Make it transparent at https://docs.google.com/spreadsheets/d/1n1xfIGBuBe1IAIjhP-SUL0LrzrLgYIjZm2XaaFaV-rY/edit#gid=0
+- Make a brownbag talk if possible.
+
+### Policy: Learning - FedExDay
 There is a FedEx day (a 24 hour "hackatlon") on the first Friday of every 3rd month. (First occasion: 2015-07-03)
 Every kind of project is welcomed (does not have to be Lab related).
 The teams have to arrive with a proposal and deliver the full project at the end of the day.
 
-### Policy: Employee benefits
- - tee: differentiate CBA (Tojás) and Kusmi (Anikó) quality 
+### Policy: Employee Benefits
+Office
+ - tee 
  - coffee 
  - beer 
  - wine 
@@ -86,36 +92,36 @@ The teams have to arrive with a proposal and deliver the full project at the end
  - fruit 
  - yogurt 
  - cereals 
- - szörp Szobi 
+ - 'szörp' 
  - dinner if working after 8pm 
  - Uber home of working later than 10pm
+Other
+- Risk (kockázati) life insurance for everyone for about the same amount. Some cost difference is ok.
+- Cell phone subsribtion
+- Cell phone device
+- Laptop
+- External screen
 
 ### Policy: Google Drive usage (non-negotiable)
- - keep all docs on drive in the respective folder 
- - download the Drive app for synchronization
+ - Keep all docs on drive in the respective folder.
+ - Use the Drive app for synchronization.
 
 ### Policy: Governance log
 All the policies are logged on Github.
 
 ### Policy: Holiday planning
  - Let others know about your holiday plans on Slack 
- - Let leadlink know 3x the length of your planned holiday (in workdays) before the start of it 
+ - Let leadlink know 5x the length of your planned holiday (in workdays) before the start of it 
  - Letting them know within this period doesn't mean that it's no allowed, but can result in decline (if your plan is not safe to fail)
 
 ### Policy: Language
 All our written documents must be in English unless it's not possible.
-
-### Policy: Life insurance
-Have (kockázati) life insurance for everyone for about the same amount. Some cost difference is ok.
 
 ### Policy: Meetings
 Take and share notes if relevant. If two people attend a meeting, one of them should take notes.
 
 ### Policy: Office hygiene
 Clean your desk everyday after yourself: no food, no dirty dishes. Leave the office clean every day. Do not risk that someone else, who walks in with a guest would feel ashamed. Or just throws up.
-
-### Policy: Pay everybody's mobile cost from the company
-Both subscription fee and devices.
 
 ### Policy: Penatly for being late from TLC stad-ups and meetings
 Who’s late from TLC stand-ups and meetings owes one beer/chocolate/one third of a bottle of wine for the team, there’s a paper on the door where we follow this 
