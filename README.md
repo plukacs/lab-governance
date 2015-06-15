@@ -109,6 +109,16 @@ Other
 ### Policy: Governance log
 All the policies are logged on Github.
 
+### Policy: Async governance process (TLC)
+1. Create a pull request from your proposal. Put your tension in the description of the pull request.
+2. Members of the circle have 3 days to ask questions, give reflections, voice objections.
+   - You can show your support with :+1:
+   - Mark your objections with :exclamation:. This signs to the proposer that the current from of the proposal would degrade the capacity of the Circle to express its Purpose or enact its Accountabilities. (See the [Constitution for the criteria for valid objections](https://github.com/holacracyone/Holacracy-Constitution/blob/master/Holacracy-Constitution.md#324-criteria-for-valid-objections))
+   - If you don't read the proposal in this time it's like when you don't attend the governance meeting. If the accepted proposal created tensions in your roles, please bring the tension and your proposal for the next governance meeting or create a new pull request.
+3. You can amend and clarify your proposal, integrate objections by adding changes to the pull request. The time window to raise objections restart with each change to the pull request.
+4. Merge the pull request if there are no objections in the given period.
+
+
 ### Policy: Holiday planning
  - Let others know about your holiday plans on Slack 
  - Let leadlink know 5x the length of your planned holiday (in workdays) before the start of it 
