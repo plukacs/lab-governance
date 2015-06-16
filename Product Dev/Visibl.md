@@ -12,7 +12,11 @@ Purpose: Unspecified.
 
 ### Meetings
 - _Standup_: report last day's achievments and the plan for next day on Slack #standup
-- _Tactical, governance, demo_: ToDo
+- _Tactical, governance, demo_: retrospective before the demo meeting
+  - go through the tickets
+  - if a ticket is not DONE by the time of the retrospective:
+    remove story point but keep in sprint; move remainging subtasks to the next sprint
+  - next sprint planning: reestimate remaining tickets
 
 ### Branching
 Use master branch
@@ -25,5 +29,6 @@ Use feature switches if needed.
 - (codeship success)
 - (deployed and works in production)
 
-### Acceptance criteria
-On the cards, as subtasks
+### A well defined task
+- only contains at maximum 1 new UI component
+- Acceptance criteria on the cards, as subtasks
