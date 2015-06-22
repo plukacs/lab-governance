@@ -36,3 +36,5 @@ Use feature switches if needed.
 
 ### Before starting a task commit test cases without bodies and review them together
 Our aim is to have the test titles ready before the estimation
+
+### If you run into foundation stuff, make a card for it so that others are aware
