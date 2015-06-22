@@ -26,6 +26,7 @@ Use feature switches if needed.
 ### Definition of DONE
 - works locally
 - has tests, unit tests, integration tests including UI interaction and mocked server
+- Looks good enough for the user to understand it (not less usable than the original version if there is such)
 - (codeship success)
 - (deployed and works in production)
 
