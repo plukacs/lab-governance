@@ -33,3 +33,6 @@ Use feature switches if needed.
 ### A well defined task
 - only contains at maximum 1 new UI component
 - Acceptance criteria on the cards, as subtasks
+
+### Before starting a task commit test cases without bodies and review them together
+Our aim is to have the test titles ready before the estimation
