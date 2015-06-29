@@ -8,6 +8,19 @@ Purpose: Unspecified.
 ### Facilitator - Dávid
 ### Secretary - Anikó
 
+## Steward Roles
+
+### Accountabilities
+- decides on foundation
+- reviews code
+- is responsible for quality
+
+### CSS - Anikó
+### Testing - Cassus
+### TradeDesk - David
+### Ruby backend - Erik
+### React - Cassus
+
 ## All functions & activities within the Circle
 
 ### Meetings
@@ -15,8 +28,9 @@ Purpose: Unspecified.
 - _Tactical, governance, demo_: retrospective before the demo meeting
   - go through the tickets
   - if a ticket is not DONE by the time of the retrospective:
-    remove story point but keep in sprint; move remainging subtasks to the next sprint
+    move it to the next sprint
   - next sprint planning: reestimate remaining tickets
+  - fill the todo after the demo, create clarification tasks for anything uncertain 
 
 ### Branching
 Use master branch
@@ -38,3 +52,6 @@ Use feature switches if needed.
 Our aim is to have the test titles ready before the estimation
 
 ### If you run into foundation stuff, make a card for it so that others are aware
+
+### Codeship
+- When you finish for the day, make sure that codeship is green. Revert if needed.
