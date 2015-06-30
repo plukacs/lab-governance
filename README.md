@@ -44,6 +44,9 @@ Purpose: Unspecified.
 ### Teaching venture - Tojas
 Purpose: Unspecified.
 
+### Events & community
+Purpose: Coordinate event organizing
+
 ## Domain: All functions & activities within the Circle
 
 ### Policy: Agenda building and administration
