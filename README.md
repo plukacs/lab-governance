@@ -48,6 +48,10 @@ Accountibility: Buying food, office equipment, tech devices to the office. Manag
 ### Education Branch - Tojas
 Purpose: Unspecified.
 Accountibility: Facilitating and leading educational projects.
+
+### Events & community
+Purpose: Coordinate event organizing
+
 ## Domain: All functions & activities within the Circle
 
 ### Policy: Agenda building and administration
@@ -95,12 +99,13 @@ Office
  - 'szörp' 
  - dinner if working after 8pm 
  - Uber home of working later than 10pm
+
 Other
-- Risk (kockázati) life insurance for everyone for about the same amount. Some cost difference is ok.
-- Cell phone subsribtion
-- Cell phone device
-- Laptop
-- External screen
+ - Risk (kockázati) life insurance for everyone for about the same amount. Some cost difference is ok.
+ - Cell phone subsribtion
+ - Cell phone device
+ - Laptop
+ - External screen
 
 ### Policy: Google Drive usage (non-negotiable)
  - Keep all docs on drive in the respective folder.
@@ -108,6 +113,16 @@ Other
 
 ### Policy: Governance log
 All the policies are logged on Github.
+
+### Policy: Async governance process (TLC)
+1. Create a pull request from your proposal. Put your tension in the description of the pull request.
+2. Members of the circle have 3 workdays to ask questions, give reflections, voice objections. Every pull request is automatically posted to Slack's #governance.
+   - You can show your support with :+1:
+   - Mark your objections with :exclamation:. This signs to the proposer that the current from of the proposal would degrade the capacity of the Circle to express its Purpose or enact its Accountabilities. (See the [Constitution for the criteria for valid objections](https://github.com/holacracyone/Holacracy-Constitution/blob/master/Holacracy-Constitution.md#324-criteria-for-valid-objections))
+   - If you don't read the proposal in this time it's like when you don't attend the governance meeting. If the accepted proposal created tensions in your roles, please bring the tension and your proposal for the next governance meeting or create a new pull request.
+3. You can amend and clarify your proposal, integrate objections by adding changes to the pull request. The time window to raise objections restart with each change to the pull request.
+4. Merge the pull request if there are no objections in the given period.
+
 
 ### Policy: Holiday planning
  - Let others know about your holiday plans on Slack 
@@ -163,8 +178,11 @@ Employees gain access to company credit cards after the 3rd month of employment.
 ### Policy: Probation time and ownership cliff
 Probation time is 3 months, when it comes to ownership there is a one year cliff.
 
-### Policy: Splitting collectively paid personal costs
-Use [Splitwise](https://www.splitwise.com) mobile app.
+### Policy: Financial Liability Accounting
+To account any kinds of financial liabilities, we use [Splitwise](https://www.splitwise.com) mobile app.
+- You owe the company
+- You paid something on behalf of the company, so the company owes you
+- Someone in the team paid you something personal, like lunch
 
 ### Policy: Participation in salary and ownership related policy changes
 Anyone working at the organization can bring tensions and participate in the salary and ownership related policy changes.
