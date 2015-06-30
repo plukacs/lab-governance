@@ -111,7 +111,7 @@ All the policies are logged on Github.
 
 ### Policy: Async governance process (TLC)
 1. Create a pull request from your proposal. Put your tension in the description of the pull request.
-2. Members of the circle have 3 days to ask questions, give reflections, voice objections.
+2. Members of the circle have 3 workdays to ask questions, give reflections, voice objections. Every pull request is automatically posted to Slack's #governance.
    - You can show your support with :+1:
    - Mark your objections with :exclamation:. This signs to the proposer that the current from of the proposal would degrade the capacity of the Circle to express its Purpose or enact its Accountabilities. (See the [Constitution for the criteria for valid objections](https://github.com/holacracyone/Holacracy-Constitution/blob/master/Holacracy-Constitution.md#324-criteria-for-valid-objections))
    - If you don't read the proposal in this time it's like when you don't attend the governance meeting. If the accepted proposal created tensions in your roles, please bring the tension and your proposal for the next governance meeting or create a new pull request.
