@@ -129,6 +129,9 @@ All the policies are logged on Github.
  - Let your circles' leadlink know 3x the length of your planned holiday (in workdays) before the start of it, but minimum 5 workdays before
  - Letting them know within this period doesn't mean that it's no allowed, but can result in decline (if your plan is not safe to fail)
 
+### Policy: Home office
+Let your circle know on the previous day if you're working from home all day long.
+
 ### Policy: Language
 All our written documents must be in English unless it's not possible.
 
@@ -192,4 +195,5 @@ To account any kinds of financial liabilities, we use [Splitwise](https://www.sp
 ### Policy: Participation in salary and ownership related policy changes
 Anyone working at the organization can bring tensions and participate in the salary and ownership related policy changes.
 This should be announced 24 hrs prior to the meeting.
+
 
