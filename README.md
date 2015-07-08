@@ -175,16 +175,9 @@ Use [Asana](https://app.asana.com/0/31935013151061) for top level circle boards
 ### Policy: Credit card usage
 Employees gain access to company credit cards after the 3rd month of employment.
 
-### Policy: Probation time and ownership cliff
-Probation time is 3 months, when it comes to ownership there is a one year cliff.
-
 ### Policy: Financial Liability Accounting
 To account any kinds of financial liabilities, we use [Splitwise](https://www.splitwise.com) mobile app.
 - You owe the company
 - You paid something on behalf of the company, so the company owes you
 - Someone in the team paid you something personal, like lunch
-
-### Policy: Participation in salary and ownership related policy changes
-Anyone working at the organization can bring tensions and participate in the salary and ownership related policy changes.
-This should be announced 24 hrs prior to the meeting.
 
