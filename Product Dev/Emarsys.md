@@ -5,7 +5,7 @@ Purpose: Earn money
 
 ### Lead Link - Tojas 
 ### Rep Link - Laci	
-### Facilitator - Dani
+### Facilitator - Laci
 ### Secretary - Marci
 
 ### Scrum master - 	
@@ -68,3 +68,19 @@ Sick people aren't counted in the reestimation for that week.
 ### Policy: Timesheet
 At the end of the day fill in the timesheet.
 
+### Policy: Standup
+The circle's Facilitator leads the meeting. The default time is 9:30 AM.
+It is mandatory for all the developers to attend, in case of home-office he/she should join on Hangouts.
+It is not mandatory but recommended for PO-s.
+
+The fix agenda for the meeting:
+- Daily commitment (How to demo it)
+- Dependencies
+- Schedule next standup and tomorrow's meetings
+- Timesheet
+- Burndown chart
+- Contribution graph
+
+### Policy: Home office
+Let your circle know on the previous day if you're working from home all day long.
+Write your request on the slack channel. If nobody has objection, you are free to stay home.
