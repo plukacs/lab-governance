@@ -126,8 +126,11 @@ All the policies are logged on Github.
 
 ### Policy: Holiday planning
  - Let others know about your holiday plans on Slack 
- - Let leadlink know 3x the length of your planned holiday (in workdays) before the start of it 
+ - Let your circles' leadlink know 3x the length of your planned holiday (in workdays) before the start of it, but minimum 5 workdays before
  - Letting them know within this period doesn't mean that it's no allowed, but can result in decline (if your plan is not safe to fail)
+
+### Policy: Home office
+Let your circle know on the previous day if you're working from home all day long.
 
 ### Policy: Language
 All our written documents must be in English unless it's not possible.
@@ -174,6 +177,11 @@ Use [Asana](https://app.asana.com/0/31935013151061) for top level circle boards
 
 ### Policy: Credit card usage
 Employees gain access to company credit cards after the 3rd month of employment.
+
+### Policy: Asset purchases
+If you need to purchase some asset for the company and you have passed the 3rd month of your employment you can buy it (with the company card preferably) up to 200 EUR/year/asset class. Give the invoice to the finance role and add the newly purchased asset to the asset inventory.
+If it is above 200 EUR or you do not want to make the decision yourself you can ask the finance role about the purchase.
+If you do not want to do the purchase yourself ask the office role.
 
 ### Policy: Financial Liability Accounting
 To account any kinds of financial liabilities, we use [Splitwise](https://www.splitwise.com) mobile app.
