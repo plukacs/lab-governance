@@ -62,13 +62,14 @@ Purpose: Coordinate event organizing
  - Again at the end
  - Put your proposal in words before the governance meeting in a Pull Request.
 
-### Policy: Async governance process
+### Policy: Async governance process (TLC)
 1. Create a pull request from your proposal. Put your tension in the description of the pull request.
-2. Members of the circle have 3 workdays to ask questions, give reflections, voice objections. Every pull request is automatically posted to Slack's #governance.
-   - You can show your support with :+1:
-   - Mark your objections with :exclamation:. This signs to the proposer that the current from of the proposal would degrade the capacity of the Circle to express its Purpose or enact its Accountabilities. (See the [Constitution for the criteria for valid objections](https://github.com/holacracyone/Holacracy-Constitution/blob/master/Holacracy-Constitution.md#324-criteria-for-valid-objections))
+2. Members of the circle have 3 workdays to ask Clarifying Questions, give Reactions, voice Objections. Every pull request is automatically posted to Slack's #governance.
+   - You can show your support with :+1: ( that is _colon_ + "+1" + _colon_ )
+   - If you have a Clarifying Question and it block you from deciding if you have an Objection mark your question with :question: ( that is _colon_ + "question" + _colon_ ). This blocks the proposal until the proposer clarifies. 
+   - Mark your Objections with :exclamation: ( that is _colon_ + "exclamation" + _colon_ ). This signs to the proposer that the current from of the proposal would degrade the capacity of the Circle to express its Purpose or enact its Accountabilities. (See the [Constitution for the criteria for valid objections](https://github.com/holacracyone/Holacracy-Constitution/blob/master/Holacracy-Constitution.md#324-criteria-for-valid-objections))
    - If you don't read the proposal in this time it's like when you don't attend the governance meeting. If the accepted proposal created tensions in your roles, please bring the tension and your proposal for the next governance meeting or create a new pull request.
-3. You can amend and clarify your proposal, integrate objections by adding changes to the pull request. The time window to raise objections restart with each change to the pull request.
+3. You can amend and clarify your proposal, integrate objections by adding changes to the pull request. The time window for Clarifying Questions, Reactions and Objections restart with each amendment or clarification.
 4. Merge the pull request if there are no objections in the given period.
 
 ### Policy: Penatly for being late from TLC stad-ups and meetings
