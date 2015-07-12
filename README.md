@@ -9,7 +9,10 @@ Purpose: Build Tech Ventures
 
 ### Admin - Virag
 Purpose: Unspecified.
-Accountibility: Handling paperwork.
+Accountibility:
+ - Handling paperwork.
+ - Managing Partner data (birth, name, tax number ...).
+ - Pre-filling admin forms with all known data before sending it to Partners.
 
 ### Resource manager - Marci Banyo
 Purpose: Clarity on our commitments and available resources
