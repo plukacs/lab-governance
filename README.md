@@ -122,8 +122,6 @@ Other
 Probation period: 3 months.
 After probation time, employees gain
 - access to company credit cards
-- health risk insurance
-- company cell phone + company plan
 
 ### Policy: Asset purchases
 If you need to purchase some asset for the company and you have passed the 3rd month of your employment you can buy it (with the company card preferably) up to 200 EUR/year/asset class. Give the invoice to the finance role and add the newly purchased asset to the asset inventory.
