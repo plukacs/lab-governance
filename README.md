@@ -166,7 +166,7 @@ All the policies are logged on Github.
 
 ### Policy: Holiday planning
  - Let others know about your holiday plans on Slack 
- - Let your circles' leadlink know 3x the length of your planned holiday (in workdays) before the start of it, but minimum 5 workdays before
+ - Let your circles' leadlink and your clients know 3x the length of your planned holiday (in workdays) before the start of it, but minimum 5 workdays before in writing
  - Letting them know within this period doesn't mean that it's no allowed, but can result in decline (if your plan is not safe to fail)
 
 ### Policy: Home office
