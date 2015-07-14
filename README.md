@@ -98,6 +98,7 @@ Preferably paid by a company bank card. Always provide invoices.
 - Make a brownbag talk if possible.
 
 ### Policy: Employee Benefits (for everyone and all circles in the Lab)
+
 Office
  - tea 
  - coffee 
@@ -108,15 +109,17 @@ Office
  - yogurt 
  - cereals 
  - 'szörp' 
+
+Services
  - dinner if working after 8pm 
  - Uber home of working later than 10pm
-
-Other
  - Risk (kockázati) life insurance for everyone for about the same amount. Some cost difference is ok.
- - Cell phone subsribtion
- - Cell phone device
- - Laptop
- - External screen
+ - Company cell phone plan, not restricting the employees in-land voice or data usage. Unlimited roaming only for business purposes.
+
+Devices
+- Cell phone up to 400 EUR + VAT. iPhone (as it is more expensive) can only be paid, if the person is an iOS developer or if it is a must have for his or her work for another reason. If the employee wants to buy a more expensive device than the difference must be reimbursed. In case the employee would leave the company, he or she should buy that phone from the company on the market price.
+- Laptop. Preferably with 3 year, on site warranty. Due price-value balance and short warranty, Mac only if it is a must.
+- External screen.
 
 ### Policy: Credit card usage
 Employees gain access to company credit cards after the 3rd month of employment.
