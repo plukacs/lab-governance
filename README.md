@@ -125,8 +125,10 @@ NOT available for part time or during probation time.
 - Laptop. Preferably with 3 year, on site warranty. Due price-value balance and short warranty, Mac only if it is worth due productivity or a must. If an employee has a good enough laptop, the company could buy it on market price, if it financially makes sense, decided case by case.
 - External screen.
 
-### Policy: Credit card usage
-Employees gain access to company credit cards after the 3rd month of employment.
+### Policy: Probation
+Probation period: 3 months.
+After probation time, employees gain
+- access to company credit cards
 
 ### Policy: Company purchases
 If you need to purchase some asset or service for the company (and you have passed the 3rd month of your employment) you can buy it (preferably with the company card to ease administration) up to 200 EUR/year/asset class.
