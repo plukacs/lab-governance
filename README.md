@@ -75,6 +75,9 @@ Purpose: Coordinate event organizing
 3. You can amend and clarify your proposal, integrate objections by adding changes to the pull request. The time window for Clarifying Questions, Reactions and Objections restart with each amendment or clarification.
 4. Merge the pull request if there are no objections in the given period.
 
+### Policy: Long policies
+Policy proposals longer than 10 sentences should be sent out on Slack to raise attention to enable the circle to prepare properly for the governance meeting.
+
 ### Policy: Penatly for being late from TLC stad-ups and meetings
 Who’s late from TLC stand-ups and meetings owes one beer/chocolate/one third of a bottle of wine for the team, there’s a paper on the door where we follow this 
 Except when someone lets the others know that s/he is not coming at least 1h before the meeting, and the meeting should be started without them 
