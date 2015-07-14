@@ -111,13 +111,16 @@ Office
  - 'szörp' 
 
 Services
- - dinner if working after 8pm 
+ - Dinner if working after 8pm 
  - Uber home of working later than 10pm
  - Risk (kockázati) life insurance for everyone for about the same amount. Some cost difference is ok.
+   NOT available for part time or during probation time.
  - Company cell phone plan, not restricting the employees in-land voice or data usage. Unlimited roaming only for business purposes.
+   NOT available for part time or during probation time.
 
 Devices
 - Cell phone up to 400 EUR + VAT. iPhone (as it is more expensive) can only be paid, if the person is an iOS developer or if it is a must have for his or her work for another reason. If the employee wants to buy a more expensive device than the difference must be reimbursed. In case the employee would leave the company, he or she should buy that phone from the company on the market price.
+NOT available for part time or during probation time.
 - Laptop. Preferably with 3 year, on site warranty. Due price-value balance and short warranty, Mac only if it is a must.
 - External screen.
 
