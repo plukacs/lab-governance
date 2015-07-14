@@ -120,8 +120,10 @@ Services
 
 Devices
 - Cell phone up to 400 EUR + VAT. iPhone (as it is more expensive) can only be paid, if the person is an iOS developer or if it is a must have for his or her work for another reason. If the employee wants to buy a more expensive device than the difference must be reimbursed. In case the employee would leave the company, he or she should buy that phone from the company on the market price.
+Only on request.
 NOT available for part time or during probation time.
 - Laptop. Preferably with 3 year, on site warranty. Due price-value balance and short warranty, Mac only if it is a must.
+If an employee has a good enough laptop, the company could buy it on market price, if it financiall makes sense. Decided case by case.
 - External screen.
 
 ### Policy: Credit card usage
