@@ -117,6 +117,7 @@ Services
  - Dinner if working after 8pm 
  - Uber home of working later than 10pm
  - Risk (kockázati) life insurance for everyone for about the same amount. Some cost difference is ok.
+ - Personal income tax report filed by the company's accountant.
    NOT available for part time or during probation time.
  - Company cell phone plan, not restricting the employees in-land voice or data usage. Unlimited roaming only for business purposes.
    NOT available for part time or during probation time.
