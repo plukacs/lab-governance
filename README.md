@@ -7,14 +7,14 @@ Purpose: Build Tech Ventures
 ### Facilitator - Cassus
 ### Secretary - Dani
 
-### Admin - Virag
+### Admin - Virag, Petak
 Purpose: Unspecified.
 Accountibility: Handling paperwork.
 
 ### Resource manager - Marci Banyo
 Purpose: Clarity on our commitments and available resources
 
-### Biz Dev	- Petak 
+### Biz, Biz Dev	- Petak 
 Purpose: Unspecified.
 Accountibility: 
 
@@ -26,7 +26,7 @@ Accountibility: Networking. Perticipating at events. Representing the organizati
 Purpose: Unspecified.
 Accountibility: Working with the accountant. Managing all financial issues.
 
-### Legal - Hoki
+### Legal - Petak (Nora Kiss)
 Purpose: Unspecified.
 Accountibility: Writing and reviewing all our contracts. Making sure our accounting and financial practices are legal.
 
@@ -49,7 +49,7 @@ Accountibility: Buying food, office equipment, tech devices to the office. Manag
 Purpose: Unspecified.
 Accountibility: Facilitating and leading educational projects.
 
-### Events & community
+### Events & community - Aniko
 Purpose: Coordinate event organizing
 
 
