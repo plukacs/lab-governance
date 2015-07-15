@@ -52,6 +52,10 @@ Accountibility: Buying food, office equipment, tech devices to the office. Manag
 Purpose: Unspecified.
 Accountibility: Facilitating and leading educational projects.
 
+### Support - Jeszi
+Purpose: Unspecified.
+Accountibility: fix tech stuff around office
+
 ### Events & community - Aniko
 Purpose: Coordinate event organizing
 
