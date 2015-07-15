@@ -76,7 +76,7 @@ Purpose: Coordinate event organizing
 4. Merge the pull request if there are no objections in the given period.
 
 ### Policy: Long policies
-Policy proposals longer than 10 sentences should be sent out on Slack to raise attention to enable the circle to prepare properly for the governance meeting. If the policy if complex than pre-governance discussions are preferable.
+Policy proposals longer than 10 sentences must be shared at least 48h before the governance meeting to enable the circle to prepare properly for the governance meeting. If the policy if complex than pre-governance discussions are preferable.
 
 ### Policy: Penatly for being late from TLC stad-ups and meetings
 Who’s late from TLC stand-ups and meetings owes one beer/chocolate/one third of a bottle of wine for the team, there’s a paper on the door where we follow this 
