@@ -1,4 +1,4 @@
-# Lab / Culture and Learning
+# Lab / Learning
 Purpose: Unspecified.
 
 ## Roles
