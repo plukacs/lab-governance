@@ -54,7 +54,7 @@ Accountibility: Facilitating and leading educational projects.
 
 ### Support - Jeszi
 Purpose: Unspecified.
-Accountibility: fix tech stuff around office
+Accountibility: fix tech stuff around office: TV, wifi, printer, updateing computers, calling Dell waranty service etc
 
 ### Events & community - Aniko
 Purpose: Coordinate event organizing
