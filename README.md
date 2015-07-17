@@ -52,7 +52,7 @@ Accountibility: Buying food, office equipment, tech devices to the office. Manag
 Purpose: Unspecified.
 Accountibility: Facilitating and leading educational projects.
 
-### Support - Jeszi
+### Tech Support - Jeszi
 Purpose: Unspecified.
 Accountibility: fix tech stuff around office: TV, wifi, printer, updateing computers, calling Dell waranty service etc
 
