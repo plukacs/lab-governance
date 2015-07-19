@@ -128,6 +128,9 @@ NOT available for part time or during probation time.
 - Laptop. Preferably with 3 year, on site warranty. Due price-value balance and short warranty, Mac only if it is worth due productivity or a must. If an employee has a good enough laptop, the company could buy it on market price, if it financially makes sense, decided case by case.
 - External screen.
 
+### Policy: Insurance deductible
+- Company covers all devices with an insurance plan. In case somebody: physically breaks breaks, loosest or gets stolen a device outside the office than that person needs to pay the insurance deductible.
+
 ### Policy: Probation
 Probation period: 3 months.
 After probation time, employees gain
