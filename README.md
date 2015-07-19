@@ -129,7 +129,7 @@ NOT available for part time or during probation time.
 - External screen.
 
 ### Policy: Insurance deductible
-- Company covers all devices with an insurance plan. In case somebody: physically breaks breaks, loosest or gets stolen a device outside the office than that person needs to pay the insurance deductible.
+- Company covers all devices with an insurance plan. In case somebody: physically breaks, looses or gets stolen a device outside the office than that person needs to pay the insurance deductible.
 
 ### Policy: Probation
 Probation period: 3 months.
