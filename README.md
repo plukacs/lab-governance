@@ -20,6 +20,7 @@ Purpose: Clarity on our commitments and available resources
 ### Biz, Biz Dev	- Petak 
 Purpose: Unspecified.
 Accountibility: 
+- Decide about non-human insurance plans.
 
 ### Evangelist - Petak
 Purpose: Unspecified.
