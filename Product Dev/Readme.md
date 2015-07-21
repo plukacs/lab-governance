@@ -23,6 +23,10 @@ Purpose: Unspecified.
 ### Estimator - all senior+ dev
 Purpose: Unspecified.
 
+### Shiwaforce - Dani
+Purpose: Unspecified.
+
+
 ## Domain: All functions & activities within the Circle
 
 ### Policy: Bugfixing for clients
