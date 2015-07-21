@@ -139,7 +139,7 @@ If you need to purchase some asset or service for the company (and you have pass
 - Add the newly purchased asset to the asset inventory. https://goo.gl/AzyIEF
 - Before deciding on the purchase take advice from the roles/people the purchase will affect (for example: finance, office, biz).
 
-If it is above 200 EUR or you do not want to make the decision yourself you can ask the finance role about the purchase.
+If it is above 200 EUR or you do not want to make the decision yourself you can ask the finance and biz role about the purchase.
 
 If you do not want to do the purchase yourself ask the office role.
 
