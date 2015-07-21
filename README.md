@@ -33,7 +33,7 @@ Accountibility: Working with the accountant. Managing all financial issues.
 Purpose: Unspecified.
 Accountibility: Writing and reviewing all our contracts. Making sure our accounting and financial practices are legal.
 
-### Consulting Branch - Cassus
+### OrgDev Consulting Branch - Cassus
 Purpose: Unspecified.
 
 ### PR, Marketing - Dani 
