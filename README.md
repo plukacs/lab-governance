@@ -230,3 +230,26 @@ Private:
 ### Policy: Transparent task progress report
 Make sure every week, before the tactical meeting, that all your cards are up-to-date. 
 Comment on cards what you tell on tactical as update.
+
+### Policy: Conflict resolution process (for all circles and roles)
+Applies to any type of disagreement. This could be a difference of opinion about a technical decision, an interpersonal conflict or a breach of values. Specifically, it can be used in performance issues when one colleague believes that another is not pulling his weight.
+
+Since the disagreement is private, all parties are expected to respect confidentiality during and after the processes. Of course, this confidentiality also applies to the two persons at the heart of the conflict. They must resolve their disagreement between themselves and are discouraged from spreading the conflict by enlisting support and building rival factions.
+
+ 1. Whatever the topic, the process starts with one person asking another to gain agreement: In a first phase, they sit together and try to sort it out privately. Both parties should use NonViolent Communication practices to communicate clear Observation, Feelings, Needs, Requests and Responses
+
+   - Observation: the facts (what we are seeing, hearing, or touching) as distinct from our evaluation of meaning and significance. NVC discourages static generalizations. It is said that "When we combine observation with evaluation others are apt to hear criticism and resist what we are saying." Instead, a focus on observations specific to time and context is recommended.
+   - Feelings: emotions or sensations, free of thought and story. These are to be distinguished from thoughts (e.g., "I feel I didn't get a fair deal") and from words colloquially used as feelings but which convey what we think we are (e.g., "inadequate"), how we think others are evaluating us (e.g., "unimportant"), or what we think others are doing to us (e.g., "misunderstood", "ignored"). Feelings are said to reflect whether we are experiencing our needs as met or unmet. Identifying feelings is said to allow us to more easily connect with one another, and allowing ourselves to be vulnerable by expressing our feelings can help resolve conflicts.
+   - Needs: universal human needs, as distinct from particular strategies for meeting needs.
+   - Request: request for a specific action, free of demand. Requests are distinguished from demands in that one is open to hearing a response of "no" without this triggering an attempt to force the matter. If one makes a request and receives a "no" it is recommended not that one give up, but that one empathize with what is preventing the other person from saying "yes," before deciding how to continue the conversation. It is recommended that requests use clear, positive, concrete action language.
+   - Response: The receiving person has to respond clearly to the request:
+     - with a "yes"
+     - needs that prevent you from saying yes,
+     - and/or a counterproposal.
+
+
+ 1. If they can’t find a solution agreeable to both of them, they nominate a colleague they both trust to act as a mediator. The mediator doesn’t impose a decision. Rather he or she supports the participants in coming to their own solution.
+
+ 1. If mediation fails, a panel of topic-relevant colleagues is convened. The panel’s role, again, is to listen and help shape agreement. It cannot force a decision, but usually carries enough moral weight for matters to come to a conclusion.
+
+ 1. In an ultimate step, the Top Level Circle Lead Link, can be called into the panel, to further reinforce the panel’s moral weight (but not to impose a solution).
