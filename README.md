@@ -78,7 +78,7 @@ Purpose: Coordinate event organizing
    - Mark your Objections with :exclamation: ( that is _colon_ + "exclamation" + _colon_ ). This signs to the proposer that the current from of the proposal would degrade the capacity of the Circle to express its Purpose or enact its Accountabilities. (See the [Constitution for the criteria for valid objections](https://github.com/holacracyone/Holacracy-Constitution/blob/master/Holacracy-Constitution.md#324-criteria-for-valid-objections))
    - If you don't read the proposal in this time it's like when you don't attend the governance meeting. If the accepted proposal created tensions in your roles, please bring the tension and your proposal for the next governance meeting or create a new pull request.
 3. You can amend and clarify your proposal, integrate objections by adding changes to the pull request. The time window for Clarifying Questions, Reactions and Objections restart with each amendment or clarification.
-4. Merge the pull request if there are no objections in the given period.
+4. The circle's secretary has to merge the pull request if there are no objections in the given period.
 
 ### Policy: Long policies
 Policy proposals longer than 10 sentences must be shared at least 48h before the governance meeting to enable the circle to prepare properly for the governance meeting. If the policy if complex than pre-governance discussions are preferable.
