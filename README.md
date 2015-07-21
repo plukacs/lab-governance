@@ -85,9 +85,6 @@ Postponing a meeting is OK if all parties agreed
 ### Policy: Asana for top level boards
 Use [Asana](https://app.asana.com/0/31935013151061) for top level circle boards
 
-
-
-
 ## Domain: Company resources (mandatory for all roles and circles)
 
 ### Policy: Business trip reimbursement
@@ -127,6 +124,9 @@ Only on request.
 NOT available for part time or during probation time.
 - Laptop. Preferably with 3 year, on site warranty. Due price-value balance and short warranty, Mac only if it is worth due productivity or a must. If an employee has a good enough laptop, the company could buy it on market price, if it financially makes sense, decided case by case.
 - External screen.
+
+### Policy: Device security
+Prey application has to be installed on each and every company cell phones and laptops. The responsibile person is always the user of the device. https://preyproject.com/
 
 ### Policy: Probation
 Probation period: 3 months.
