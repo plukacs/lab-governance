@@ -3,7 +3,7 @@ Purpose: Unspecified.
 
 ## Roles
 
-### Lead Link - Banyo
+### Lead Link - Petak
 ### Rep Link -
 ### Facilitator -
 ### Secretary -
@@ -11,10 +11,19 @@ Purpose: Unspecified.
 ### Brickflow - Laci
 Purpose: Unspecified.
 
-### SmartDrive - Dani
+### TechLead - Tojas
 Purpose: Unspecified.
 
-### TechLead - Tojas
+### Sales - Petak
+Purpose: Unspecified.
+
+### Biz analyst - Banyo Marci
+Purpose: Unspecified.
+
+### Estimator - all senior+ dev
+Purpose: Unspecified.
+
+### Shiwaforce - Dani
 Purpose: Unspecified.
 
 
