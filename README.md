@@ -20,6 +20,7 @@ Purpose: Clarity on our commitments and available resources
 ### Biz, Biz Dev	- Petak 
 Purpose: Unspecified.
 Accountibility: 
+- Decide about non-human insurance plans.
 
 ### Evangelist - Petak
 Purpose: Unspecified.
@@ -36,7 +37,7 @@ Accountibility: Writing and reviewing all our contracts. Making sure our account
 ### OrgDev Consulting Branch - Cassus
 Purpose: Unspecified.
 
-### PR, Marketing - Dani 
+### PR, Marketing - Dani
 Purpose: Unspecified.
 Accountibility: Copywriting, press outreach, website, social media, blog.
 
@@ -73,7 +74,7 @@ Purpose: Coordinate event organizing
 1. Create a pull request from your proposal. Put your tension in the description of the pull request.
 2. Members of the circle have 3 workdays to ask Clarifying Questions, give Reactions, voice Objections. Every pull request is automatically posted to Slack's #governance.
    - You can show your support with :+1: ( that is _colon_ + "+1" + _colon_ )
-   - If you have a Clarifying Question and it block you from deciding if you have an Objection mark your question with :question: ( that is _colon_ + "question" + _colon_ ). This blocks the proposal until the proposer clarifies. 
+   - If you have a Clarifying Question and it block you from deciding if you have an Objection mark your question with :question: ( that is _colon_ + "question" + _colon_ ). This blocks the proposal until the proposer clarifies.
    - Mark your Objections with :exclamation: ( that is _colon_ + "exclamation" + _colon_ ). This signs to the proposer that the current from of the proposal would degrade the capacity of the Circle to express its Purpose or enact its Accountabilities. (See the [Constitution for the criteria for valid objections](https://github.com/holacracyone/Holacracy-Constitution/blob/master/Holacracy-Constitution.md#324-criteria-for-valid-objections))
    - If you don't read the proposal in this time it's like when you don't attend the governance meeting. If the accepted proposal created tensions in your roles, please bring the tension and your proposal for the next governance meeting or create a new pull request.
 3. You can amend and clarify your proposal, integrate objections by adding changes to the pull request. The time window for Clarifying Questions, Reactions and Objections restart with each amendment or clarification.
@@ -83,10 +84,10 @@ Purpose: Coordinate event organizing
 Policy proposals longer than 10 sentences must be shared at least 48h before the governance meeting to enable the circle to prepare properly for the governance meeting. If the policy if complex than pre-governance discussions are preferable.
 
 ### Policy: Penatly for being late from TLC stad-ups and meetings
-Who’s late from TLC stand-ups and meetings owes one beer/chocolate/one third of a bottle of wine for the team, there’s a paper on the door where we follow this 
-Except when someone lets the others know that s/he is not coming at least 1h before the meeting, and the meeting should be started without them 
-Facilitator keeps the log 
-Old Brickflow beer debts are brought to the Brickflow farewell party 
+Who’s late from TLC stand-ups and meetings owes one beer/chocolate/one third of a bottle of wine for the team, there’s a paper on the door where we follow this
+Except when someone lets the others know that s/he is not coming at least 1h before the meeting, and the meeting should be started without them
+Facilitator keeps the log
+Old Brickflow beer debts are brought to the Brickflow farewell party
 Postponing a meeting is OK if all parties agreed
 
 ### Policy: Asana for top level boards
@@ -98,33 +99,33 @@ Use [Asana](https://app.asana.com/0/31935013151061) for top level circle boards
 All costs during a business trip should be covered, including food, transportation, accommodation, representation costs.
 Preferably paid by a company bank card. Always provide invoices.
 Costs of business meeting (coffees / lunches / dinnerrs / beers etc.) and beer dates can be fully reimbursed.
-All costs must be within a common sense limit. No ***** hotel, no luxury. 
+All costs must be within a common sense limit. No ***** hotel, no luxury.
 
 ### Policy: Company financed learning (for everyone and all circles in the Lab)
-- Get an invoice for the the company. Pay by company card/transfer if possible. 
-- Up to 2000 EUR + VAT / person / year (incl. travel costs) 
+- Get an invoice for the the company. Pay by company card/transfer if possible.
+- Up to 2000 EUR + VAT / person / year (incl. travel costs)
 - Make it transparent at https://docs.google.com/spreadsheets/d/1n1xfIGBuBe1IAIjhP-SUL0LrzrLgYIjZm2XaaFaV-rY/edit#gid=0
 - Make a brownbag talk if possible.
 
 ### Policy: Employee Benefits (for everyone and all circles in the Lab)
 
 Office
- - tea 
- - coffee 
- - beer 
- - wine 
- - sparkling water aka szóda 
- - fruit 
- - yogurt 
- - cereals 
- - 'szörp' 
+ - tea
+ - coffee
+ - beer
+ - wine
+ - sparkling water aka szóda
+ - fruit
+ - yogurt
+ - cereals
+ - 'szörp'
 
 Services
- - Dinner if working after 8pm 
+ - Dinner if working after 8pm
  - Uber home of working later than 10pm
  - Risk (kockázati) life insurance for everyone for about the same amount. Some cost difference is ok.
  - Personal income tax report filed by the company's accountant.
-   NOT available for part time or during probation time. (If you are part time than the company can not oversee all your major activities  so we can not take responsibility for filing your report. You only get your first divident after the end of your probation time, so this is why we won't file your report until being at the company for the long run.) We file the employees' report only about fiscal years she he worked at the company. We do not file the report if you don't work at the company at the time of filing the report. 
+   NOT available for part time or during probation time. (If you are part time than the company can not oversee all your major activities  so we can not take responsibility for filing your report. You only get your first divident after the end of your probation time, so this is why we won't file your report until being at the company for the long run.) We file the employees' report only about fiscal years she he worked at the company. We do not file the report if you don't work at the company at the time of filing the report.
  - Company cell phone plan, not restricting the employees in-land voice or data usage. Unlimited roaming only for business purposes.
    NOT available for part time or during probation time.
 
@@ -134,6 +135,9 @@ Only on request.
 NOT available for part time or during probation time.
 - Laptop. Preferably with 3 year, on site warranty. Due price-value balance and short warranty, Mac only if it is worth due productivity or a must. If an employee has a good enough laptop, the company could buy it on market price, if it financially makes sense, decided case by case.
 - External screen.
+
+### Policy: Insurance deductible
+- Company covers all devices with an insurance plan. In case somebody: physically breaks, looses or gets stolen a device outside the office than that person needs to pay the insurance deductible.
 
 ### Policy: Device security
 Prey application has to be installed on each and every company cell phones and laptops. The responsibile person is always the user of the device. https://preyproject.com/
@@ -168,8 +172,8 @@ To account any kinds of financial liabilities, we use [Splitwise](https://www.sp
 ## Domain: other Company-Wide policies (default for all roles and circles)
 
 ### Policy: Calendar and meetings
-Have your calendar email address at ContactSheet. 
-Share your private calendar free-busy status publicly (or with everyone in the ContactSheet). Keep your private calendar free-busy status for work hours up to date. Pay extra attention to mark full-day events as "busy" if you're not available. 
+Have your calendar email address at ContactSheet.
+Share your private calendar free-busy status publicly (or with everyone in the ContactSheet). Keep your private calendar free-busy status for work hours up to date. Pay extra attention to mark full-day events as "busy" if you're not available.
 
 ContactSheet: https://docs.google.com/spreadsheets/d/1311Z9D_srqIJhXcKYxcZV6xy0dS_ADp_k1SHI96G_PQ/edit#gid=0
 
@@ -192,7 +196,7 @@ The teams have to arrive with a proposal and deliver the full project at the end
 All the policies are logged on Github.
 
 ### Policy: Holiday planning
- - Let others know about your holiday plans on Slack 
+ - Let others know about your holiday plans on Slack
  - Let your circles' leadlink and your clients know 3x the length of your planned holiday (in workdays) before the start of it, but minimum 5 workdays before in writing
  - Letting them know within this period doesn't mean that it's no allowed, but can result in decline (if your plan is not safe to fail)
 
@@ -209,27 +213,27 @@ Take and share notes if relevant. If two people attend a meeting, one of them sh
 Clean your desk everyday after yourself: no food, no dirty dishes. Leave the office clean every day. Do not risk that someone else, who walks in with a guest would feel ashamed. Or just throws up.
 
 ### Policy: Stand-ups
-Separate circle standups. Each circle is free to decide if they have a standup or not. 
-Focus on what was achieved yesterday and what is your goal for the day and what obstacles you have. 
+Separate circle standups. Each circle is free to decide if they have a standup or not.
+Focus on what was achieved yesterday and what is your goal for the day and what obstacles you have.
 Time boxing is important, to not spend too much time on standupping
 
 ### Policy: Time tracking
 We should track the time dedicated to each role, even internal roles. Preferably use one, company wide tool.
 
 ### Policy: Transparency levels (mandatory for all roles and circles)
-Public: 
- - [Governance](https://github.com/Brickflow/lab-governance) records 
+Public:
+ - [Governance](https://github.com/Brickflow/lab-governance) records
  - Salary formula (without personal records)
 
-Private: 
+Private:
  - Trello boards
  - Asana
- - Slack 
- - Drive 
+ - Slack
+ - Drive
  - Personal salary parameters, end salary
 
 ### Policy: Transparent task progress report
-Make sure every week, before the tactical meeting, that all your cards are up-to-date. 
+Make sure every week, before the tactical meeting, that all your cards are up-to-date.
 Comment on cards what you tell on tactical as update.
 
 ### Policy: Conflict resolution process (for all circles and roles)
