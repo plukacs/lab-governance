@@ -135,8 +135,9 @@ After probation time, employees gain
 
 ### Policy: Company purchases
 If you need to purchase some asset or service for the company (and you have passed the 3rd month of your employment) you can buy it (preferably with the company card to ease administration) up to 200 EUR/year/asset class.
-- Give the invoice to the finance role and add the newly purchased asset to the asset inventory.
-- Before deciding on the purchase take advice from the roles/people the purchase will affect.
+- Give the invoice to the finance role and upload it to the Google Drive's relevant subfolder (LabCoop/biz admin/accounting/incoming invoices). https://goo.gl/7QmdqK
+- Add the newly purchased asset to the asset inventory. https://goo.gl/AzyIEF
+- Before deciding on the purchase take advice from the roles/people the purchase will affect (for example: finance, office, biz).
 
 If it is above 200 EUR or you do not want to make the decision yourself you can ask the finance role about the purchase.
 
