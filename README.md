@@ -1,7 +1,7 @@
 # Lab
 Purpose: Build Tech Ventures
 
-## Roles
+## ROLES
 
 ### Lead Link - Petak
 ### Facilitator - Cassus
@@ -49,10 +49,6 @@ Accountability: Setting up mid and long run plans. Seeing the big picture. Overs
 Purpose: Unspecified.
 Accountibility: Buying food, office equipment, tech devices to the office. Managing the office's daily operations. Fixing broken things in the office.
 
-### Education Branch - Tojas
-Purpose: Unspecified.
-Accountibility: Facilitating and leading educational projects.
-
 ### Tech Support - Jeszi
 Purpose: Unspecified.
 Accountibility: fix tech stuff around office: TV, wifi, printer, updateing computers, calling Dell waranty service etc
@@ -60,8 +56,22 @@ Accountibility: fix tech stuff around office: TV, wifi, printer, updateing compu
 ### Events & community - Aniko
 Purpose: Coordinate event organizing
 
+## CIRCLES
 
+### Education Branch Circle - Barbi
+Purpose: Unspecified.
 
+### Product Branch Circle - Peták (until Banyó has time...)
+Purpose: Unspecified.
+
+### HR Circle - Cassus
+Purpose: Unspecified.
+
+### Learning Circle - Dávid
+Purpose: Unspecified.
+
+### Company Wide Circle - Peták
+Purpose: Unspecified.
 
 ## Domain: All functions & activities within the Circle (TLC only)
 
