@@ -4,7 +4,7 @@ Purpose: Unspecified.
 ## Roles
 
 ### Lead Link - Cassus
-### Rep Link - 
+### Rep Link - Anikó
 ### Facilitator - Dávid
 ### Secretary - Anikó
 
