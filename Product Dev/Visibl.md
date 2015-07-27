@@ -33,7 +33,8 @@ Purpose: Unspecified.
   - if a ticket is not DONE by the time of the retrospective:
     move it to the next sprint
   - next sprint planning: reestimate remaining tickets
-  - fill the todo after the demo, create clarification tasks for anything uncertain 
+  - fill the todo after the demo, create clarification tasks for anything uncertain
+  - if there is a call for reactions of any kind, you may positively sign that you do not have a reaction by putting your hand on the table
 
 ### Branching
 - Use `master` branch
