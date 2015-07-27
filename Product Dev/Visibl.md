@@ -15,6 +15,9 @@ Purpose: Unspecified.
 - reviews code
 - is responsible for quality
 
+### Checklist
+- was caught up with code review at some point last week
+
 ### CSS - Anikó
 ### Testing - Cassus
 ### TradeDesk - David
