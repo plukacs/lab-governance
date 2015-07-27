@@ -17,6 +17,7 @@ Purpose: Unspecified.
 
 ### Checklist
 - was caught up with code review at some point last week
+- test cases were written before starting implementation of last week's tasks
 
 ### CSS - Anikó
 ### Testing - Cassus
