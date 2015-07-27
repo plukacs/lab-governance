@@ -33,16 +33,17 @@ Purpose: Unspecified.
   - fill the todo after the demo, create clarification tasks for anything uncertain 
 
 ### Branching
-Use master branch
-codeship merges to production
-Use feature switches if needed.
+- Use `master` branch
+- Codeship deploys to production
+- Use feature branches if needed
+- Force push to `stage` to deploy your code to staging
 
 ### Definition of DONE
 - works locally
 - has tests, unit tests, integration tests including UI interaction and mocked server
 - Looks good enough for the user to understand it (not less usable than the original version if there is such)
-- (codeship success)
-- (deployed and works in production)
+- codeship success
+- deployed and works in production
 
 ### A well defined task
 - only contains at maximum 1 new UI component
