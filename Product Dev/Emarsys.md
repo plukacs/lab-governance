@@ -118,11 +118,10 @@ Every task have to be QA-d by its assigner in JIRA with special attention to edg
 ### Policy: Meetings and schedule
 - Retro: Weekly, Friday after the demo (16:00)
 - Governance meeting: Monthly (or if requested on retro for next), Monday after sprint launch (11:00)
-- Sprint launch: Weekly, Monday after standup (10:00)
+- Sprint planning and launch: Weekly, Monday (10:00)
 - Standup: Daily, (9:30)
 - Demo: Weekly, Friday (15:00)
 - Inner demo: Weekly, Friday (12:00)
-- Planning: Weekly, Thursday (16:00)
 
 ### Policy: Demo
 We don't demo incomplete features at all. 
