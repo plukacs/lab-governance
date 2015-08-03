@@ -1,15 +1,59 @@
 # Lab / Product Dev / Emarsys
-Purpose: Earn money
+## Purpose:
+- satisfied Emarsys
+- money (min €5500 / month / person)
+
+## Accountabilities:
+- planning architecture
+- developing good product
+- demoing weekly
+- delivering quality code
+- coding
+- sprint planning
+
+## Domains:
+- SMS product design
+- client relation
+- working methods
+- architecture
 
 ## Roles
-
 ### Lead Link - Tojas 
 ### Rep Link - Laci	
 ### Facilitator - Laci
 ### Secretary - Marci
 
-### Scrum master - 	
-### Trainer	-
+### Process Facilitator - Tojas
+#### Purpose:
+stable velocity
+#### Accountabilities:
+- overseeing dev process
+- facilitating daily standups
+- estimating
+- reviewing all the code
+- answering outer tech questions
+- averting obstacles
+- collecting tech info
+- going to Emarsys tech demo
+
+#### Domains:
+- tech tools
+- tech processes
+
+### Product Owner - Banyo, Dani
+#### Purpose: 
+happy customer, happy vienna
+#### Accountabilities:
+- translating business need to user stories with acceptance criteria
+- creating mockups 
+- explorational testing
+
+#### Domains:
+- relations with EMS / PM / third parties
+
+### Dev - Laci, Tojas, Marci
+#### Accountabilities:
+- implementing software based on user stories which meets the DoD
 
 ## All functions & activities within the Circle
 
