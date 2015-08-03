@@ -94,6 +94,23 @@ We set the assignee and the assigner, we discuss and clarify all the AC.
 We add external dependencies as tasks for the Emarsys staff. 
 If you find a bug add it to JIRA backlog.
 
+### Policy: Definition of well-defined
+A well defined task should:
+- have acceptance criteria
+- contain only one UI component
+- have mockups
+
+### Policy: Definition of done
+A card only can move to done if:
+- there are integration tests about the acceptance criteria
+- unit test coverage is almost 100%
+- deployed to stage and production
+- AC is manually tested on production
+- reviewed by other
+- works in local
+- doesn't break the build
+- you informed the others about the breaking changes
+
 ### Policy: QA
 Every task must have someone who will assure its quality. 
 He/She has to check on the staging environment whether all AC are met. 
