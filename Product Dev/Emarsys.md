@@ -89,7 +89,6 @@ forbidden and has to be marked.
 - Reviewed
 
 ### Policy: JIRA usage
-On the Monday-meeting we copy the tasks from the backlog. 
 We set the assignee and the assigner, we discuss and clarify all the AC. 
 We add external dependencies as tasks for the Emarsys staff. 
 If you find a bug add it to JIRA backlog.
@@ -143,7 +142,7 @@ Sick people aren't counted in the reestimation for that week.
 At the end of the day fill in the timesheet.
 
 ### Policy: Standup
-The circle's Facilitator leads the meeting. The default time is 9:30 AM.
+The default time is 9:30 AM.
 It is mandatory for all the developers to attend, in case of home-office he/she should join on Hangouts.
 It is not mandatory but recommended for PO-s.
 
