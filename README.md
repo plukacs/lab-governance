@@ -67,9 +67,6 @@ Purpose: Unspecified.
 ### HR Circle - Cassus
 Purpose: Unspecified.
 
-### Learning Circle - Dávid
-Purpose: Unspecified.
-
 ### Company Wide Circle - Peták
 Purpose: Unspecified.
 
