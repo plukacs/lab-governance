@@ -22,10 +22,6 @@ Purpose: Unspecified.
 Accountibility: 
 - Decide about non-human insurance plans.
 
-### Evangelist - Petak
-Purpose: Unspecified.
-Accountibility: Networking. Perticipating at events. Representing the organization in any public manner. Keeping good relation with the press and public figures. Building a trustwothy brand.
-
 ### Finances - Virag
 Purpose: Unspecified.
 Accountibility: Working with the accountant. Managing all financial issues.
@@ -36,10 +32,6 @@ Accountibility: Writing and reviewing all our contracts. Making sure our account
 
 ### OrgDev Consulting Branch - Cassus
 Purpose: Unspecified.
-
-### PR, Marketing - Dani
-Purpose: Unspecified.
-Accountibility: Copywriting, press outreach, website, social media, blog.
 
 ### Strategy - Petak, Tojas
 Purpose: Define strategy
@@ -52,9 +44,6 @@ Accountibility: Buying food, office equipment, tech devices to the office. Manag
 ### Tech Support - Jeszi
 Purpose: Unspecified.
 Accountibility: fix tech stuff around office: TV, wifi, printer, updateing computers, calling Dell waranty service etc
-
-### Events & community - Aniko
-Purpose: Coordinate event organizing
 
 ## CIRCLES
 
@@ -71,6 +60,10 @@ Purpose: Unspecified.
 Purpose: Unspecified.
 
 ## Domain: All functions & activities within the Circle (TLC only)
+
+### PR, Marketing - Dani
+Purpose: Unspecified.
+Accountibility: Copywriting, press outreach, website, social media, blog.
 
 ### Policy: Agenda building and administration
  - Proposals are announced and written down in English in the beginning
