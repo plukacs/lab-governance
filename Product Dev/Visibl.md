@@ -1,5 +1,7 @@
 # Lab / Product Dev / Visibl
-Purpose: Unspecified.
+## Purpose
+ - Satisfied Visibl
+ - Minimum €25000 / month
 
 ## Roles
 
