@@ -17,7 +17,22 @@ Purpose: Unspecified.
 Purpose: Unspecified.
 
 ### Sales - Petak
-Purpose: Unspecified.
+####Purpose:
+ - Enough product clients
+ - Perfect clients
+ - Good impression made on clients
+
+####Accountability: 
+ - Keeping client relationships until contract signed
+ - Generating leads
+ - Converting leads
+ - Negotiating contract / terms and conditions
+ - Cordinating with Biz analyst and Resource manager
+ - Making offers
+ - Pitching how we work
+
+####Domain:
+ - Price
 
 ### Biz analyst - Banyo Marci
 ####Purpose:
