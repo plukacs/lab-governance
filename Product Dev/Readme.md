@@ -1,6 +1,11 @@
 # Lab / Product Dev
 Purpose: Unspecified.
 
+## Circles
+
+### Emarsys - Banyo Marci
+### Visibl - Cassus
+
 ## Roles
 
 ### Lead Link - Petak
