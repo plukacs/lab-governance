@@ -21,7 +21,7 @@ Purpose: Unspecified.
 
 ### Biz analyst - Banyo Marci
 ####Purpose:
-Quotation
+ - Quotation
 
 ####Accountability: 
  - Defining service product
@@ -32,10 +32,14 @@ Quotation
  - Rating client
 
 ####Domain:
-- Initial backlog
+ - Initial backlog
 
 ### Estimator - all senior+ dev
-Purpose: Unspecified.
+####Purpose:
+ - Quotation
+
+####Accountability:
+ - Estimating initial product backlog
 
 ### Shiwaforce - Dani
 Purpose: Unspecified.
