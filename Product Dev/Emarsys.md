@@ -18,7 +18,7 @@
 - architecture
 
 ## Roles
-### Lead Link - Tojas 
+### Lead Link - Banyo Marci
 ### Rep Link - Laci	
 ### Facilitator - Laci
 ### Secretary - Marci
