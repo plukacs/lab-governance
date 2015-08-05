@@ -29,16 +29,6 @@
 ### Facilitator - Banyo Marci
 ### Secretary - Tojas
 
-### TechLead - Tojas
-####Purpose:
-
-
-####Accountability: 
-
-
-####Domain:
-
-
 ### Sales - Petak
 ####Purpose:
  - Enough product clients
