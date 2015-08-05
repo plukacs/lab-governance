@@ -8,9 +8,6 @@ Purpose: Unspecified.
 ### Facilitator -
 ### Secretary -
 
-### Brickflow - Laci
-Purpose: Unspecified.
-
 ### TechLead - Tojas
 Purpose: Unspecified.
 
