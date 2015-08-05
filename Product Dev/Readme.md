@@ -1,5 +1,21 @@
 # Lab / Product Dev
-Purpose: Unspecified.
+##Purpose:
+ - Satisfied clients
+ - Stable cashflow
+ - Perfect reputation
+ - Endless Money :) $$$$
+ - Endless clients
+
+##Accountibility:
+ - Delivering software products
+ - Tracking resources
+ - Upselling
+
+##Domains:
+ - Developer allocation
+ - Resource management
+ - Choice of clients
+ - Choice of technologies / workflows
 
 ## Circles
 
@@ -14,7 +30,14 @@ Purpose: Unspecified.
 ### Secretary - Tojas
 
 ### TechLead - Tojas
-Purpose: Unspecified.
+####Purpose:
+
+
+####Accountability: 
+
+
+####Domain:
+
 
 ### Sales - Petak
 ####Purpose:
