@@ -20,7 +20,19 @@ Purpose: Unspecified.
 Purpose: Unspecified.
 
 ### Biz analyst - Banyo Marci
-Purpose: Unspecified.
+####Purpose:
+Quotation
+
+####Accountability: 
+ - Defining service product
+ - Creating initial product backlog and roadmap
+ - Supporting sales
+ - Proposing initial stack / architecture
+ - Analizing client's product
+ - Rating client
+
+####Domain:
+- Initial backlog
 
 ### Estimator - all senior+ dev
 Purpose: Unspecified.
