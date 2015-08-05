@@ -5,8 +5,8 @@ Purpose: Unspecified.
 
 ### Lead Link - Petak
 ### Rep Link -
-### Facilitator -
-### Secretary -
+### Facilitator - Banyo Marci
+### Secretary - Tojas
 
 ### TechLead - Tojas
 Purpose: Unspecified.
