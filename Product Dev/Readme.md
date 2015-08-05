@@ -70,7 +70,17 @@
  - Estimating initial product backlog
 
 ### Shiwaforce - Dani
-Purpose: Unspecified.
+####Purpose:
+ - Satisfied Shiwaforce
+ - Earn money
+ - Upselling
+ - Validated product idea
+
+####Accountability:
+ - Making channel copy and validation tests
+
+####Domain:
+ - Client relations
 
 
 ## Domain: All functions & activities within the Circle
