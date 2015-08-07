@@ -1,5 +1,21 @@
 # Lab
-Purpose: Build Tech Ventures
+####Purpose
+- Build Tech Ventures
+- Build a tribe
+- Scalable organization
+- Guide product development for clients
+- Building an accelerator
+- Safe work environment
+- Happy partners
+- Money
+
+####Accountabilities
+- Providing financial stability for partners
+- Expressing the corporation's brand
+- ??? of the company
+
+####Domains
+- Everything
 
 ## ROLES
 
@@ -8,62 +24,176 @@ Purpose: Build Tech Ventures
 ### Secretary - Dani
 
 ### Admin - Virag, Petak
-Purpose: Unspecified.
-Accountibility:
- - Handling paperwork.
+####Purpose 
+- Run the company operations
+
+####Accountibilities
  - Managing Partner data (birth, name, tax number ...).
  - Pre-filling admin forms with all known data before sending it to Partners.
+ - Daily management
+ - Keeping internal administration on track
+ - Keeping in touch with the accountant
+ 
+ ####Domains
+ - Paperwork
 
 ### Resource manager - Marci Banyo
-Purpose: Clarity on our commitments and available resources
+####Purpose
+- Clarity on our commitments and available resources
+
+#### Accountabilities
+- Giving info to HR
+- Tracking allocation information for slaes
+- Giving info to biz for return calibaration
+#### Domains
+- Allocation of human resources
+
 
 ### Biz, Biz Dev	- Petak 
-Purpose: Unspecified.
-Accountibility: 
-- Decide about non-human insurance plans.
+
+#### Purpose
+- Good business relations with other companies
+- Financial stability
+- Strong partnerships
+
+#### Accountabilities
+- Creating the business plan
+- Managing the consurtium
+- Feeling market opoortunities
+- Deciding about non-human insurance plans
+
+#### Domains
+- Business plan and model
+- Budget
+
 
 ### Finances - Virag
-Purpose: Unspecified.
-Accountibility: Working with the accountant. Managing all financial issues.
+
+#### Purpose
+- Financial clarity
+
+#### Accountabilities
+- Invoicing
+- Tax planning
+- Choosing and working with the accountant
+- Optimizing financial processes
+- Tracking cash-flow
+- Managing all financial issues
+
+#### Domains
+- Finance
+- Accountant
+- Bank accounts
+
 
 ### Legal - Petak (Nora Kiss)
-Purpose: Unspecified.
-Accountibility: Writing and reviewing all our contracts. Making sure our accounting and financial practices are legal.
+
+#### Purpose
+- Keep the company safe
+- Well written contracts
+
+#### Accountabilities
+- Making sure that accounting and financial practices are legal
+- Reviewing, writing legal documents
+
+#### Domains
+- Choose lawyer / the lawyer is in ???
+- Text of contracts (both internal and external)
+
 
 ### OrgDev Consulting Branch - Cassus
-Purpose: Unspecified.
+
+#### Purpose
+- Diversification of revenue streams
+- Improve clients' organizations
+- Money
+
+#### Accountabilities
+- Cooperating with partners
+- Generating new clients
+
+#### Domains
+- Clients
 
 ### Strategy - Petak, Tojas
-Purpose: Define strategy
-Accountability: Setting up mid and long run plans. Seeing the big picture. Overseeing the Lab's all activities as a system. Preparing incubation projects. Present KPIs and strategic changes monthly to the whole company.
+
+#### Purpose
+- Having a clear strategy for the organization
+
+#### Accountabilities
+- Keeping in touch with advisors
+- Following market trends
+- Keeping shareholders in the loop
+- Setting up mid and long run plans
+- Seeing the big picture
+- Presenting KPIs and strategic changes monthly to the whole company
+
+#### Domains
+- Vision
+- Long term goals
+- Brancher
+
 
 ### Office and Supplies - Virag
-Purpose: Unspecified.
-Accountibility: Buying food, office equipment, tech devices to the office. Managing the office's daily operations. Fixing broken things in the office.
+
+#### Purpose
+
+#### Accountabilities
+- Buying food, office equipment, tech devices to the office
+- Managing the office's daily operations
+- Fixing broken things in the office
+
+#### Domains
+
 
 ### Tech Support - Jeszi
-Purpose: Unspecified.
-Accountibility: fix tech stuff around office: TV, wifi, printer, updateing computers, calling Dell waranty service etc
+
+#### Purpose
+
+#### Accountabilities
+- Fixing tech stuff around office: TV, wifi, printer, updateing computers
+- Calling Dell waranty service
+
+#### Domains
 
 ## CIRCLES
 
 ### Education Branch Circle - Barbi
-Purpose: Unspecified.
 
-### Product Branch Circle - Peták (until Banyó has time...)
-Purpose: Unspecified.
+#### Purpose
+- Image
+- Recruitment
+- Training thech industry professionals
+- Managing pertners
+- Money
+- Diversify revenue streams
+
+### Product Development Branch Circle - Peták (until Banyó has time...)
+
+####Purpose
+- Satisfied cielnts
+- Money
+- Money
+- Money
+- Upselling potential
+- Reputation
+- Stable cash flow
 
 ### HR Circle - Cassus
-Purpose: Unspecified.
+
+####Purpose
+- Satisfied partners
+- A-class people
 
 ### Company Wide Circle - Peták
-Purpose: Unspecified.
+####Purpose
+- Unspecified
 
-## Domain: All functions & activities within the Circle (TLC only)
+### Marketing-PR - Dani
 
-### PR, Marketing - Dani
-Purpose: Unspecified.
-Accountibility: Copywriting, press outreach, website, social media, blog.
+####Purpose
+- Continuous good reputation and reach
+
 
 ### Policy: Agenda building and administration
  - Proposals are announced and written down in English in the beginning
