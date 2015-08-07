@@ -45,7 +45,7 @@
 ####Purpose
 - Representing the brand and the organisation
 
-####Accountibilitiess
+####Accountabilities
 - Networking
 - Perticipating at events
 - Representing the organization in any public manner, public speaking.
