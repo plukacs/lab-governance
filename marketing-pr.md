@@ -1,6 +1,23 @@
-# PR, Marketing
-####Purpose: Unspecified.
-Accountibility: Copywriting, press outreach, website, social media, blog.
+# Marketing-PR
+
+####Purpose
+- Having continuous good reputation and reach
+
+####Accountibilities
+- Network for PR partners
+- Building reputation
+- Generating leads
+- Brand building
+- Business branding
+- Employee branding
+
+####Domains
+- Company image, design
+- Press outreach
+- Website
+- Social media channels
+- Blog
+- Events and community
 
 ## Roles
 
@@ -9,17 +26,32 @@ Accountibility: Copywriting, press outreach, website, social media, blog.
 ###Facilitator - 
 ###Secretary - 
 
-### Events & community - Aniko
-####Purpose:
+### Events & community - Anikó
+
+####Purpose
 - Generating sales leads
 - Recruitment leads
 - Build reputation
-####Accountability:
+
+####Accountabilities
 - Coordinating event organization
 - Partnering with events
-####Domains:
+
+####Domains
 - Decide on grated budget
 
 ### Evangelist - Petak
-Purpose: Unspecified.
-Accountibility: Networking. Perticipating at events. Representing the organization in any public manner. Keeping good relation with the press and public figures. Building a trustwothy brand.
+
+####Purpose
+- Representing the brand and the organisation
+
+####Accountibilitiess
+- Networking
+- Perticipating at events
+- Representing the organization in any public manner, public speaking.
+- Keeping good relation with the press and public figures
+- Building a trustwothy brand
+- Collecting feedback about perception
+
+#### Domains:
+- 0
