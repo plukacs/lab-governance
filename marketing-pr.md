@@ -1,16 +1,24 @@
 # PR, Marketing
-Purpose: Unspecified.
+####Purpose: Unspecified.
 Accountibility: Copywriting, press outreach, website, social media, blog.
 
 ## Roles
 
-Lead Link - Dani
-Rep Link - 
-Facilitator - 
-Secretary - 
+###Lead Link - Dani
+###Rep Link - 
+###Facilitator - 
+###Secretary - 
 
 ### Events & community - Aniko
-Purpose: Coordinate event organizing
+####Purpose:
+- Generating sales leads
+- Recruitment leads
+- Build reputation
+####Accountability:
+- Coordinating event organization
+- Partnering with events
+####Domains:
+- Decide on grated budget
 
 ### Evangelist - Petak
 Purpose: Unspecified.
