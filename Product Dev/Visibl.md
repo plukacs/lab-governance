@@ -7,7 +7,7 @@
 
 ### Lead Link - Cassus
 ### Rep Link - Anikó
-### Facilitator - Dávid
+### Facilitator - David
 ### Secretary - Anikó
 
 ## Steward Roles
