@@ -47,10 +47,11 @@
 
 ### Definition of DONE
 - works locally
-- has tests, unit tests, integration tests including UI interaction and mocked server
+- has tests if it makes sense
 - Looks good enough for the user to understand it (not less usable than the original version if there is such)
 - codeship success
 - deployed and works in production
+- screenshot (if static change) or animgif screencast (if interaction change) shared in #development in Visibl Slack and attached to the Asana task
 
 ### A well defined task
 - only contains at maximum 1 new UI component
