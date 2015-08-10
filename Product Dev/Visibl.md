@@ -69,4 +69,3 @@ Our aim is to have the test titles ready before the estimation
  - When you email With Visibl make sure visibl@lab.coop is on CC
  - When you have a call with Visibl put the outputs to Asana tasks/comments or take notes to slack.
 
-
