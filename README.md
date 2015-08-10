@@ -187,7 +187,7 @@
 
 ### Company Wide Circle - Peták
 ####Purpose
-- Unspecified
+- Involvment
 
 ### Marketing-PR - Dani
 
