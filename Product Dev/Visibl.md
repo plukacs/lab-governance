@@ -10,6 +10,31 @@
 ### Facilitator - David
 ### Secretary - Anikó
 
+### Agile Monkey
+
+Purpose: Efficient team
+
+Domains:
+- asana setup
+- methodologies in use
+
+### Tech lead
+
+Purpose: sustainable development
+
+Domain:
+ - technical decisions not covered by steward roles
+ 
+### PO-proxy
+
+Purpose: satisfied client and represents the PO, users within the team
+
+Accpountabilities:
+ - Manage client expectations
+
+Domains:
+ - Backlog
+
 ## Steward Roles
 
 ### Accountabilities
@@ -63,3 +88,4 @@ Our aim is to have the test titles ready before the estimation
 
 ### Codeship
 - When you finish for the day, make sure that codeship is green. Revert if needed.
+
