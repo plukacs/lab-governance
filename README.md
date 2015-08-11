@@ -1,5 +1,18 @@
 # Lab
-Purpose: Build Tech Ventures
+####Purpose
+
+- Sharing resources & risks to build ventures, learn, and get money.
+- Sharing risk & resources between entrepreneurs to learn & improve through building ventures.
+- Doing what you are good at while learning from those who are better than you.
+- A community of A class partners to learn from and build tech ventures with while having fun in an innovative organization.
+- A community that lets partners experiment, learn & build by sharing risks and resources.
+- Learning new technologies from professional people.
+- An entrepreneur community where you share risk, earn money, learn, build ventures & have fun.
+- A fun way how partners are sharing risks and working towards building ventures.
+- An entrepreneurial community of A class partners building tech ventures and providing each other a stable, motivating & challenging work environment.
+- Risk & resource community of entrepreneurs aiming to build scalable tech ventures, learn, and have fun in order to create financial wealth together.
+- A constantly evolving community of constantly evolving partners.
+
 
 ## ROLES
 
@@ -8,62 +21,195 @@ Purpose: Build Tech Ventures
 ### Secretary - Dani
 
 ### Admin - Virag, Petak
-Purpose: Unspecified.
-Accountibility:
- - Handling paperwork.
+####Purpose 
+- Run the company operations
+
+####Accountibilities
  - Managing Partner data (birth, name, tax number ...).
  - Pre-filling admin forms with all known data before sending it to Partners.
+ - Daily management
+ - Keeping internal administration on track
+ 
+####Domains
+ - Paperwork
 
 ### Resource manager - Marci Banyo
-Purpose: Clarity on our commitments and available resources
+####Purpose
+- Clarity on our commitments and available resources
+
+#### Accountabilities
+- Giving info to HR
+- Tracking allocation information for sales
+- Giving info to biz for return calibaration
+
+#### Domains
+- Allocation of human resources on projects and branches
+
 
 ### Biz, Biz Dev	- Petak 
-Purpose: Unspecified.
-Accountibility: 
-- Decide about non-human insurance plans.
 
-### Finances - Virag
-Purpose: Unspecified.
-Accountibility: Working with the accountant. Managing all financial issues.
+#### Purpose
+- Good business relations with other companies
+- Financial stability
+- Strong partnerships
 
-### Legal - Petak (Nora Kiss)
-Purpose: Unspecified.
-Accountibility: Writing and reviewing all our contracts. Making sure our accounting and financial practices are legal.
+#### Accountabilities
+- Creating the business plan
+- Managing the consurtium
+- Deciding about non-human insurance plans
+
+#### Domains
+- Business plan and model
+- Every budget in the company
+
+
+### Finance - Virag
+
+#### Purpose
+- Financial clarity and stability
+
+#### Accountabilities
+- Invoicing
+- Tax planning and paying
+- Choosing and working with the accountant
+- Optimizing financial processes
+- Tracking cash-flow
+- Managing every financial issue
+- Making transactions
+
+#### Domains
+- Accountant
+- Bank accounts
+- Financial best practices
+
+
+### Corporate lawyer - Nora Kiss
+
+#### Purpose
+- Keep the company safe
+- Well written contracts
+
+#### Accountabilities
+- Making sure that accounting and financial practices are legal
+- Reviewing, writing legal documents
+
+#### Domains
+- Text of contracts (both internal and external)
+
+
+### Stróman - Peták
+
+#### Purpose
+- Match business needs and legal documentation
+
+#### Accountabilities
+- Final reviewing and signing contracts
+- Working with the corporate lawyer
+
+#### Domains
+- Choose corporate lawyer
+- Signatory right
+
 
 ### OrgDev Consulting Branch - Cassus
-Purpose: Unspecified.
+
+#### Purpose
+- Improve clients' organizations
+- Money
+
+#### Accountabilities
+- Generating new clients
+
+#### Domains
+- Clients
 
 ### Strategy - Petak, Tojas
-Purpose: Define strategy
-Accountability: Setting up mid and long run plans. Seeing the big picture. Overseeing the Lab's all activities as a system. Preparing incubation projects. Present KPIs and strategic changes monthly to the whole company.
+
+#### Purpose
+- Clear strategy for the organization
+
+#### Accountabilities
+- Keeping in touch with advisors
+- Following market trends
+- Exploring market opportunities
+- Keeping shareholders in the loop
+- Setting up mid and long run plans
+- Seeing the big picture
+- Presenting KPIs and strategic changes monthly to the whole company
+
+#### Domains
+- Vision
+- Long term goals
+- To start and stop branches
+
 
 ### Office and Supplies - Virag
-Purpose: Unspecified.
-Accountibility: Buying food, office equipment, tech devices to the office. Managing the office's daily operations. Fixing broken things in the office.
+
+#### Purpose
+
+#### Accountabilities
+- Buying food, office equipment to the office
+- Managing the office's daily operations
+- Fixing broken things in the office (except tech equipment)
+
+#### Domains
+
 
 ### Tech Support - Jeszi
-Purpose: Unspecified.
-Accountibility: fix tech stuff around office: TV, wifi, printer, updateing computers, calling Dell waranty service etc
+
+#### Purpose
+
+#### Accountabilities
+- Fixing tech stuff around office: TV, wifi, printer, updateing computers
+- Ordering tech devices and services
+- Calling Dell waranty service
+
+#### Domains
 
 ## CIRCLES
 
 ### Education Branch Circle - Barbi
-Purpose: Unspecified.
 
-### Product Branch Circle - Peták (until Banyó has time...)
-Purpose: Unspecified.
+#### Purpose
+- Training thech industry professionals
+
+####Accountabilities
+- Organizing courses
+- Teaching
+
+####Domains
+- External education
+- Syllabus
+
+
+### Product Development Branch Circle - Peták (until Banyó has time...)
+
+####Purpose
+- Satisfied cielnts
+- Money
+- Money
+- Money
+- Upselling potential
+- Reputation
+- Stable cash flow
+
 
 ### HR Circle - Cassus
-Purpose: Unspecified.
+
+####Purpose
+- Satisfied partners
+- A-class people
 
 ### Company Wide Circle - Peták
-Purpose: Unspecified.
 
-## Domain: All functions & activities within the Circle (TLC only)
+####Purpose
+- Involvment
 
-### PR, Marketing - Dani
-Purpose: Unspecified.
-Accountibility: Copywriting, press outreach, website, social media, blog.
+### Marketing-PR - Dani
+
+####Purpose
+- Continuous good reputation and reach
+
 
 ### Policy: Agenda building and administration
  - Proposals are announced and written down in English in the beginning
