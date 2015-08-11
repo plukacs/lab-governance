@@ -25,7 +25,7 @@
 ## Roles
 
 ### Lead Link - Petak
-### Rep Link - Marci
+### Rep Link - Ban Marci
 ### Facilitator - Banyo Marci
 ### Secretary - Tojas
 
