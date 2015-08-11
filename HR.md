@@ -51,10 +51,7 @@ Probation time is 3 months, when it comes to ownership there is a one year cliff
 ## Domain: Salary system and peer-reviews
 
 ### Policy: Employee money
- - Salary formula: https://docs.google.com/spreadsheets/d/1kfwA4IM55vJ-dbh2-AKVupUe_kiNiwSjbA2N07_4RiE/edit#gid=65766471
- - Salary levels: https://docs.google.com/spreadsheets/d/1UEgP6s-GShg3j6ed25MpW_XIGpLYj-CfdiE5gAUnKu4/edit#gid=0
- - Glue levels: https://docs.google.com/spreadsheets/d/1UEgP6s-GShg3j6ed25MpW_XIGpLYj-CfdiE5gAUnKu4/edit#gid=1962070492
- - Glue multiplier: https://docs.google.com/spreadsheets/d/1UEgP6s-GShg3j6ed25MpW_XIGpLYj-CfdiE5gAUnKu4/edit#gid=437591356
+Salary formula, levels, Glue levels and Glue multiplier: https://docs.google.com/spreadsheets/d/1voxCpH29Lr8OlSuG7JL51BQSAwQPfVzkdpkM7aR9GbU/edit#gid=118044564
 
 ### Policy: Part-time
 If you are an x% part-time employee in the Lab, you get x% pay and x% ownership.
