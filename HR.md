@@ -1,5 +1,7 @@
 # Lab / HR
-Purpose: More fasza people for projects
+Purpose:
+- Satisfied partners
+- A-class people
 
 ## Roles
 
@@ -12,14 +14,12 @@ Purpose: More fasza people for projects
 Purpose: Develop other organizations
 
 ### Recruiter - Cassus, Petak
-Purpose: Develop other organizations
+Purpose: People to hire
 
 ### Employee handbook editor - Latest hire
 Purpose: Useful employee handbook
 
-#### Domain: Employee handbook
-
-## Domain: All functions & activities within the Circle
+Domain: Employee handbook
 
 ### Engineering learning - Tojas
 Purpose: Unspecified.
@@ -27,17 +27,21 @@ Purpose: Unspecified.
 ### English lesson organizer - David
 Purpose: Unspecified.
 
-#### Accountabilities
+Accountabilities:
+
 - Scheduling events, notifying and updating members, preparing meeting agenda and booking location (especially booking a meeting room if needed)
 
 ### German lesson organizer - Dani
 Purpose: Unspecified.
 
-#### Accountabilities
+Accountabilities:
+
 - Scheduling events, notifying and updating members, preparing meeting agenda and booking location (especially booking a meeting room if needed)
 
 ### Culture - Petak
 Purpose: Unspecified.
+
+## Domain: All functions & activities within the Circle
 
 ## Domain: Ownership system and Employee/Partner compensation
 
@@ -64,8 +68,5 @@ Assessments based on Level and Glue indicators.
  4. display results + pitch + questions
  5. self-set levels and glue can be challenged by anyone until the next work day. Use the conflict resolution process.
 
-### Policy: salary until no approved salary formula
-300k HUF net for everyone as this is the Brickflow legacy salary. 300k HUF net should be paid in May.
-
 ### Policy: Peer review frequency
-Peer reviews should be done every half year. New partners should be re-evaluated after 3 month they joined.
+Peer reviews are every 3 months after the divident payments.
