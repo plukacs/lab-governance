@@ -1,21 +1,18 @@
 # Lab
 ####Purpose
-- Build Tech Ventures
-- Build a tribe
-- Scalable organization
-- Guide product development for clients
-- Building an accelerator
-- Safe work environment
-- Happy partners
-- Money
 
-####Accountabilities
-- Providing financial stability for partners
-- Expressing the corporation's brand
-- ??? of the company
+- Sharing resources & risks to build ventures, learn, and get money.
+- Sharing risk & resources between entrepreneurs to learn & improve through building ventures.
+- Doing what you are good at while learning from those who are better than you.
+- A community of A class partners to learn from and build tech ventures with while having fun in an innovative organization.
+- A community that lets partners experiment, learn & build by sharing risks and resources.
+- Learning new technologies from professional people.
+- An entrepreneur community where you share risk, earn money, learn, build ventures & have fun.
+- A fun way how partners are sharing risks and working towards building ventures.
+- An entrepreneurial community of A class partners building tech ventures and providing each other a stable, motivating & challenging work environment.
+- Risk & resource community of entrepreneurs aiming to build scalable tech ventures, learn, and have fun in order to create financial wealth together.
+- A constantly evolving community of constantly evolving partners.
 
-####Domains
-- Everything
 
 ## ROLES
 
@@ -32,9 +29,8 @@
  - Pre-filling admin forms with all known data before sending it to Partners.
  - Daily management
  - Keeping internal administration on track
- - Keeping in touch with the accountant
  
- ####Domains
+####Domains
  - Paperwork
 
 ### Resource manager - Marci Banyo
@@ -43,10 +39,11 @@
 
 #### Accountabilities
 - Giving info to HR
-- Tracking allocation information for slaes
+- Tracking allocation information for sales
 - Giving info to biz for return calibaration
+
 #### Domains
-- Allocation of human resources
+- Allocation of human resources on projects and branches
 
 
 ### Biz, Biz Dev	- Petak 
@@ -59,34 +56,34 @@
 #### Accountabilities
 - Creating the business plan
 - Managing the consurtium
-- Feeling market opoortunities
 - Deciding about non-human insurance plans
 
 #### Domains
 - Business plan and model
-- Budget
+- Every budget in the company
 
 
-### Finances - Virag
+### Finance - Virag
 
 #### Purpose
-- Financial clarity
+- Financial clarity and stability
 
 #### Accountabilities
 - Invoicing
-- Tax planning
+- Tax planning and paying
 - Choosing and working with the accountant
 - Optimizing financial processes
 - Tracking cash-flow
-- Managing all financial issues
+- Managing every financial issue
+- Making transactions
 
 #### Domains
-- Finance
 - Accountant
 - Bank accounts
+- Financial best practices
 
 
-### Legal - Petak (Nora Kiss)
+### Corporate lawyer - Nora Kiss
 
 #### Purpose
 - Keep the company safe
@@ -97,19 +94,30 @@
 - Reviewing, writing legal documents
 
 #### Domains
-- Choose lawyer / the lawyer is in ???
 - Text of contracts (both internal and external)
+
+
+### Stróman - Peták
+
+#### Purpose
+- Match business needs and legal documentation
+
+#### Accountabilities
+- Final reviewing and signing contracts
+- Working with the corporate lawyer
+
+#### Domains
+- Choose corporate lawyer
+- Signatory right
 
 
 ### OrgDev Consulting Branch - Cassus
 
 #### Purpose
-- Diversification of revenue streams
 - Improve clients' organizations
 - Money
 
 #### Accountabilities
-- Cooperating with partners
 - Generating new clients
 
 #### Domains
@@ -118,11 +126,12 @@
 ### Strategy - Petak, Tojas
 
 #### Purpose
-- Having a clear strategy for the organization
+- Clear strategy for the organization
 
 #### Accountabilities
 - Keeping in touch with advisors
 - Following market trends
+- Exploring market opportunities
 - Keeping shareholders in the loop
 - Setting up mid and long run plans
 - Seeing the big picture
@@ -131,7 +140,7 @@
 #### Domains
 - Vision
 - Long term goals
-- Brancher
+- To start and stop branches
 
 
 ### Office and Supplies - Virag
@@ -139,9 +148,9 @@
 #### Purpose
 
 #### Accountabilities
-- Buying food, office equipment, tech devices to the office
+- Buying food, office equipment to the office
 - Managing the office's daily operations
-- Fixing broken things in the office
+- Fixing broken things in the office (except tech equipment)
 
 #### Domains
 
@@ -152,6 +161,7 @@
 
 #### Accountabilities
 - Fixing tech stuff around office: TV, wifi, printer, updateing computers
+- Ordering tech devices and services
 - Calling Dell waranty service
 
 #### Domains
@@ -161,12 +171,16 @@
 ### Education Branch Circle - Barbi
 
 #### Purpose
-- Image
-- Recruitment
 - Training thech industry professionals
-- Managing pertners
-- Money
-- Diversify revenue streams
+
+####Accountabilities
+- Organizing courses
+- Teaching
+
+####Domains
+- External education
+- Syllabus
+
 
 ### Product Development Branch Circle - Peták (until Banyó has time...)
 
@@ -179,6 +193,7 @@
 - Reputation
 - Stable cash flow
 
+
 ### HR Circle - Cassus
 
 ####Purpose
@@ -186,6 +201,7 @@
 - A-class people
 
 ### Company Wide Circle - Peták
+
 ####Purpose
 - Involvment
 
