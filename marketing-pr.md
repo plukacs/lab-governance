@@ -1,12 +1,5 @@
 # PR, Marketing
-Purpose: Unspecified
-
-Accountibilities:
-- Copywriting
-- press outreach
-- website
-- social media
-- blog
+Purpose, Domains, Accountabilities defined by parent circle.
 
 ## Roles
 

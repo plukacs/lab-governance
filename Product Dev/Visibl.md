@@ -1,7 +1,5 @@
 # Lab / Product Dev / Visibl
-Purpose:
- - Satisfied Visibl
- - Minimum €25000 / month
+Purpose, Domains, Accountabilities defined by parent circle.
 
 ## Roles
 
@@ -25,6 +23,7 @@ Checklist:
 ### TradeDesk - David
 ### Ruby backend - Erik
 ### React - Cassus
+
 
 
 ## All functions & activities within the Circle

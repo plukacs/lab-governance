@@ -1,21 +1,5 @@
 # Lab / Product Dev / Emarsys
-Purpose:
-- satisfied Emarsys
-- money (min €5500 / month / person)
-
-Accountabilities:
-- planning architecture
-- developing good product
-- demoing weekly
-- delivering quality code
-- coding
-- sprint planning
-
-Domains:
-- SMS product design
-- client relation
-- working methods
-- architecture
+Purpose, Domains, Accountabilities defined by parent circle.
 
 ## Roles
 ### Lead Link - Banyo Marci

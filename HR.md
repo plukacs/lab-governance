@@ -1,5 +1,5 @@
 # Lab / HR
-Purpose: More fasza people for projects
+Purpose, Domains, Accountabilities defined by parent circle.
 
 ## Roles
 

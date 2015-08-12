@@ -1,22 +1,33 @@
 # Lab / Product Dev
-
-Purpose:
- - Satisfied clients
- - Stable cashflow
- - Perfect reputation
- - Endless Money :) $$$$
- - Endless clients
-
-Domains:
- - Developer allocation
- - Resource management
- - Choice of clients
- - Choice of technologies / workflows
+Purpose, Domains, Accountabilities defined by parent circle.
 
 ## Circles
 
 ### Emarsys - Banyo Marci
+Purpose:
+- satisfied Emarsys
+- money (min €5500 / month / person)
+
+Accountabilities:
+- planning architecture
+- developing good product
+- demoing weekly
+- delivering quality code
+- coding
+- sprint planning
+
+Domains:
+- SMS product design
+- client relation
+- working methods
+- architecture
+
+
 ### Visibl - Cassus
+Purpose:
+ - Satisfied Visibl
+ - Minimum €25000 / month
+
 
 ## Roles
 

@@ -185,13 +185,18 @@ Domains:
 ### Product Development Branch Circle - Peták (until Banyó has time...)
 
 Purpose:
-- Satisfied cielnts
-- Money
-- Money
-- Money
-- Upselling potential
-- Reputation
-- Stable cash flow
+ - Endless Money :) $$$$
+ - Satisfied clients
+ - Stable cash flow
+ - Perfect reputation
+ - Upselling potential
+ - Endless clients
+
+Domains:
+ - Developer allocation
+ - Resource management
+ - Choice of clients
+ - Choice of technologies / workflows
 
 
 ### HR Circle - Cassus
@@ -209,6 +214,13 @@ Purpose:
 
 Purpose:
 - Continuous good reputation and reach
+
+Accountabilities:
+- Copywriting
+- press outreach
+- website
+- social media
+- blog
 
 
 
