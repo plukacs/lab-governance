@@ -6,11 +6,6 @@
  - Endless Money :) $$$$
  - Endless clients
 
-##Accountibility:
- - Delivering software products
- - Tracking resources
- - Upselling
-
 ##Domains:
  - Developer allocation
  - Resource management
