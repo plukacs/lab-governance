@@ -28,6 +28,9 @@ Checklist:
 
 ## All functions & activities within the Circle
 
+### Policy: Async governance process
+We use the same Async governance process as TLC
+
 ##### Meetings
 - _Standup_: report last day's achievments and the plan for next day on Slack #standup
 - _Tactical, governance, demo_: retrospective before the demo meeting
