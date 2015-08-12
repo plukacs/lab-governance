@@ -21,8 +21,9 @@ Checklist:
 ### CSS - Anikó
 ### Testing - Cassus
 ### TradeDesk - David
-### Ruby backend - Erik
+### Ruby backend - David
 ### React - Cassus
+### Analytics - Erik
 
 
 
