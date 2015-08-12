@@ -62,3 +62,7 @@ Our aim is to have the test titles ready before the estimation
 
 ##### Codeship
 - When you finish for the day, make sure that codeship is green. Revert if needed.
+
+#### change infrastructure safely
+- When configuring a third party service besides analytics, work in a pair. This description includes: Amazon, firebase, godaddy, codeship, (wordpress? depends on what you are doing). Use common sense when interpreting this rule: for example, creating an account for a new team member is safe enough that working as a pair is unneeded.
+
