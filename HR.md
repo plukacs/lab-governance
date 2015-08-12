@@ -17,7 +17,7 @@ Purpose: Develop other organizations
 ### Employee handbook editor - Latest hire
 Purpose: Useful employee handbook
 
-#### Domain: Employee handbook
+Domain: Employee handbook
 
 ## Domain: All functions & activities within the Circle
 
