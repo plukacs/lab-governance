@@ -22,7 +22,7 @@
 ### Lead Link - Petak
 ### Rep Link - Banyo Marci
 ### Facilitator - Banyo Marci
-### Secretary - Tojas
+### Secretary - Cassus
 
 ### Sales - Petak
 ####Purpose:
