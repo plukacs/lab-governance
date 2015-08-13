@@ -1,22 +1,40 @@
-# PR, Marketing
+# Marketing-PR
+
 Purpose, Domains, Accountabilities defined by parent circle.
 
 ## Roles
 
-### Lead Link - Dani
-### Rep Link -
-### Facilitator -
-### Secretary -
+###Lead Link - Dani
+###Rep Link - Anikó
+###Facilitator - Anikó
+###Secretary - Dani
 
-### Events & community - Aniko
-Purpose: Coordinate event organizing
+### Events & Community - Anikó
 
-### Evangelist - Petak
-Purpose: Unspecified.
+####Purpose
+- Strong and continuous presence on events
 
-Accountibilities:
+####Accountabilities
+- Coordinating event organization
+- Partnering with events
+- Coordinating speaking opportunities
+
+####Domains
+- Sponsoring decisions
+- Events to organize
+
+###Evangelist - Petak
+
+####Purpose
+- Personal representation of the brand and the organization
+- Trustworthy brand through personal reputation
+
+####Accountabilities
 - Networking
-- Perticipating at events
-- Representing the organization in any public manner
-- Keeping good relation with the press and public figures
-- Building a trustwothy brand
+- Perticipating on events
+- Representing the organization in any public manner, public speaking
+- Keeping good personal relation with the press and public figures
+- Collecting and sharing feedback about perception
+
+####Domains
+- Choose events to go
