@@ -1,57 +1,38 @@
 # Marketing-PR
 
-####Purpose
-- Having continuous good reputation and reach
-
-####Accountibilities
-- Network for PR partners
-- Building reputation
-- Generating leads
-- Brand building
-- Business branding
-- Employee branding
-
-####Domains
-- Company image, design
-- Press outreach
-- Website
-- Social media channels
-- Blog
-- Events and community
-
 ## Roles
 
 ###Lead Link - Dani
-###Rep Link - 
-###Facilitator - 
-###Secretary - 
+###Rep Link - Anikó
+###Facilitator - Anikó
+###Secretary - Dani
 
-### Events & community - Anikó
+### Events & Community - Anikó
 
 ####Purpose
-- Generating sales leads
-- Recruitment leads
-- Build reputation
+- Strong and continuous presence on events
 
 ####Accountabilities
 - Coordinating event organization
 - Partnering with events
+- Coordinating speaking opportunities
 
 ####Domains
-- Decide on grated budget
+- Sponsoring decisions
+- Events to organize
 
-### Evangelist - Petak
+###Evangelist - Petak
 
 ####Purpose
-- Representing the brand and the organisation
+- Personal representation of the brand and the organization
+- Trustworthy brand through personal reputation
 
 ####Accountabilities
 - Networking
-- Perticipating at events
-- Representing the organization in any public manner, public speaking.
-- Keeping good relation with the press and public figures
-- Building a trustwothy brand
-- Collecting feedback about perception
+- Perticipating on events
+- Representing the organization in any public manner, public speaking
+- Keeping good personal relation with the press and public figures
+- Collecting and sharing feedback about perception
 
-#### Domains:
-- 0
+####Domains
+- Choose events to go
