@@ -123,6 +123,10 @@ Accountabilities:
 Domains:
 - Clients
 
+### Venture builder - ?
+Purpose:
+- Building Ventures
+
 ### Strategy - Petak, Tojas
 
 Purpose:
