@@ -224,6 +224,7 @@ Purpose:
 - Keeping social media channels up-to-date
 - Organizing, participating and sponsoring events
 - Writing copy
+- Having a native speaker proofread texts
 
 ####Domains
 - Company image, design, brand
