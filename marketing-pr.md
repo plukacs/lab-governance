@@ -4,37 +4,37 @@ Purpose, Domains, Accountabilities defined by parent circle.
 
 ## Roles
 
-###Lead Link - Dani
-###Rep Link - Anikó
-###Facilitator - Anikó
-###Secretary - Dani
+### Lead Link - Dani
+### Rep Link - Anikó
+### Facilitator - Anikó
+### Secretary - Dani
 
 ### Events & Community - Anikó
 
-####Purpose
+Purpose:
 - Strong and continuous presence on events
 
-####Accountabilities
+Accountabilities:
 - Coordinating event organization
 - Partnering with events
 - Coordinating speaking opportunities
 
-####Domains
+Domains:
 - Sponsoring decisions
 - Events to organize
 
-###Evangelist - Petak
+### Evangelist - Petak
 
-####Purpose
+Purpose:
 - Personal representation of the brand and the organization
 - Trustworthy brand through personal reputation
 
-####Accountabilities
+Accountabilities:
 - Networking
 - Perticipating on events
 - Representing the organization in any public manner, public speaking
 - Keeping good personal relation with the press and public figures
 - Collecting and sharing feedback about perception
 
-####Domains
+Domains:
 - Choose events to go
