@@ -212,21 +212,24 @@ Purpose:
 
 ### Marketing-PR - Dani
 
-Purpose:
-- Continuous good reputation and reach
+####Purpose
+- Having continuous good reputation and reach
+- Inbound leads through good reputation
+- Strong brand (business, emloyer, professional branding)
 
-Accountabilities:
-- Copywriting
-- press outreach
-- website
-- social media
-- blog
+####Accountibilities
+- Networking for PR partners
+- Press outreach
+- Keeping the website up-to-date
+- Keeping social media channels up-to-date
+- Organizing, participating and sponsoring events
+- Writing copy
 
-
-
-
-
-
+####Domains
+- Company image, design, brand
+- PR strategy
+- Marketing communication strategy
+- Granted budget allocation
 
 
 ## Domain: All functions & activities within the Circle
