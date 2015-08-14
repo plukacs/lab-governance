@@ -22,11 +22,10 @@ Domain: Employee handbook
 ## Domain: All functions & activities within the Circle
 
 ### Engineering learning - Tojas
-#### Purpose
- - Professional and expert developers
+Purpose: Professional and expert developers
 
-#### Accountabilities
- - Facilitating weekly Dev learning workshop (every Wednesday from 10)
+Accountabilities:
+ - Facilitating weekly Dev learning workshop
 
 ### English lesson organizer - David
 Purpose: Unspecified.
