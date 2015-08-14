@@ -20,7 +20,10 @@ Purpose: Useful employee handbook
 Domain: Employee handbook
 
 ### Engineering learning - Tojas
-Purpose: Unspecified.
+Purpose: Professional and expert developers
+
+Accountabilities:
+ - Facilitating weekly Dev learning workshop
 
 ### English lesson organizer - David
 Purpose: Unspecified.
