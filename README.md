@@ -274,14 +274,15 @@ Use [Asana](https://app.asana.com/0/31935013151061) for top level circle boards
 ## Domain: Company resources (mandatory for all roles and circles)
 
 ##### Policy: Business cost reimbursement
-All costs during a business trip should be covered, including food, transportation, accommodation, representation costs.
-Preferably paid by a company bank card. Always provide invoices.
-Costs of business meeting (coffees / lunches / dinnerrs / beers etc.) and beer dates can be fully reimbursed.
-All costs must be within a common sense limit. No ***** hotel, no luxury.
+- All costs during a business trip should be covered, including food, transportation, accommodation, representation costs.
+- Preferably paid by a company bank card. Always provide invoices.
+- Costs of business meeting (coffees / lunches / dinnerrs / beers etc.) and beer dates can be fully reimbursed.
+- All costs must be within a common sense limit. No ***** hotel, no luxury.
 
 ##### Policy: Company financed learning (for everyone and all circles in the Lab)
-- Get an invoice for the the company. Pay by company card/transfer if possible.
 - Up to 2000 EUR + VAT / person / year (incl. travel costs)
+- Get an invoice for the the company. Pay by company card/transfer if possible.
+- This includes travel and related costs as defined in [Policy: Business cost reimbursement](#policy-business-cost-reimbursement) so that all these costs count against your learning budget.
 - Make it transparent at https://docs.google.com/spreadsheets/d/1n1xfIGBuBe1IAIjhP-SUL0LrzrLgYIjZm2XaaFaV-rY/edit#gid=0
 - Make a brownbag talk if possible.
 
