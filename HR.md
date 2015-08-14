@@ -5,8 +5,8 @@ Purpose, Domains, Accountabilities defined by parent circle.
 
 ### Lead Link - Cassus
 ### Rep Link -
-### Facilitator -
-### Secretary -
+### Facilitator - Petak
+### Secretary - Tojas
 
 ### Org. Dev - Cassus, Petak
 Purpose: Develop other organizations
