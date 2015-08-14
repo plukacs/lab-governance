@@ -43,19 +43,19 @@ Purpose: Unspecified.
 
 ## Domain: Ownership system and Employee/Partner compensation
 
-### Policy: Probation time and ownership cliff
+##### Policy: Probation time and ownership cliff
 Probation time is 3 months, when it comes to ownership there is a one year cliff.
 
 ## Domain: Salary system and peer-reviews
 
-### Policy: Employee money
+##### Policy: Employee money
 Salary formula, levels, Glue levels and Glue multiplier: https://docs.google.com/spreadsheets/d/1voxCpH29Lr8OlSuG7JL51BQSAwQPfVzkdpkM7aR9GbU/edit#gid=118044564
 
-### Policy: Part-time
+##### Policy: Part-time
 If you are an x% part-time employee in the Lab, you get x% pay and x% ownership.
 This is a company level policy.
 
-### Policy: Salary process
+##### Policy: Salary process
 Assessments based on Level and Glue indicators.
  1. self assessment
  2. peer feedback with name (you'll only see your responses)
@@ -63,5 +63,5 @@ Assessments based on Level and Glue indicators.
  4. display results + pitch + questions
  5. self-set levels and glue can be challenged by anyone until the next work day. Use the conflict resolution process.
 
-### Policy: Peer review frequency
+##### Policy: Peer review frequency
 Peer reviews are every 3 months after the divident payments.
