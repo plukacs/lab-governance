@@ -1,7 +1,5 @@
 # Lab / HR
-Purpose:
-- Satisfied partners
-- A-class people
+Purpose, Domains, Accountabilities defined by parent circle.
 
 ## Roles
 

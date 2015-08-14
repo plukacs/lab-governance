@@ -1,21 +1,5 @@
 # Lab / Product Dev / Emarsys
-## Purpose:
-- satisfied Emarsys
-- money (min €5500 / month / person)
-
-## Accountabilities:
-- planning architecture
-- developing good product
-- demoing weekly
-- delivering quality code
-- coding
-- sprint planning
-
-## Domains:
-- SMS product design
-- client relation
-- working methods
-- architecture
+Purpose, Domains, Accountabilities defined by parent circle.
 
 ## Roles
 ### Lead Link - Banyo Marci
@@ -24,9 +8,9 @@
 ### Secretary - Marci
 
 ### Process Facilitator - Tojas
-#### Purpose:
-stable velocity
-#### Accountabilities:
+Purpose: stable velocity
+
+Accountabilities:
 - overseeing dev process
 - facilitating daily standups
 - estimating
@@ -36,27 +20,28 @@ stable velocity
 - collecting tech info
 - going to Emarsys tech demo
 
-#### Domains:
+Domains:
 - tech tools
 - tech processes
 
 ### Product Owner - Banyo, Dani
-#### Purpose: 
-happy customer, happy vienna
-#### Accountabilities:
+Purpose:
+- happy customer, happy vienna
+
+Accountabilities:
 - translating business need to user stories with acceptance criteria
 - creating mockups 
 - explorational testing
 
-#### Domains:
+Domains:
 - relations with EMS / PM / third parties
 
 ### Dev - Laci, Tojas, Marci
-#### Accountabilities:
+Accountabilities:
 - implementing software based on user stories which meets the DoD
 
 ### Steward
-#### Accountabilities:
+Accountabilities:
 - reviewing code in its domain at least weekly
 - ensuring quality in its domain
 
@@ -70,10 +55,10 @@ happy customer, happy vienna
 
 ## All functions & activities within the Circle
 
-### Policy: Dependency resolution
+##### Policy: Dependency resolution
 The assignee should resolve any emerging dependency for the current week.
 
-### Policy: Estimation
+##### Policy: Estimation
 Next week's commitment is reestimated by the team before the demo, 
 taking the roadmap into account.
 UI tasks' estimation must be based on existing and approved mockups.
@@ -82,24 +67,24 @@ separate tasks in the same user story.
 If there is lack of information to estimate a user story, then estimation is
 forbidden and has to be marked.
 
-### Policy: Development process
+##### Policy: Development process
 - To do
 - In progress
 - Done
 - Reviewed
 
-### Policy: JIRA usage
+##### Policy: JIRA usage
 We set the assignee and the assigner, we discuss and clarify all the AC. 
 We add external dependencies as tasks for the Emarsys staff. 
 If you find a bug add it to JIRA backlog.
 
-### Policy: Definition of well-defined
+##### Policy: Definition of well-defined
 A well defined task should:
 - have acceptance criteria
 - contain only one UI component
 - have mockups
 
-### Policy: Definition of done
+##### Policy: Definition of done
 A card only can move to done if:
 - there are integration tests about the acceptance criteria
 - unit test coverage is almost 100%
@@ -110,12 +95,12 @@ A card only can move to done if:
 - doesn't break the build
 - you informed the others about the breaking changes
 
-### Policy: QA
+##### Policy: QA
 Every task must have someone who will assure its quality. 
 He/She has to check on the staging environment whether all AC are met. 
 Every task have to be QA-d by its assigner in JIRA with special attention to edge cases.
 
-### Policy: Meetings and schedule
+##### Policy: Meetings and schedule
 - Retro: Weekly, Friday after the demo (16:00)
 - Governance meeting: Monthly (or if requested on retro for next), Monday after sprint launch (11:00)
 - Sprint planning and launch: Weekly, Monday (10:00)
@@ -123,24 +108,24 @@ Every task have to be QA-d by its assigner in JIRA with special attention to edg
 - Demo: Weekly, Friday (15:00)
 - Inner demo: Weekly, Friday (12:00)
 
-### Policy: Demo
+##### Policy: Demo
 We don't demo incomplete features at all. 
 
-### Policy: Inner demo
+##### Policy: Inner demo
 Inner schedule for inner demo:
 - Demo the features of the current sprint
 - Reestimation of the commitment
 - Estimation forward
 
-### Policy: Sick leave
+##### Policy: Sick leave
 If you are sick tell the team ASAP on Slack Emarsys channel. 
 The rest of the team should reestimate the sprint and tell the changes to Emarsys. 
 Sick people aren't counted in the reestimation for that week.
 
-### Policy: Timesheet
+##### Policy: Timesheet
 At the end of the day fill in the timesheet.
 
-### Policy: Standup
+##### Policy: Standup
 The default time is 9:30 AM.
 It is mandatory for all the developers to attend, in case of home-office he/she should join on Hangouts.
 It is not mandatory but recommended for PO-s.
@@ -153,6 +138,6 @@ The fix agenda for the meeting:
 - Burndown chart
 - Contribution graph
 
-### Policy: Home office
+##### Policy: Home office
 Let your circle know on the previous day if you're working from home all day long.
 Write your request on the slack channel. If nobody has objection, you are free to stay home.

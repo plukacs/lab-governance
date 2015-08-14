@@ -1,7 +1,5 @@
 # Lab / Product Dev / Visibl
-## Purpose
- - Satisfied Visibl
- - Minimum €25000 / month
+Purpose, Domains, Accountabilities defined by parent circle.
 
 ## Roles
 
@@ -11,13 +9,12 @@
 ### Secretary - Anikó
 
 ## Steward Roles
-
-### Accountabilities
+Accountabilities:
 - decides on foundation
 - reviews code
 - is responsible for quality
 
-### Checklist
+Checklist:
 - was caught up with code review at some point last week
 - test cases were written before starting implementation of last week's tasks
 
@@ -27,9 +24,11 @@
 ### Ruby backend - Erik
 ### React - Cassus
 
+
+
 ## All functions & activities within the Circle
 
-### Meetings
+##### Meetings
 - _Standup_: report last day's achievments and the plan for next day on Slack #standup
 - _Tactical, governance, demo_: retrospective before the demo meeting
   - go through the tickets
@@ -39,27 +38,27 @@
   - fill the todo after the demo, create clarification tasks for anything uncertain
   - if there is a call for reactions of any kind, you may positively sign that you do not have a reaction by putting your hand on the table
 
-### Branching
+##### Branching
 - Use `master` branch
 - Codeship deploys to production
 - Use feature branches if needed
 - Force push to `stage` to deploy your code to staging
 
-### Definition of DONE
+##### Definition of DONE
 - works locally
 - has tests, unit tests, integration tests including UI interaction and mocked server
 - Looks good enough for the user to understand it (not less usable than the original version if there is such)
 - codeship success
 - deployed and works in production
 
-### A well defined task
+##### A well defined task
 - only contains at maximum 1 new UI component
 - Acceptance criteria on the cards, as subtasks
 
-### Before starting a task commit test cases without bodies and review them together
+##### Before starting a task commit test cases without bodies and review them together
 Our aim is to have the test titles ready before the estimation
 
-### If you run into foundation stuff, make a card for it so that others are aware
+##### If you run into foundation stuff, make a card for it so that others are aware
 
-### Codeship
+##### Codeship
 - When you finish for the day, make sure that codeship is green. Revert if needed.
