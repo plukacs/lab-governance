@@ -39,9 +39,6 @@ Accountabilities:
 
 - Scheduling events, notifying and updating members, preparing meeting agenda and booking location (especially booking a meeting room if needed)
 
-### Culture - Petak
-Purpose: Unspecified.
-
 ## Domain: All functions & activities within the Circle
 
 ### Policy: Async governance process
