@@ -328,7 +328,7 @@ After probation time, employees gain
 ##### Policy: Company purchases
 If you need to purchase some asset or service for the company (and you have passed the 3rd month of your employment) you can buy it (preferably with the company card to ease administration) up to 200 EUR/year/asset class.
 - Give the invoice to the finance role and upload it to the Google Drive's relevant subfolder (LabCoop/biz admin/accounting/incoming invoices). https://goo.gl/7QmdqK
-- Partners can combine their budgets to purchase something more expensive together
+- Partners may _not_ combine their budgets to purchase something more expensive together
 - Add the newly purchased asset to the asset inventory. https://goo.gl/AzyIEF
 - Before deciding on the purchase take advice from the roles/people the purchase will affect (for example: finance, office, biz).
 - To help the company, you can invoice for the company: 1. services (taxi, flgiht ticket to London but to Mallorca, etc) and 2. devices (anything we could potentially use in a client or internal product project, like a smart watch, but its price is below 100k HUF). If using the company card, you have to pre-validate with the finance and admin roles. If requested, you have to be able to bring that device to the company. If you leave the company, you have to consult with finance and admin roles to get it out from the company inventory. If the company can reimburse you the VAT than it would do so, which is the finance role's call.
