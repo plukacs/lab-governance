@@ -62,7 +62,7 @@ Salary formula, levels, Glue levels and Glue multiplier: https://docs.google.com
 If your commitment was `x%` part-time but you spent significantly more `y%` of your efforts on the Lab you can retroactively adjust your part-time ratio.
 
 - With the explicit support of the two people you most worked with.
-- Not before the last divident pay.
+- You may only change your part-time ratio for periods after last divident pay.
 - Update your part-time percent value in the slary sheet.
 
 ##### Policy: Salary process
