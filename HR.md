@@ -55,8 +55,15 @@ Probation time is 3 months, when it comes to ownership there is a one year cliff
 Salary formula, levels, Glue levels and Glue multiplier: https://docs.google.com/spreadsheets/d/1voxCpH29Lr8OlSuG7JL51BQSAwQPfVzkdpkM7aR9GbU/edit#gid=118044564
 
 ##### Policy: Part-time
-If you are an x% part-time employee in the Lab, you get x% pay and x% ownership.
-This is a company level policy.
+- If you are an `x%` part-time employee in the Lab, you get `x%` pay and `x%` ownership.
+- You can't go above 100%
+
+##### Policy: Part-time ratio retroactive adjustments
+If your commitment was `x%` part-time but you spent significantly more `y%` of your efforts on the Lab you can retroactively adjust your part-time ratio.
+
+- With the explicit support of the two people you most worked with.
+- Not before the last divident pay.
+- Update your part-time percent value in the slary sheet.
 
 ##### Policy: Salary process
 Assessments based on Level and Glue indicators.
