@@ -8,7 +8,7 @@ Purpose, Domains, Accountabilities defined by parent circle.
 ### Facilitator - Petak
 ### Secretary - Tojas
 
-### Org. Dev - Cassus, Petak
+### Org. Dev - Cassus
 Purpose: Develop other organizations
 
 ### Recruiter - Cassus, Petak
