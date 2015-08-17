@@ -305,13 +305,13 @@ Services
  - Personal income tax report filed by the company's accountant.
    NOT available for part time or during probation time. (If you are part time than the company can not oversee all your major activities  so we can not take responsibility for filing your report. You only get your first divident after the end of your probation time, so this is why we won't file your report until being at the company for the long run.) We file the employees' report only about fiscal years she he worked at the company. We do not file the report if you don't work at the company at the time of filing the report.
  - Company cell phone plan, not restricting the employees in-land voice or data usage. Unlimited roaming only for business purposes.
- - Travel insurance for business trips (worldwide, basic sport included), charged / day. You need to let frigyik.marta@mpk.hu know 5 workdays before your trip. You have to travel with your insurance plastic card. Details of the insurance: https://drive.google.com/drive/u/0/folders/0B6JxQVzWxgy4dEJJWGhuRElUZms
-   NOT available for part time or during probation time.
+Above ones are NOT available for part time or during probation time.
+ - Travel insurance for business trips (worldwide, basic sport included, charged / day). You need to let frigyik.marta@mpk.hu know 5 workdays before your trip. You have to travel with your insurance plastic card. Details of the insurance: https://drive.google.com/drive/u/0/folders/0B6JxQVzWxgy4dEJJWGhuRElUZms
 
 Devices
 - Cell phone up to 400 EUR + VAT. iPhone (as it is more expensive) can only be paid, if the person is an iOS developer or if it is a must have for his or her work for another reason. If the employee wants to buy a more expensive device then the difference must be reimbursed. In case the employee would leave the company, he or she should buy that phone from the company on the market price.
 Only on request.
-NOT available for part time or during probation time.
+Above ones are NOT available for part time or during probation time.
 - Laptop. Preferably with 3 year, on site warranty. Due price-value balance and short warranty, Mac only if it is worth due productivity or a must. If an employee has a good enough laptop, the company could buy it on market price, if it financially makes sense, decided case by case.
 - External screen.
 
@@ -338,7 +338,7 @@ To help the company, you can invoice the company for the below things (service, 
 - 2. devices (anything we could potentially use in a client or internal product project, like a smart watch, but its price is below 100k HUF).
 
 ##### Policy: Personal usage of company services
-To help the company, you can use the below services paid by the company and reimburse them.
+To help the company, you can use the below services through the company and reimburse them to the company.
 - Travel insurance
 
 ##### Policy: Financial Liability Accounting
