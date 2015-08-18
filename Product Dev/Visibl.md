@@ -81,3 +81,9 @@ Our aim is to have the test titles ready before the estimation
 
 ##### Browser support
 IE9 and up
+
+### Transparent client communication
+Share any results of client communication that effects the group publicly. That can be easily done if you follow these guidelines:
+ - When you chat with Visibl make sure to use a public slack channel.
+ - When you email With Visibl make sure visibl@lab.coop is on CC
+ - When you have a call with Visibl put the outputs to Asana tasks/comments or take notes to slack.
