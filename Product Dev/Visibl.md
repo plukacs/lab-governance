@@ -48,6 +48,7 @@ A pull request becomes eligible for async once it is posted to #visibl on Slack
 - Codeship deploys to production
 - Use feature branches if needed
 - Force push to `stage` to deploy your code to staging
+- Prefix features branches with your name so we know which branch belongs to whom. eg. `cassus-pretty-icons`
 
 ##### Definition of DONE
 - works locally
