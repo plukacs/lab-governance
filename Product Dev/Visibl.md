@@ -30,6 +30,7 @@ Checklist:
 
 ### Policy: Async governance process
 We use the same Async governance process as TLC
+A pull request becomes eligible for async once it is posted to #visibl on Slack
 
 ##### Meetings
 - _Standup_: report last day's achievments and the plan for next day on Slack #standup
