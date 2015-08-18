@@ -274,10 +274,10 @@ Use [Asana](https://app.asana.com/0/31935013151061) for top level circle boards
 ## Domain: Company resources (mandatory for all roles and circles)
 
 ##### Policy: Business cost reimbursement
-All costs during a business trip should be covered, including food, transportation, accommodation, representation costs.
-Preferably paid by a company bank card. Always provide invoices.
-Costs of business meeting (coffees / lunches / dinnerrs / beers etc.) and beer dates can be fully reimbursed.
-All costs must be within a common sense limit. No ***** hotel, no luxury.
+- All costs during a business travel should be covered, including food, transportation, accommodation, representation costs.
+- Preferably paid by a company bank card. Always provide invoices.
+- Costs of business meeting (coffees / lunches / dinnerrs / beers etc.) and beer dates can be fully reimbursed.
+- All costs must be within a common sense limit. No ***** hotel, no luxury.
 
 ##### Policy: Company financed learning (for everyone and all circles in the Lab)
 - Get an invoice for the the company. Pay by company card/transfer if possible.
@@ -305,12 +305,13 @@ Services
  - Personal income tax report filed by the company's accountant.
    NOT available for part time or during probation time. (If you are part time than the company can not oversee all your major activities  so we can not take responsibility for filing your report. You only get your first divident after the end of your probation time, so this is why we won't file your report until being at the company for the long run.) We file the employees' report only about fiscal years she he worked at the company. We do not file the report if you don't work at the company at the time of filing the report.
  - Company cell phone plan, not restricting the employees in-land voice or data usage. Unlimited roaming only for business purposes.
-   NOT available for part time or during probation time.
+Above ones are NOT available for part time or during probation time.
+ - Travel insurance for business trips (worldwide, basic sport included, charged / day). You need to let frigyik.marta@mpk.hu know 5 workdays before your trip. You have to travel with your insurance plastic card. Details of the insurance: https://drive.google.com/drive/u/0/folders/0B6JxQVzWxgy4dEJJWGhuRElUZms
 
 Devices
 - Cell phone up to 400 EUR + VAT. iPhone (as it is more expensive) can only be paid, if the person is an iOS developer or if it is a must have for his or her work for another reason. If the employee wants to buy a more expensive device then the difference must be reimbursed. In case the employee would leave the company, he or she should buy that phone from the company on the market price.
 Only on request.
-NOT available for part time or during probation time.
+Above ones are NOT available for part time or during probation time.
 - Laptop. Preferably with 3 year, on site warranty. Due price-value balance and short warranty, Mac only if it is worth due productivity or a must. If an employee has a good enough laptop, the company could buy it on market price, if it financially makes sense, decided case by case.
 - External screen.
 
@@ -326,15 +327,23 @@ After probation time, employees gain
 - access to company credit cards
 
 ##### Policy: Company purchases
-If you need to purchase some asset or service for the company (and you have passed the 3rd month of your employment) you can buy it (preferably with the company card to ease administration) up to 200 EUR/year/asset class.
-- Give the invoice to the finance role and upload it to the Google Drive's relevant subfolder (LabCoop/biz admin/accounting/incoming invoices). https://goo.gl/7QmdqK
+- If you need to purchase some asset or service for the company (and you have passed the 3rd month of your employment) you can buy it (preferably with the company card to ease administration) up to 200 EUR/year/asset class. If it is above 200 EUR or you do not want to make the decision yourself you can ask the finance and biz role about the purchase. If you do not want to do the purchase yourself ask the office role.
+- Preferably paid by a company bank card. Always provide invoices. Give the invoice to the finance role and upload it to the Google Drive's relevant subfolder (LabCoop/biz admin/accounting/incoming invoices). https://goo.gl/7QmdqK
 - Add the newly purchased asset to the asset inventory. https://goo.gl/AzyIEF
 - Before deciding on the purchase take advice from the roles/people the purchase will affect (for example: finance, office, biz).
-- To help the company, you can invoice for the company: 1. services (taxi, flgiht ticket to London but to Mallorca, etc) and 2. devices (anything we could potentially use in a client or internal product project, like a smart watch, but its price is below 100k HUF). If using the company card, you have to pre-validate with the finance and admin roles. If requested, you have to be able to bring that device to the company. If you leave the company, you have to consult with finance and admin roles to get it out from the company inventory. If the company can reimburse you the VAT than it would do so, which is the finance role's call.
 
-If it is above 200 EUR or you do not want to make the decision yourself you can ask the finance and biz role about the purchase.
+##### Policy: Purchases with company invoice
+You can invoice the company for the below things (service, devices):
+- 1. services (taxi, flgiht ticket to London but to Mallorca, etc)
+- 2. devices (anything we could potentially use in a client or internal product project, like a smart watch, but its price is below 100k HUF).
+Restrictions:
+- If using the company card, you have to pre-validate with the finance and admin roles.
+- If requested, you have to be able to bring that device to the company.
+- If you leave the company, you have to consult with finance and admin roles to take it from the company inventory.
 
-If you do not want to do the purchase yourself ask the office role.
+##### Policy: Usage of company services
+You can use the below services through the company:
+- Travel insurance
 
 ##### Policy: Financial Liability Accounting
 To account any kinds of financial liabilities, we use [Splitwise](https://www.splitwise.com) mobile app.
