@@ -196,8 +196,11 @@ Purpose:
  - Upselling potential
  - Endless clients
 
+Accountabilities:
+- Following client and team needs, moreover legal framework in human resource allocation
+
 Domains:
- - Developer allocation
+ - Human resource allocation
  - Choice of clients
  - Choice of technologies / workflows
 
