@@ -8,13 +8,42 @@ Purpose, Domains, Accountabilities defined by parent circle.
 ### Facilitator - David
 ### Secretary - Anikó
 
+
 ### Developer
-Accountability:
-- taking tasks from the backlog and implementing them
 
 Purpose: Product
 
+Accountability:
+- taking tasks from the backlog and implementing them
+
+### Agile Pony
+
+Purpose: Efficient team
+
+Domains:
+- asana setup
+- methodologies in use
+
+### Tech lead
+
+Purpose: sustainable development
+
+Domain:
+- technical decisions not covered by steward roles
+
+### PO-proxy
+
+Purpose: satisfied client and represents the PO, users within the team
+
+Accpountabilities:
+- Manage client expectations
+
+Domains:
+- Backlog
+
+
 ## Steward Roles
+
 Accountabilities:
 - decides on foundation
 - reviews code
