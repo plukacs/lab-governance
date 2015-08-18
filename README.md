@@ -1,5 +1,18 @@
 # Lab
-Purpose: Build Tech Ventures
+Purpose:
+
+- Sharing resources & risks to build ventures, learn, and get money.
+- Sharing risk & resources between entrepreneurs to learn & improve through building ventures.
+- Doing what you are good at while learning from those who are better than you.
+- A community of A class partners to learn from and build tech ventures with while having fun in an innovative organization.
+- A community that lets partners experiment, learn & build by sharing risks and resources.
+- Learning new technologies from professional people.
+- An entrepreneur community where you share risk, earn money, learn, build ventures & have fun.
+- A fun way how partners are sharing risks and working towards building ventures.
+- An entrepreneurial community of A class partners building tech ventures and providing each other a stable, motivating & challenging work environment.
+- Risk & resource community of entrepreneurs aiming to build scalable tech ventures, learn, and have fun in order to create financial wealth together.
+- A constantly evolving community of constantly evolving partners.
+
 
 ## ROLES
 
@@ -8,69 +21,222 @@ Purpose: Build Tech Ventures
 ### Secretary - Dani
 
 ### Admin - Virag, Petak
-Purpose: Unspecified.
-Accountibility:
- - Handling paperwork.
+Purpose:
+- Run the company operations
+
+Accountibilities:
  - Managing Partner data (birth, name, tax number ...).
  - Pre-filling admin forms with all known data before sending it to Partners.
+ - Daily management
+ - Keeping internal administration on track
+ 
+Domains:
+ - Paperwork
 
 ### Resource manager - Marci Banyo
-Purpose: Clarity on our commitments and available resources
+Purpose:
+- Clarity on our commitments and available resources
 
-### Biz, Biz Dev	- Petak 
-Purpose: Unspecified.
-Accountibility: 
-- Decide about non-human insurance plans.
+Accountabilities:
+- Giving info to HR
+- Tracking allocation information for sales
+- Giving info to biz for return calibaration
 
-### Finances - Virag
-Purpose: Unspecified.
-Accountibility: Working with the accountant. Managing all financial issues.
+Domains:
+- Allocation of human resources on projects and branches
 
-### Legal - Petak (Nora Kiss)
-Purpose: Unspecified.
-Accountibility: Writing and reviewing all our contracts. Making sure our accounting and financial practices are legal.
+
+### Biz, Biz Dev - Petak
+
+Purpose:
+- Good business relations with other companies
+- Financial stability
+- Strong partnerships
+
+Accountabilities:
+- Creating the business plan
+- Managing the consurtium
+- Deciding about non-human insurance plans
+
+Domains:
+- Business plan and model
+- Every budget in the company
+
+
+### Finance - Virag
+
+Purpose:
+- Financial clarity and stability
+
+Accountabilities:
+- Invoicing
+- Tax planning and paying
+- Choosing and working with the accountant
+- Optimizing financial processes
+- Tracking cash-flow
+- Managing every financial issue
+- Making transactions
+
+Domains:
+- Accountant
+- Bank accounts
+- Financial best practices
+
+
+### Corporate lawyer - Nora Kiss
+
+Purpose:
+- Keep the company safe
+- Well written contracts
+
+Accountabilities:
+- Making sure that accounting and financial practices are legal
+- Reviewing, writing legal documents
+
+Domains:
+- Text of contracts (both internal and external)
+
+
+### Stróman - Peták
+
+Purpose:
+- Match business needs and legal documentation
+
+Accountabilities:
+- Final reviewing and signing contracts
+- Working with the corporate lawyer
+
+Domains:
+- Choose corporate lawyer
+- Signatory right
+
 
 ### OrgDev Consulting Branch - Cassus
-Purpose: Unspecified.
+
+Purpose:
+- Improve clients' organizations
+- Money
+
+Accountabilities:
+- Generating new clients
+
+Domains:
+- Clients
 
 ### Strategy - Petak, Tojas
-Purpose: Define strategy
-Accountability: Setting up mid and long run plans. Seeing the big picture. Overseeing the Lab's all activities as a system. Preparing incubation projects. Present KPIs and strategic changes monthly to the whole company.
+
+Purpose:
+- Clear strategy for the organization
+
+Accountabilities:
+- Keeping in touch with advisors
+- Following market trends
+- Exploring market opportunities
+- Keeping shareholders in the loop
+- Setting up mid and long run plans
+- Seeing the big picture
+- Presenting KPIs and strategic changes monthly to the whole company
+
+Domains:
+- Vision
+- Long term goals
+- To start and stop branches
+
 
 ### Office and Supplies - Virag
-Purpose: Unspecified.
-Accountibility: Buying food, office equipment, tech devices to the office. Managing the office's daily operations. Fixing broken things in the office.
+
+Purpose: Unspecified
+
+Accountabilities:
+- Buying food, office equipment to the office
+- Managing the office's daily operations
+- Fixing broken things in the office (except tech equipment)
+
+Domains:
+
 
 ### Tech Support - Jeszi
-Purpose: Unspecified.
-Accountibility: fix tech stuff around office: TV, wifi, printer, updateing computers, calling Dell waranty service etc
+
+Purpose: Unspecified
+
+Accountabilities:
+- Fixing tech stuff around office: TV, wifi, printer, updateing computers
+- Ordering tech devices and services
+- Calling Dell waranty service
+
+Domains:
 
 ## CIRCLES
 
 ### Education Branch Circle - Barbi
-Purpose: Unspecified.
 
-### Product Branch Circle - Peták (until Banyó has time...)
-Purpose: Unspecified.
+Purpose:
+- Training thech industry professionals
+
+Accountabilities:
+- Organizing courses
+- Teaching
+
+Domains:
+- External education
+- Syllabus
+
+
+### Product Development Branch Circle - Peták (until Banyó has time...)
+
+Purpose:
+ - Endless Money :) $$$$
+ - Satisfied clients
+ - Stable cash flow
+ - Perfect reputation
+ - Upselling potential
+ - Endless clients
+
+Domains:
+ - Developer allocation
+ - Resource management
+ - Choice of clients
+ - Choice of technologies / workflows
+
 
 ### HR Circle - Cassus
-Purpose: Unspecified.
+
+Purpose:
+- Satisfied partners
+- A-class people
 
 ### Company Wide Circle - Peták
-Purpose: Unspecified.
 
-## Domain: All functions & activities within the Circle (TLC only)
+Purpose:
+- Involvment
 
-### PR, Marketing - Dani
-Purpose: Unspecified.
-Accountibility: Copywriting, press outreach, website, social media, blog.
+### Marketing-PR - Dani
 
-### Policy: Agenda building and administration
+Purpose:
+- Continuous good reputation and reach
+
+Accountabilities:
+- Copywriting
+- press outreach
+- website
+- social media
+- blog
+
+
+
+
+
+
+
+
+## Domain: All functions & activities within the Circle
+
+##### Policy: Agenda building and administration
  - Proposals are announced and written down in English in the beginning
  - Again at the end
  - Put your proposal in words before the governance meeting in a Pull Request.
 
-### Policy: Async governance process (TLC)
+##### Policy: Async governance process (TLC)
 1. Create a pull request from your proposal. Put your tension in the description of the pull request.
 2. Members of the circle have 3 workdays to ask Clarifying Questions, give Reactions, voice Objections. Every pull request is automatically posted to Slack's #governance.
    - You can show your support with :+1: ( that is _colon_ + "+1" + _colon_ )
@@ -80,34 +246,46 @@ Accountibility: Copywriting, press outreach, website, social media, blog.
 3. You can amend and clarify your proposal, integrate objections by adding changes to the pull request. The time window for Clarifying Questions, Reactions and Objections restart with each amendment or clarification.
 4. The circle's secretary has to merge the pull request if there are no objections in the given period.
 
-### Policy: Long policies
+##### Policy: Long policies
 Policy proposals longer than 10 sentences must be shared at least 48h before the governance meeting to enable the circle to prepare properly for the governance meeting. If the policy if complex than pre-governance discussions are preferable.
 
-### Policy: Penatly for being late from TLC stad-ups and meetings
+##### Policy: Penatly for being late from TLC stad-ups and meetings
 Who’s late from TLC stand-ups and meetings owes one beer/chocolate/one third of a bottle of wine for the team, there’s a paper on the door where we follow this
 Except when someone lets the others know that s/he is not coming at least 1h before the meeting, and the meeting should be started without them
 Facilitator keeps the log
 Old Brickflow beer debts are brought to the Brickflow farewell party
 Postponing a meeting is OK if all parties agreed
 
-### Policy: Asana for top level boards
+##### Policy: Asana for top level boards
 Use [Asana](https://app.asana.com/0/31935013151061) for top level circle boards
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Domain: Company resources (mandatory for all roles and circles)
 
-### Policy: Business cost reimbursement
+##### Policy: Business cost reimbursement
 All costs during a business trip should be covered, including food, transportation, accommodation, representation costs.
 Preferably paid by a company bank card. Always provide invoices.
 Costs of business meeting (coffees / lunches / dinnerrs / beers etc.) and beer dates can be fully reimbursed.
 All costs must be within a common sense limit. No ***** hotel, no luxury.
 
-### Policy: Company financed learning (for everyone and all circles in the Lab)
+##### Policy: Company financed learning (for everyone and all circles in the Lab)
 - Get an invoice for the the company. Pay by company card/transfer if possible.
 - Up to 2000 EUR + VAT / person / year (incl. travel costs)
 - Make it transparent at https://docs.google.com/spreadsheets/d/1n1xfIGBuBe1IAIjhP-SUL0LrzrLgYIjZm2XaaFaV-rY/edit#gid=0
 - Make a brownbag talk if possible.
 
-### Policy: Employee Benefits (for everyone and all circles in the Lab)
+##### Policy: Employee Benefits (for everyone and all circles in the Lab)
 
 Office
  - tea
@@ -136,18 +314,18 @@ NOT available for part time or during probation time.
 - Laptop. Preferably with 3 year, on site warranty. Due price-value balance and short warranty, Mac only if it is worth due productivity or a must. If an employee has a good enough laptop, the company could buy it on market price, if it financially makes sense, decided case by case.
 - External screen.
 
-### Policy: Insurance deductible
+##### Policy: Insurance deductible
 - Company covers all devices with an insurance plan. In case somebody: physically breaks, looses or gets stolen a device outside the office than that person needs to pay the insurance deductible.
 
-### Policy: Device security
+##### Policy: Device security
 Prey application has to be installed on each and every company cell phones and laptops. The responsibile person is always the user of the device. https://preyproject.com/
 
-### Policy: Probation
+##### Policy: Probation
 Probation period: 3 months.
 After probation time, employees gain
 - access to company credit cards
 
-### Policy: Company purchases
+##### Policy: Company purchases
 If you need to purchase some asset or service for the company (and you have passed the 3rd month of your employment) you can buy it (preferably with the company card to ease administration) up to 200 EUR/year/asset class.
 - Give the invoice to the finance role and upload it to the Google Drive's relevant subfolder (LabCoop/biz admin/accounting/incoming invoices). https://goo.gl/7QmdqK
 - Add the newly purchased asset to the asset inventory. https://goo.gl/AzyIEF
@@ -158,7 +336,7 @@ If it is above 200 EUR or you do not want to make the decision yourself you can 
 
 If you do not want to do the purchase yourself ask the office role.
 
-### Policy: Financial Liability Accounting
+##### Policy: Financial Liability Accounting
 To account any kinds of financial liabilities, we use [Splitwise](https://www.splitwise.com) mobile app.
 - You owe the company
 - You paid something on behalf of the company, so the company owes you
@@ -170,58 +348,60 @@ To account any kinds of financial liabilities, we use [Splitwise](https://www.sp
 
 
 
+
+
 ## Domain: other Company-Wide policies (default for all roles and circles)
 
-### Policy: Calendar and meetings
+##### Policy: Calendar and meetings
 Have your calendar email address at ContactSheet.
 Share your private calendar free-busy status publicly (or with everyone in the ContactSheet). Keep your private calendar free-busy status for work hours up to date. Pay extra attention to mark full-day events as "busy" if you're not available.
 
 ContactSheet: https://docs.google.com/spreadsheets/d/1311Z9D_srqIJhXcKYxcZV6xy0dS_ADp_k1SHI96G_PQ/edit#gid=0
 
-### Policy: Collaboration should be above your work
+##### Policy: Collaboration should be above your work
 It is key to communicate seamlessly to work together. Make it a daily priority to answer your emails, slack messages, invites etc.
 
-### Policy: Assigning Tasks
+##### Policy: Assigning Tasks
 If you (re)assign a task, the assignee has to accept, otherwise you are responsible for the task. No answer means that the assignee has accepted. If the asignee cannot accept it, he or she should help finding an assignee.
 
-### Policy: Learning - FedExDay
+##### Policy: Learning - FedExDay
 There is a FedEx day (a 24 hour "hackatlon") on the first Friday of every 3rd month. (First occasion: 2015-07-03)
 Every kind of project is welcomed (does not have to be Lab related).
 The teams have to arrive with a proposal and deliver the full project at the end of the day.
 
-### Policy: Google Drive usage (mandatory for all roles and circles)
+##### Policy: Google Drive usage (mandatory for all roles and circles)
  - Keep all docs on drive in the respective folder.
  - Use the Drive app for synchronization.
 
-### Policy: Governance log (mandatory for all roles and circles)
+##### Policy: Governance log (mandatory for all roles and circles)
 All the policies are logged on Github.
 
-### Policy: Holiday planning
+##### Policy: Holiday planning
  - Let others know about your holiday plans on Slack
  - Let your circles' leadlink and your clients know 3x the length of your planned holiday (in workdays) before the start of it, but minimum 5 workdays before in writing
  - Letting them know within this period doesn't mean that it's no allowed, but can result in decline (if your plan is not safe to fail)
 
-### Policy: Home office
+##### Policy: Home office
 Let your circle know on the previous day if you're working from home all day long.
 
-### Policy: Language
+##### Policy: Language
 All our written documents must be in English unless it's not possible.
 
-### Policy: Meetings
+##### Policy: Meetings
 Take and share notes if relevant. If two people attend a meeting, one of them should take notes.
 
-### Policy: Office hygiene (mandatory for all roles and circles)
+##### Policy: Office hygiene (mandatory for all roles and circles)
 Clean your desk everyday after yourself: no food, no dirty dishes. Leave the office clean every day. Do not risk that someone else, who walks in with a guest would feel ashamed. Or just throws up.
 
-### Policy: Stand-ups
+##### Policy: Stand-ups
 Separate circle standups. Each circle is free to decide if they have a standup or not.
 Focus on what was achieved yesterday and what is your goal for the day and what obstacles you have.
 Time boxing is important, to not spend too much time on standupping
 
-### Policy: Time tracking
+##### Policy: Time tracking
 We should track the time dedicated to each role, even internal roles. Preferably use one, company wide tool.
 
-### Policy: Transparency levels (mandatory for all roles and circles)
+##### Policy: Transparency levels (mandatory for all roles and circles)
 Public:
  - [Governance](https://github.com/Brickflow/lab-governance) records
  - Salary formula (without personal records)
@@ -233,11 +413,11 @@ Private:
  - Drive
  - Personal salary parameters, end salary
 
-### Policy: Transparent task progress report
+##### Policy: Transparent task progress report
 Make sure every week, before the tactical meeting, that all your cards are up-to-date.
 Comment on cards what you tell on tactical as update.
 
-### Policy: Conflict resolution process (for all circles and roles)
+##### Policy: Conflict resolution process (for all circles and roles)
 Applies to any type of disagreement. This could be a difference of opinion about a technical decision, an interpersonal conflict or a breach of values. Specifically, it can be used in performance issues when one colleague believes that another is not pulling his weight.
 
 Since the disagreement is private, all parties are expected to respect confidentiality during and after the processes. Of course, this confidentiality also applies to the two persons at the heart of the conflict. They must resolve their disagreement between themselves and are discouraged from spreading the conflict by enlisting support and building rival factions.

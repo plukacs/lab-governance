@@ -1,4 +1,7 @@
-Roles
+# Lab / Edu branch
+Purpose, Domains, Accountabilities defined by parent circle.
+
+## Roles
 
 Lead Link - Barbi
 
