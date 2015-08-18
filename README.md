@@ -119,6 +119,14 @@ Accountabilities:
 Domains:
 - Clients
 
+### Venture builder - ?
+Purpose:
+- Building Ventures
+
+Accountabilities:
+- Validating ideas
+- Building MVP tests
+
 ### Strategy - Petak, Tojas
 
 Purpose:
