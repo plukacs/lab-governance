@@ -8,6 +8,12 @@ Purpose, Domains, Accountabilities defined by parent circle.
 ### Facilitator - David
 ### Secretary - Anikó
 
+### Developer
+Accountability:
+- taking tasks from the backlog and implementing them
+
+Purpose: Product
+
 ## Steward Roles
 Accountabilities:
 - decides on foundation
