@@ -33,17 +33,13 @@ Accountibilities:
 Domains:
  - Paperwork
 
-### Resource manager - Marci Banyo
+### Resource clarity - Marci Banyo
 Purpose:
 - Clarity on our commitments and available resources
 
 Accountabilities:
-- Giving info to HR
 - Tracking allocation information for sales
 - Giving info to biz for return calibaration
-
-Domains:
-- Allocation of human resources on projects and branches
 
 
 ### Biz, Biz Dev - Petak
@@ -194,7 +190,6 @@ Purpose:
 
 Domains:
  - Developer allocation
- - Resource management
  - Choice of clients
  - Choice of technologies / workflows
 
