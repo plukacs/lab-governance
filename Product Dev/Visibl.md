@@ -8,6 +8,12 @@ Purpose, Domains, Accountabilities defined by parent circle.
 ### Facilitator - David
 ### Secretary - Anikó
 
+### Developer
+Accountability:
+- taking tasks from the backlog and implementing them
+
+Purpose: Product
+
 ## Steward Roles
 Accountabilities:
 - decides on foundation
@@ -21,12 +27,17 @@ Checklist:
 ### CSS - Anikó
 ### Testing - Cassus
 ### TradeDesk - David
-### Ruby backend - Erik
+### Ruby backend - David
 ### React - Cassus
+### Analytics - Erik
 
 
 
 ## All functions & activities within the Circle
+
+### Policy: Async governance process
+We use the same Async governance process as TLC
+A pull request becomes eligible for async once it is posted to #visibl on Slack
 
 ##### Meetings
 - _Standup_: report last day's achievments and the plan for next day on Slack #standup
@@ -43,13 +54,15 @@ Checklist:
 - Codeship deploys to production
 - Use feature branches if needed
 - Force push to `stage` to deploy your code to staging
+- Prefix features branches with your name so we know which branch belongs to whom. eg. `cassus-pretty-icons`
 
 ##### Definition of DONE
 - works locally
-- has tests, unit tests, integration tests including UI interaction and mocked server
+- has tests if it makes sense
 - Looks good enough for the user to understand it (not less usable than the original version if there is such)
 - codeship success
 - deployed and works in production
+- for any visible or user noticeable change, a screenshot (if static change), animgif screencast (if interaction change), and link (optional) shared in #development in Visibl Slack and attached to the Asana task. you don't have to wait for a response, this is only to make our changes/progress more transparent.
 
 ##### A well defined task
 - only contains at maximum 1 new UI component
@@ -66,3 +79,5 @@ Our aim is to have the test titles ready before the estimation
 #### change infrastructure safely
 - When configuring a third party service, work in a pair if you are not confident or there is no revert option.
 
+##### Browser support
+IE9 and up
