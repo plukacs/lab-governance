@@ -189,6 +189,7 @@ Purpose:
  - Endless clients
 
 Domains:
+ - Developer allocation
  - Choice of clients
  - Choice of technologies / workflows
 
