@@ -218,19 +218,19 @@ Purpose:
 - Strong brand (business, emloyer, professional branding)
 
 ####Accountibilities
-- Networking for PR partners
+- Networking with PR professionals
+- Building media partnerships
 - Press outreach
 - Keeping the website up-to-date
 - Keeping social media channels up-to-date
 - Organizing, participating and sponsoring events
 - Writing copy
-- Having a native speaker proofread texts
+- Proofreading
 
 ####Domains
 - Company image, design, brand
-- PR strategy
-- Marketing communication strategy
-- Granted budget allocation
+- PR
+- Marketing communication
 
 
 ## Domain: All functions & activities within the Circle
