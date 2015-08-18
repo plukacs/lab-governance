@@ -332,13 +332,17 @@ After probation time, employees gain
 - Add the newly purchased asset to the asset inventory. https://goo.gl/AzyIEF
 - Before deciding on the purchase take advice from the roles/people the purchase will affect (for example: finance, office, biz).
 
-##### Policy: Personal purchases with company invoices, 
-To help the company, you can invoice the company for the below things (service, devices). If using the company card, you have to pre-validate with the finance and admin roles. If requested, you have to be able to bring that device to the company. If you leave the company, you have to consult with finance and admin roles to get it out from the company inventory. If the company can reimburse you the VAT than it would do so, which is the finance role's call.
+##### Policy: Purchases with company invoice
+You can invoice the company for the below things (service, devices):
 - 1. services (taxi, flgiht ticket to London but to Mallorca, etc)
 - 2. devices (anything we could potentially use in a client or internal product project, like a smart watch, but its price is below 100k HUF).
+Restrictions:
+- If using the company card, you have to pre-validate with the finance and admin roles.
+- If requested, you have to be able to bring that device to the company.
+- If you leave the company, you have to consult with finance and admin roles to take it from the company inventory.
 
-##### Policy: Personal usage of company services
-To help the company, you can use the below services through the company and reimburse them to the company.
+##### Policy: Usage of company services
+You can use the below services through the company:
 - Travel insurance
 
 ##### Policy: Financial Liability Accounting
