@@ -10,7 +10,7 @@
 ### Facilitator - David
 ### Secretary - Anikó
 
-### Agile Monkey
+### Agile Pony
 
 Purpose: Efficient team
 
