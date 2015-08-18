@@ -76,5 +76,8 @@ Our aim is to have the test titles ready before the estimation
 ##### Codeship
 - When you finish for the day, make sure that codeship is green. Revert if needed.
 
-##### Browser suppport
+#### change infrastructure safely
+- When configuring a third party service, work in a pair if you are not confident or there is no revert option.
+
+##### Browser support
 IE9 and up
