@@ -6,7 +6,7 @@ Purpose, Domains, Accountabilities defined by parent circle.
 ### Emarsys - Banyo Marci
 Purpose:
 - satisfied Emarsys
-- money (min €5500 / month / person)
+- Make minimum €5500 / month / FTE
 
 Accountabilities:
 - planning architecture
@@ -15,10 +15,11 @@ Accountabilities:
 - delivering quality code
 - coding
 - sprint planning
+- Following the client contract
 
 Domains:
 - SMS product design
-- client relation
+- Client relation
 - working methods
 - architecture
 
@@ -26,8 +27,10 @@ Domains:
 ### Visibl - Cassus
 Purpose:
  - Satisfied Visibl
- - Minimum €25000 / month
+ - Make minimum €25000 / month / 4 FTE
 
+Accountabilities:
+- Following the client contract
 
 ## Roles
 
@@ -89,6 +92,7 @@ Purpose:
 
 Accountability:
  - Making channel copy and validation tests
+ - Following the client contract
 
 Domain:
  - Client relations
