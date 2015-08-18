@@ -205,6 +205,10 @@ Purpose:
 - Satisfied partners
 - A-class people
 
+Accountabilities:
+- Scanning IDs of new hires to https://drive.google.com/drive/u/0/folders/0B_dmDpfClsCFWlNfRE55Tnh2SlU
+- Adding personal data of new hires to https://docs.google.com/a/brickflow.com/document/d/1pUMIv8rYsxvQ6-oiGw7ieaxIMLxSIXZREr_edReSR3c/edit?usp=sharing
+
 ### Company Wide Circle - Peták
 
 Purpose:
