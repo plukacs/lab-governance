@@ -62,3 +62,6 @@ Our aim is to have the test titles ready before the estimation
 
 ##### Codeship
 - When you finish for the day, make sure that codeship is green. Revert if needed.
+
+##### Browser suppport
+IE9 and up
