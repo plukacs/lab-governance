@@ -437,7 +437,7 @@ Focus on what was achieved yesterday and what is your goal for the day and what 
 Time boxing is important, to not spend too much time on standupping
 
 ##### Policy: Time tracking
-We should track the time dedicated to each role, even internal roles. Preferably use one, company wide tool.
+Use toggl as company wide timetracking tool. Track the time dedicated to each role, even internal roles
 
 ##### Policy: Transparency levels (mandatory for all roles and circles)
 Public:
