@@ -197,7 +197,7 @@ Purpose:
  - Endless clients
 
 Accountabilities:
-- Following client and team needs, moreover legal framework in human resource allocation
+- Following client and team needs, client contract and labour law in human resource allocation
 
 Domains:
  - Human resource allocation
