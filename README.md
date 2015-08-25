@@ -20,30 +20,29 @@ Purpose:
 ### Facilitator - Cassus
 ### Secretary - Dani
 
-### Admin - Virag, Petak
+### Admin - Virag, B Dani
 Purpose:
 - Run the company operations
 
 Accountibilities:
  - Managing Partner data (birth, name, tax number ...).
  - Pre-filling admin forms with all known data before sending it to Partners.
- - Daily management
  - Keeping internal administration on track
+ - HR admin
+ - Client admin
+ - Financial admin
+ - Send and pick up post
  
 Domains:
  - Paperwork
 
-### Resource manager - Marci Banyo
+### Resource clarity - Marci Banyo
 Purpose:
 - Clarity on our commitments and available resources
 
 Accountabilities:
-- Giving info to HR
 - Tracking allocation information for sales
 - Giving info to biz for return calibaration
-
-Domains:
-- Allocation of human resources on projects and branches
 
 
 ### Biz, Biz Dev - Petak
@@ -71,7 +70,7 @@ Purpose:
 Accountabilities:
 - Invoicing
 - Tax planning and paying
-- Choosing and working with the accountant
+- Working with the accountant
 - Optimizing financial processes
 - Tracking cash-flow
 - Managing every financial issue
@@ -79,7 +78,7 @@ Accountabilities:
 
 Domains:
 - Accountant
-- Bank accounts
+- Bank
 - Financial best practices
 
 
@@ -123,6 +122,14 @@ Accountabilities:
 Domains:
 - Clients
 
+### Venture builder - ?
+Purpose:
+- Building Ventures
+
+Accountabilities:
+- Validating ideas
+- Building MVP tests
+
 ### Strategy - Petak, Tojas
 
 Purpose:
@@ -148,7 +155,7 @@ Domains:
 Purpose: Unspecified
 
 Accountabilities:
-- Buying food, office equipment to the office
+- Buying food, office equipment to the office (Tesco)
 - Managing the office's daily operations
 - Fixing broken things in the office (except tech equipment)
 
@@ -192,9 +199,11 @@ Purpose:
  - Upselling potential
  - Endless clients
 
+Accountabilities:
+- Following client and team needs, client contract and labour law in human resource allocation
+
 Domains:
- - Developer allocation
- - Resource management
+ - Human resource allocation
  - Choice of clients
  - Choice of technologies / workflows
 
@@ -205,6 +214,11 @@ Purpose:
 - Satisfied partners
 - A-class people
 
+Accountabilities:
+- Scanning IDs of new hires to https://drive.google.com/drive/u/0/folders/0B_dmDpfClsCFWlNfRE55Tnh2SlU
+- Adding personal data of new hires to https://docs.google.com/a/brickflow.com/document/d/1pUMIv8rYsxvQ6-oiGw7ieaxIMLxSIXZREr_edReSR3c/edit?usp=sharing
+- Keeping the onboaring process (including relevant materials) uptodate, assigning roles to the steps of the process. This happens on JIRA of course.
+
 ### Company Wide Circle - Peták
 
 Purpose:
@@ -212,21 +226,25 @@ Purpose:
 
 ### Marketing-PR - Dani
 
-Purpose:
-- Continuous good reputation and reach
+####Purpose
+- Having continuous good reputation and reach
+- Inbound leads through good reputation
+- Strong brand (business, emloyer, professional branding)
 
-Accountabilities:
-- Copywriting
-- press outreach
-- website
-- social media
-- blog
+####Accountibilities
+- Networking with PR professionals
+- Building media partnerships
+- Press outreach
+- Keeping the website up-to-date
+- Keeping social media channels up-to-date
+- Organizing, participating and sponsoring events
+- Writing copy
+- Proofreading
 
-
-
-
-
-
+####Domains
+- Company image, design, brand
+- PR
+- Marketing communication
 
 
 ## Domain: All functions & activities within the Circle
@@ -274,7 +292,7 @@ Use [Asana](https://app.asana.com/0/31935013151061) for top level circle boards
 ## Domain: Company resources (mandatory for all roles and circles)
 
 ##### Policy: Business cost reimbursement
-- All costs during a business trip should be covered, including food, transportation, accommodation, representation costs.
+- All costs during a business travel should be covered, including food, transportation, accommodation, representation costs.
 - Preferably paid by a company bank card. Always provide invoices.
 - Costs of business meeting (coffees / lunches / dinnerrs / beers etc.) and beer dates can be fully reimbursed.
 - All costs must be within a common sense limit. No ***** hotel, no luxury.
@@ -306,12 +324,13 @@ Services
  - Personal income tax report filed by the company's accountant.
    NOT available for part time or during probation time. (If you are part time than the company can not oversee all your major activities  so we can not take responsibility for filing your report. You only get your first divident after the end of your probation time, so this is why we won't file your report until being at the company for the long run.) We file the employees' report only about fiscal years she he worked at the company. We do not file the report if you don't work at the company at the time of filing the report.
  - Company cell phone plan, not restricting the employees in-land voice or data usage. Unlimited roaming only for business purposes.
-   NOT available for part time or during probation time.
+Above ones are NOT available for part time or during probation time.
+ - Travel insurance for business trips (worldwide, basic sport included, charged / day). You need to let frigyik.marta@mpk.hu know 5 workdays before your trip. You have to travel with your insurance plastic card. Details of the insurance: https://drive.google.com/drive/u/0/folders/0B6JxQVzWxgy4dEJJWGhuRElUZms
 
 Devices
 - Cell phone up to 400 EUR + VAT. iPhone (as it is more expensive) can only be paid, if the person is an iOS developer or if it is a must have for his or her work for another reason. If the employee wants to buy a more expensive device then the difference must be reimbursed. In case the employee would leave the company, he or she should buy that phone from the company on the market price.
 Only on request.
-NOT available for part time or during probation time.
+Above ones are NOT available for part time or during probation time.
 - Laptop. Preferably with 3 year, on site warranty. Due price-value balance and short warranty, Mac only if it is worth due productivity or a must. If an employee has a good enough laptop, the company could buy it on market price, if it financially makes sense, decided case by case.
 - External screen.
 
@@ -327,21 +346,30 @@ After probation time, employees gain
 - access to company credit cards
 
 ##### Policy: Company purchases
-If you need to purchase some asset or service for the company (and you have passed the 3rd month of your employment) you can buy it (preferably with the company card to ease administration) up to 200 EUR/year/asset class.
-- Give the invoice to the finance role and upload it to the Google Drive's relevant subfolder (LabCoop/biz admin/accounting/incoming invoices). https://goo.gl/7QmdqK
+- If you need to purchase some asset or service for the company (and you have passed the 3rd month of your employment) you can buy it (preferably with the company card to ease administration) up to 200 EUR/year/asset class. If it is above 200 EUR or you do not want to make the decision yourself you can ask the finance and biz role about the purchase. If you do not want to do the purchase yourself ask the office role.
+- Preferably paid by a company bank card. Always provide invoices. Give the invoice to the finance role and upload it to the Google Drive's relevant subfolder (LabCoop/biz admin/accounting/incoming invoices). https://goo.gl/7QmdqK
 - Add the newly purchased asset to the asset inventory. https://goo.gl/AzyIEF
 - Before deciding on the purchase take advice from the roles/people the purchase will affect (for example: finance, office, biz).
-- To help the company, you can invoice for the company: 1. services (taxi, flgiht ticket to London but to Mallorca, etc) and 2. devices (anything we could potentially use in a client or internal product project, like a smart watch, but its price is below 100k HUF). If using the company card, you have to pre-validate with the finance and admin roles. If requested, you have to be able to bring that device to the company. If you leave the company, you have to consult with finance and admin roles to get it out from the company inventory. If the company can reimburse you the VAT than it would do so, which is the finance role's call.
 
-If it is above 200 EUR or you do not want to make the decision yourself you can ask the finance and biz role about the purchase.
+##### Policy: Purchases with company invoice
+You can invoice the company for the below things (service, devices):
+- 1. services (taxi, flgiht ticket to London but to Mallorca, etc)
+- 2. devices (anything we could potentially use in a client or internal product project, like a smart watch, but its price is below 100k HUF).
+Restrictions:
+- If using the company card, you have to pre-validate with the finance and admin roles.
+- If requested, you have to be able to bring that device to the company.
+- If you leave the company, you have to consult with finance and admin roles to take it from the company inventory.
 
-If you do not want to do the purchase yourself ask the office role.
+##### Policy: Usage of company services
+You can use the below services through the company:
+- Travel insurance
 
 ##### Policy: Financial Liability Accounting
 To account any kinds of financial liabilities, we use [Splitwise](https://www.splitwise.com) mobile app.
 - You owe the company
 - You paid something on behalf of the company, so the company owes you
 - Someone in the team paid you something personal, like lunch
+- Company reimbursment happens over 10k HUF and in 10k bulks
 
 
 
@@ -392,7 +420,14 @@ All our written documents must be in English unless it's not possible.
 Take and share notes if relevant. If two people attend a meeting, one of them should take notes.
 
 ##### Policy: Office hygiene (mandatory for all roles and circles)
-Clean your desk everyday after yourself: no food, no dirty dishes. Leave the office clean every day. Do not risk that someone else, who walks in with a guest would feel ashamed. Or just throws up.
+Leave the office clean every day. Do not risk that someone else, who walks in with a guest would feel ashamed. Or just throws up.
+- clean your desk everyday after yourself: no food, no dirty dishes
+- clean common spaces / meeting desks after using it
+- use dishwasher according to the magnet on the front (clean/dirty). If it is possible put your dirty dishes in the dishwasher. Take clean dishes out and put them to their place.
+- the last person leaving should start the dishwasher
+- collect the trash selectively
+- take the trash bag down if it is full and put in a new one
+- do not disturb the meetings of others with loud noise
 
 ##### Policy: Stand-ups
 Separate circle standups. Each circle is free to decide if they have a standup or not.
