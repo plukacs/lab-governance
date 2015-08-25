@@ -70,7 +70,7 @@ Purpose:
 Accountabilities:
 - Invoicing
 - Tax planning and paying
-- Wrking with the accountant
+- Working with the accountant
 - Optimizing financial processes
 - Tracking cash-flow
 - Managing every financial issue
