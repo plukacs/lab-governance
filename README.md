@@ -20,7 +20,7 @@ Purpose:
 ### Facilitator - Cassus
 ### Secretary - Dani
 
-### Admin - Virag, Petak
+### Admin - Virag, B Dani
 Purpose:
 - Run the company operations
 
