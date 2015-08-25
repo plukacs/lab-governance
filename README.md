@@ -415,7 +415,14 @@ All our written documents must be in English unless it's not possible.
 Take and share notes if relevant. If two people attend a meeting, one of them should take notes.
 
 ##### Policy: Office hygiene (mandatory for all roles and circles)
-Clean your desk everyday after yourself: no food, no dirty dishes. Leave the office clean every day. Do not risk that someone else, who walks in with a guest would feel ashamed. Or just throws up.
+Leave the office clean every day. Do not risk that someone else, who walks in with a guest would feel ashamed. Or just throws up.
+- clean your desk everyday after yourself: no food, no dirty dishes
+- clean common spaces / meeting desks after using it
+- use dishwasher according to the magnet on the front (clean/dirty). If it is possible put your dirty dishes in the dishwasher. Take clean dishes out and put them to their place.
+- the last person leaving should start the dishwasher
+- collect the trash selectively
+- take the trash bag down if it is full and put in a new one
+- do not disturb the meetings of others with loud noise
 
 ##### Policy: Stand-ups
 Separate circle standups. Each circle is free to decide if they have a standup or not.
