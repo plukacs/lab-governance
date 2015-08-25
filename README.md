@@ -27,8 +27,11 @@ Purpose:
 Accountibilities:
  - Managing Partner data (birth, name, tax number ...).
  - Pre-filling admin forms with all known data before sending it to Partners.
- - Daily management
  - Keeping internal administration on track
+ - HR admin
+ - Client admin
+ - Financial admin
+ - Send and pick up post
  
 Domains:
  - Paperwork
@@ -67,7 +70,7 @@ Purpose:
 Accountabilities:
 - Invoicing
 - Tax planning and paying
-- Choosing and working with the accountant
+- Wrking with the accountant
 - Optimizing financial processes
 - Tracking cash-flow
 - Managing every financial issue
@@ -75,7 +78,7 @@ Accountabilities:
 
 Domains:
 - Accountant
-- Bank accounts
+- Bank
 - Financial best practices
 
 
@@ -152,7 +155,7 @@ Domains:
 Purpose: Unspecified
 
 Accountabilities:
-- Buying food, office equipment to the office
+- Buying food, office equipment to the office (Tesco)
 - Managing the office's daily operations
 - Fixing broken things in the office (except tech equipment)
 
