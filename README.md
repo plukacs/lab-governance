@@ -122,7 +122,7 @@ Accountabilities:
 Domains:
 - Clients
 
-### Venture builder - ?
+### Venture builder - Peták
 Purpose:
 - Building Ventures
 
