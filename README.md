@@ -201,6 +201,7 @@ Purpose:
 
 Accountabilities:
 - Following client and team needs, client contract and labour law in human resource allocation
+- Only re-allocating anyone from a role or circle (including sub-circles) in a shorter notice than 6 weeks is only possible, if it has been approved by the biz role in TLC and by the LL of the Product Development Branch Circle. 
 
 Domains:
  - Human resource allocation
