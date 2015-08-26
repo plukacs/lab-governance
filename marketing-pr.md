@@ -9,34 +9,49 @@ Purpose, Domains, Accountabilities defined by parent circle.
 ### Facilitator - Anikó
 ### Secretary - Dani
 
+### Lab Marketing - Dani
+
+####Purpose
+
+####Accountabilities
+- Building media partnerships
+- Press outreach
+- Keeping the website up-to-date
+- Keeping social media channels up-to-date
+- Writing copy
+- Proofreading
+
+####Domains
+
 ### Events & Community - Anikó
 
-Purpose:
+####Purpose
 - Strong and continuous presence on events
 
-Accountabilities:
+####Accountabilities
 - Coordinating event organization
 - Partnering with events
 - Coordinating speaking opportunities
 
-Domains:
+####Domains
 - Sponsoring decisions
 - Events to organize
 
 ### Evangelist - Petak
 
-Purpose:
+####Purpose
 - Personal representation of the brand and the organization
 - Trustworthy brand through personal reputation
 
-Accountabilities:
+####Accountabilities
+- Networking with PR professionals
 - Networking
 - Perticipating on events
 - Representing the organization in any public manner, public speaking
 - Keeping good personal relation with the press and public figures
 - Collecting and sharing feedback about perception
 
-Domains:
+####Domains
 - Choose events to go
 
 
