@@ -390,7 +390,8 @@ Share your private calendar free-busy status publicly (or with everyone in the C
 ContactSheet: https://docs.google.com/spreadsheets/d/1311Z9D_srqIJhXcKYxcZV6xy0dS_ADp_k1SHI96G_PQ/edit#gid=0
 
 ##### Policy: Collaboration should be above your work
-It is key to communicate seamlessly to work together. Make it a daily priority to answer your emails, slack messages, invites etc.
+It is key to communicate seamlessly to work together. Make it a daily priority to answer your emails, slack messages, invites, task manager comments etc.
+Secretaries of each circle are responsible to keep the Slack channels, Asana Boards, Google Drive folders etc. coherent (for example naming conventions) to each other and to the circle structure.
 
 ##### Policy: Assigning Tasks
 If you (re)assign a task, the assignee has to accept, otherwise you are responsible for the task. No answer means that the assignee has accepted. If the asignee cannot accept it, he or she should help finding an assignee.
