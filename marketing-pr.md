@@ -38,3 +38,13 @@ Accountabilities:
 
 Domains:
 - Choose events to go
+
+
+##Policies
+
+####Blogging
+1. The author submits the appr. 1000 words/1 page piece by the deadline in the content calendar (https://app.asana.com/0/44672153194213/45703914727374)
+2. Marketing-PR Circle Lead Link reviews it, also from SEO point of view (but please take these instructions into account when writing http://searchengineland.com/quality-content-factors-list-thats-actually-helpful-213796)
+3. If necessary author revises the article based on the review
+4. Have it proofread by a native speaker
+5. Publish weekly one article
