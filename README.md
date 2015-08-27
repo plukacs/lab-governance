@@ -75,6 +75,7 @@ Accountabilities:
 - Tracking cash-flow
 - Managing every financial issue
 - Making transactions
+- Reimbursing partners for company cost
 
 Domains:
 - Accountant
