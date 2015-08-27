@@ -372,6 +372,7 @@ To account any kinds of financial liabilities, we use [Splitwise](https://www.sp
 - You paid something on behalf of the company, so the company owes you
 - Someone in the team paid you something personal, like lunch
 - Company reimbursment happens over 10k HUF and in 10k bulks
+- You have to use 'LabCoop' group for all your payments
 
 
 
