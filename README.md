@@ -389,6 +389,9 @@ Share your private calendar free-busy status publicly (or with everyone in the C
 
 ContactSheet: https://docs.google.com/spreadsheets/d/1311Z9D_srqIJhXcKYxcZV6xy0dS_ADp_k1SHI96G_PQ/edit#gid=0
 
+##### Policy: Account Logins
+Store all service login names, account emails, passwords etc. in the Logins sheet. This sould include not only the compnay wide accounts, but also all the personal, but mission critical account details. https://goo.gl/xHOHkq
+
 ##### Policy: Collaboration should be above your work
 It is key to communicate seamlessly to work together. Make it a daily priority to answer your emails, slack messages, invites etc.
 
