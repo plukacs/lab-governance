@@ -381,13 +381,13 @@ To account any kinds of financial liabilities, we use [Splitwise](https://www.sp
 
 
 
-## Domain: other Company-Wide policies (default for all roles and circles)
+## Domain: other Company-Wide policies (mandatory by default for all roles and circles)
 
 ##### Policy: Calendar and meetings
-Have your calendar email address at ContactSheet.
-Share your private calendar free-busy status publicly (or with everyone in the ContactSheet). Keep your private calendar free-busy status for work hours up to date. Pay extra attention to mark full-day events as "busy" if you're not available.
+Share your private calendar free-busy status publicly (or with everyone in the ContactSheet). Keep your private calendar free-busy status for work hours up to date. Pay extra attention to mark full-day events as "busy" if you're not available. Have your calendar email address at "Personal data + Contact" sheet.
 
-ContactSheet: https://docs.google.com/spreadsheets/d/1311Z9D_srqIJhXcKYxcZV6xy0dS_ADp_k1SHI96G_PQ/edit#gid=0
+##### Policy: Personal data + Contact sheet
+Keep it uptodate and notify Admin role in case of any change. https://goo.gl/NTI6Dl
 
 ##### Policy: Collaboration should be above your work
 It is key to communicate seamlessly to work together. Make it a daily priority to answer your emails, slack messages, invites etc.
@@ -400,11 +400,11 @@ There is a FedEx day (a 24 hour "hackatlon") on the first Friday of every 3rd mo
 Every kind of project is welcomed (does not have to be Lab related).
 The teams have to arrive with a proposal and deliver the full project at the end of the day.
 
-##### Policy: Google Drive usage (mandatory for all roles and circles)
+##### Policy: Google Drive usage
  - Keep all docs on drive in the respective folder.
  - Use the Drive app for synchronization.
 
-##### Policy: Governance log (mandatory for all roles and circles)
+##### Policy: Governance log
 All the policies are logged on Github.
 
 ##### Policy: Holiday planning
@@ -421,7 +421,7 @@ All our written documents must be in English unless it's not possible.
 ##### Policy: Meetings
 Take and share notes if relevant. If two people attend a meeting, one of them should take notes.
 
-##### Policy: Office hygiene (mandatory for all roles and circles)
+##### Policy: Office hygiene
 Leave the office clean every day. Do not risk that someone else, who walks in with a guest would feel ashamed. Or just throws up.
 - clean your desk everyday after yourself: no food, no dirty dishes
 - clean common spaces / meeting desks after using it
@@ -439,9 +439,9 @@ Time boxing is important, to not spend too much time on standupping
 ##### Policy: Time tracking
 We should track the time dedicated to each role, even internal roles. Preferably use one, company wide tool.
 
-##### Policy: Transparency levels (mandatory for all roles and circles)
+##### Policy: Transparency levels
 Public:
- - [Governance](https://github.com/Brickflow/lab-governance) records
+ - [Governance](https://github.com/lab-coop/lab-governance) records
  - Salary formula (without personal records)
 
 Private:
@@ -455,7 +455,7 @@ Private:
 Make sure every week, before the tactical meeting, that all your cards are up-to-date.
 Comment on cards what you tell on tactical as update.
 
-##### Policy: Conflict resolution process (for all circles and roles)
+##### Policy: Conflict resolution process
 Applies to any type of disagreement. This could be a difference of opinion about a technical decision, an interpersonal conflict or a breach of values. Specifically, it can be used in performance issues when one colleague believes that another is not pulling his weight.
 
 Since the disagreement is private, all parties are expected to respect confidentiality during and after the processes. Of course, this confidentiality also applies to the two persons at the heart of the conflict. They must resolve their disagreement between themselves and are discouraged from spreading the conflict by enlisting support and building rival factions.
