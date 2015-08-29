@@ -92,7 +92,7 @@ A pull request becomes eligible for async once it is posted to #visibl on Slack
 - Looks good enough for the user to understand it (not less usable than the original version if there is such)
 - codeship success
 - deployed and works in production
-- for any visible or user noticeable change, a screenshot (if static change), animgif screencast (if interaction change), and link (optional) shared in #development in Visibl Slack and attached to the Asana task. you don't have to wait for a response, this is only to make our changes/progress more transparent.
+- for any Visibl or user noticeable change, a screenshot (if static change), animgif screencast (if interaction change), and link (optional) shared in #development in Visibl Slack and attached to the Asana task. you don't have to wait for a response, this is only to make our changes/progress more transparent.
 
 ##### A well defined task
 - only contains at maximum 1 new UI component
