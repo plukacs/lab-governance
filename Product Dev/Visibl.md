@@ -35,8 +35,9 @@ Domain:
 
 Purpose: satisfied client and represents the PO, users within the team
 
-Accpountabilities:
+Accountabilities:
 - Manage client expectations
+- Make holiday schedule transparent towards the client through the Visibl dev team holidays calendar
 
 Domains:
 - Backlog
