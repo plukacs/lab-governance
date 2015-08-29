@@ -7,6 +7,8 @@ Purpose, Domains, Accountabilities defined by parent circle.
 ### Rep Link - Tojas
 ### Facilitator - Petak
 ### Secretary - Tojas
+Accountibilities:
+ - Merging the Async pull request if there are no objections in the given period. (See)
 
 ### Org. Dev - Cassus
 Purpose: Develop other organizations
