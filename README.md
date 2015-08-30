@@ -20,7 +20,7 @@ Purpose:
 ### Facilitator - Cassus
 ### Secretary - Dani
 Accountibilities:
- - Merging the Async pull request if there are no objections in the given period. (See)
+ - Merging the Async pull request if there are no objections in the given period. (See [Policy: Async governance process (TLC)](#policy-async-governance-process-tlc))
 
 ### Admin - Virag, B Dani
 Purpose:
