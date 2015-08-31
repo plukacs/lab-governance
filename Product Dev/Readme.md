@@ -104,7 +104,7 @@ Domain:
 
 ### Policy: Async governance process
 We use the same Async governance process as TLC
-A pull request becomes eligible for async once it is posted to #visibl on Slack
+A pull request becomes eligible for async once it is posted to #product-circle on Slack
 
 ##### Policy: Bugfixing for clients
 Risk of bugs is managed in the planning phase preferably. 
