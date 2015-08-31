@@ -40,7 +40,7 @@ Purpose: satisfied client and represents the PO, users within the team
 
 Accountabilities:
 - Manage client expectations
-- Make holiday schedule transparent towards the client through the Visibl dev team holidays calendar
+- Make holiday schedule transparent towards the client through the Visibl dev team holidays calendar (lab.coop_khb0ef170b9le7jidqkuco8484@group.calendar.google.com)
 
 Domains:
 - Backlog
