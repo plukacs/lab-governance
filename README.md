@@ -384,7 +384,7 @@ To account any kinds of financial liabilities, we use [Splitwise](https://www.sp
 ## Domain: other Company-Wide policies (mandatory by default for all roles and circles)
 
 ##### Policy: Calendar and meetings
-Share your private calendar free-busy status publicly (or with everyone in the ContactSheet). Keep your private calendar free-busy status for work hours up to date. Pay extra attention to mark full-day events as "busy" if you're not available. Have your calendar email address at "Personal data + Contact" sheet.
+Share your private calendar free-busy status publicly (or with everyone in the ContactSheet). Keep your private calendar free-busy status for work hours up to date. Pay extra attention to mark full-day events as "busy" if you're not available. Have your calendar email address at "Personal data + Contact sheet" sheet: https://goo.gl/NTI6Dl
 
 ##### Policy: Personal data + Contact sheet
 Keep it uptodate and notify Admin role in case of any change. https://goo.gl/NTI6Dl
