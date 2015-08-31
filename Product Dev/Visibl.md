@@ -8,6 +8,10 @@ Purpose, Domains, Accountabilities defined by parent circle.
 ### Facilitator - Erik, mandate until 2015. dec 1.
 ### Secretary - Anikó, mandate until 2015. dec 1.
 
+Accountabilities:
+- Make holiday schedule transparent towards the client through the Visibl dev team holidays calendar and in sync with the timesheet
+(lab.coop_khb0ef170b9le7jidqkuco8484@group.calendar.google.com)
+
 
 ### Developer
 
@@ -19,7 +23,7 @@ Accountability:
 Checklist:
 - notified Visibl of all noticeable changes
 
-### Agile Pony
+### Agile Pony - Cassus
 
 Purpose: Efficient team
 
@@ -27,14 +31,14 @@ Domains:
 - asana setup
 - methodologies in use
 
-### Tech lead
+### Tech lead - Cassus
 
 Purpose: sustainable development
 
 Domain:
 - technical decisions not covered by steward roles
 
-### Product Owner
+### Product Owner - ?
 
 Accountabilities:
 - Prioritizing the dev backlog
@@ -47,13 +51,13 @@ Domains:
 - speed / quality tradeoffs
 - what improvements to release continuously and what to hold back for bigger releases
 
-### PO-proxy
+### PO-proxy - Cassus
 
 Purpose: satisfied client and represents the PO, users within the team
 
 Accountabilities:
 - Manage client expectations
-- Make holiday schedule transparent towards the client through the Visibl dev team holidays calendar (lab.coop_khb0ef170b9le7jidqkuco8484@group.calendar.google.com)
+
 
 Domains:
 - Backlog
@@ -102,6 +106,16 @@ A pull request becomes eligible for async once it is posted to #visibl on Slack
 - Force push to `stage` to deploy your code to staging
 - Prefix features branches with your name so we know which branch belongs to whom. eg. `cassus-pretty-icons`
 
+##### Doing status
+- Move the card to `Doing` before you start working on it.
+- Don’t work on cards not in `Doing`.
+
+##### Blocked status
+- When you’re waiting for an answer from someone at Visibl, tag the task with `waiting for Visibl`.
+- When you’re blocked by someone else, have the tag `blocked` on the task.
+- Whether the card was in `Todo` or in `Doing`, the card stays in the same place when you tag it.
+- Comment why it’s blocked.
+
 ##### Definition of DONE
 - works locally
 - has tests if it makes sense
@@ -118,6 +132,8 @@ A pull request becomes eligible for async once it is posted to #visibl on Slack
 
 ##### Before starting a task commit test cases without bodies and review them together
 Our aim is to have the test titles ready before the estimation
+
+##### For discussions that are not blocking a dev task, add a ticket to the `Visibl Discussions` project in Asana
 
 ##### If you run into foundation stuff, make a card for it so that others are aware
 
