@@ -18,6 +18,7 @@ Accountability:
 
 Checklist:
 - notified Visibl of all noticeable changes
+- test cases were written before starting implementation of last week’s tasks
 
 ### Agile Pony
 
@@ -68,7 +69,6 @@ Accountabilities:
 
 Checklist:
 - was caught up with code review at some point last week
-- test cases were written before starting implementation of last week’s tasks
 
 ### CSS - Anikó
 ### Testing - Cassus
