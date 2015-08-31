@@ -38,6 +38,8 @@ Accountabilities:
 ### Rep Link - Banyo Marci
 ### Facilitator - Banyo Marci
 ### Secretary - Cassus
+Accountability:
+ - Merging the Async pull request if there are no objections in the given period. (See [Policy: Async governance process](#policy-async-governance-process))
 
 ### Sales - Petak
 
