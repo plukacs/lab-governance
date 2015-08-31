@@ -16,6 +16,9 @@ Purpose: Product
 Accountability:
 - taking tasks from the backlog and implementing them
 
+Checklist:
+- notified Visibl of all noticeable changes
+
 ### Agile Pony
 
 Purpose: Efficient team
