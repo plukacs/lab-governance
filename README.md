@@ -438,6 +438,7 @@ Leave the office clean every day. Do not risk that someone else, who walks in wi
 - collect the trash selectively
 - take the trash bag down if it is full and put in a new one
 - do not disturb the meetings of others with loud noise
+- the last one leaving the office has to close all the windows, alarm the office and lock the external doors
 
 ##### Policy: Stand-ups
 Separate circle standups. Each circle is free to decide if they have a standup or not.
