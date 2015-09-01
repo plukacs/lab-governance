@@ -422,7 +422,7 @@ All our written documents must be in English unless it's not possible.
 Take and share notes if relevant. If two people attend a meeting, one of them should take notes.
 
 ##### Policy: Office hygiene (mandatory for all roles and circles)
-Leave the office clean every day. Do not risk that someone else, who walks in with a guest would feel ashamed. Or just throws up.
+Leave the office clean every day so it's a welcoming place for us and our guests.
 - general cleaning (washing-up, vacuum-cleaning etc.) is outsourced to a cleaning lady, coming every Monday
 - clean your desk everyday after yourself: no food, no dirty dishes
 - clean common spaces / meeting desks after using it
