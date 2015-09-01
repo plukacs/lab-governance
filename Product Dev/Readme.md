@@ -54,6 +54,8 @@ Accountability:
  - Cordinating with Biz analyst and Resource manager
  - Making offers
  - Pitching how we work
+ - Matching the estimation with: cilent resources - Lab.Coop resources - timeframe
+ - Rating client
 
 Domain:
  - Price
@@ -63,9 +65,10 @@ Purpose:
  - Quotation
 
 Accountability:
- - Defining service product
- - Creating initial product backlog and roadmap
  - Supporting sales
+ - Defining service product (for example the MVP)
+ - Creating initial product backlog and roadmap
+ - Understing the code, its quality and stage compared to initial product backlog
  - Proposing initial stack / architecture
  - Analizing client's product
  - Rating client
