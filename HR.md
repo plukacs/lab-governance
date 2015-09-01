@@ -46,6 +46,12 @@ Accountabilities:
 ### Policy: Async governance process
 We use the same [Async governance process as TLC](README.md#policy-async-governance-process-tlc)
 
+## Domain: Bootcamp (newcommer onboarding)
+
+### Policy: Bootcamp single source of truth
+- Bootcamp process template: https://app.asana.com/0/45872219775035/list
+- Welcome to the lab informal document: https://docs.google.com/document/d/1-MZNLsxHXaOlziC_skAsBJCFVnMcms3URl7xqrsdiZ0/edit?usp=sharing
+
 ## Domain: Ownership system and Employee/Partner compensation
 
 ##### Policy: Probation time and ownership cliff
