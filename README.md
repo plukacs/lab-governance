@@ -124,11 +124,15 @@ Domains:
 
 ### Venture builder - Peták
 Purpose:
-- Building Ventures
+- Building Scaleable Tech Ventures
 
 Accountabilities:
-- Validating ideas
-- Building MVP tests
+- Facilitating idea pitches and hackathons
+- Helping the product team: to validate ideas, build MVP tests, make business model, find resources
+- Making spin-off business modell
+
+Domains:
+- Go-no-go of spin-offs through advising process
 
 ### Strategy - Petak, Tojas
 
