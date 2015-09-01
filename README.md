@@ -444,7 +444,11 @@ Focus on what was achieved yesterday and what is your goal for the day and what 
 Time boxing is important, to not spend too much time on standupping
 
 ##### Policy: Time tracking
-We should track the time dedicated to each role, even internal roles. Preferably use one, company wide tool.
+- Use Toggl as company wide time tracking tool.
+- It's enough to put in your times at the end of the months, no need for constant Toggl ON-OFF pushing.
+- Each partner has to track the time dedicated to each role including internal roles.
+- Track with at least half day precision.
+- No task based time tracking is necessary.
 
 ##### Policy: Transparency levels (mandatory for all roles and circles)
 Public:
