@@ -75,6 +75,8 @@ Accountabilities:
 - Tracking cash-flow
 - Managing every financial issue
 - Making transactions
+- Handling Paypal, Transferwise and any other online payment system in use
+- Reimbursing
 
 Domains:
 - Accountant
