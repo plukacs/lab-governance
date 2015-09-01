@@ -431,7 +431,7 @@ Leave the office clean every day. Do not risk that someone else, who walks in wi
 - collect the trash selectively and take it down if it is full
 - take the trash bag down if it is full and put in a new one
 - do not disturb the meetings of others with loud noise
-- make sure to clear the fridge every Friday, as the cleaning lady if throwing out old food from the fridge each  Monday
+- make sure to clear the fridge every Friday, as the cleaning lady throws out old food from the fridge each Monday
 
 ##### Policy: Stand-ups
 Separate circle standups. Each circle is free to decide if they have a standup or not.
