@@ -432,6 +432,8 @@ Leave the office clean every day so it's a welcoming place for us and our guests
 - take the trash bag down if it is full and put in a new one
 - do not disturb the meetings of others with loud noise
 - make sure to clear the fridge every Friday, as the cleaning lady throws out old food from the fridge each Monday
+- refill the fridge if it is out of water, beer etc.
+- report to Office role if the office is out of something (beer, water etc.)
 
 ##### Policy: Stand-ups
 Separate circle standups. Each circle is free to decide if they have a standup or not.
