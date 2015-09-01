@@ -58,7 +58,7 @@ Accountability:
 Domain:
  - Price
 
-### Biz analyst - Banyo Marci
+### Biz analyst - Banyo Marci + all senior+ dev
 Purpose:
  - Quotation
 
