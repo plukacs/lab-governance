@@ -389,6 +389,10 @@ Share your private calendar free-busy status publicly (or with everyone in the C
 ##### Policy: Personal data + Contact sheet
 Keep it uptodate and notify Admin role in case of any change. https://goo.gl/NTI6Dl
 
+##### Policy: Account Logins
+Store all service user names, account emails, passwords etc. in the Logins sheet. https://goo.gl/xHOHkq
+This should include not only the compnay-wide accounts, but also all those personal accounts, which consist mission critical information in case of sick leave / holidays. Mission critical information can be anything, which's lack can block the team's / company's work. It is the account holders call to share it until it is not blocking other.
+
 ##### Policy: Collaboration should be above your work
 It is key to communicate seamlessly to work together. Make it a daily priority to answer your emails, slack messages, invites, task manager comments etc.
 Secretaries of each circle are responsible to keep the Slack channels, Asana Boards, Google Drive folders etc. coherent (for example naming conventions) to each other and to the circle structure.
