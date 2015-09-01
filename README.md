@@ -47,22 +47,33 @@ Accountabilities:
 - Giving info to biz for return calibaration
 
 
-### Biz, Biz Dev - Petak
+### Biz - Petak
 
 Purpose:
-- Good business relations with other companies
 - Financial stability
-- Strong partnerships
 
 Accountabilities:
-- Creating the business plan
-- Managing the consurtium
+- Creating and keeping the business plan
+- Planning and keeping cash-flow
 - Deciding about non-human insurance plans
+- Making business model
 
 Domains:
 - Business plan and model
 - Every budget in the company
 
+### Biz Dev - Petak
+
+Purpose:
+- Good business relations with other companies
+- Strong partnerships
+
+Accountabilities:
+- Managing the consurtium
+- Establishing business partnership
+
+Domains:
+- Partnerships
 
 ### Finance - Virag
 
