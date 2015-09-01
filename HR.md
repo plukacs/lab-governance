@@ -10,8 +10,8 @@ Purpose, Domains, Accountabilities defined by parent circle.
 Accountibilities:
  - Merging the Async pull request if there are no objections in the given period. (See [Policy: Async governance process](#policy-async-governance-process))
 
-### Org. Dev - Cassus
-Purpose: Develop other organizations
+### Organization Developer (OrgDev) - Cassus
+Purpose: Organization that can scale while keeping it’s agility.
 
 ### Recruiter - Cassus, Petak
 Purpose: People to hire
