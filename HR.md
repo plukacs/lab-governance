@@ -13,11 +13,27 @@ Accountibilities:
 ### Organization Developer (OrgDev) - Cassus
 Purpose: Organization that can scale while keeping it’s agility.
 
+Accountabilities:
+- Keeping 'Onboarding' Asana project up-to-date https://app.asana.com/0/45872219775035/list
+- Arranging NVC practice
+- Organizing team retreats
+
 ### Recruiter - Cassus, Petak
 Purpose: People to hire
 
-### Employee handbook editor - Latest hire
+Accountabilities:
+- Attracting partner candidates
+- Advising hiring and firing decisions
+- Testing, interviewing candidates
+- Arranging recruitment process
+- Building freelancer pool
+- Matching freelancers and hires with potential clients through an advising process
+
+### Employee onboarding handbook editor - Latest hire
 Purpose: Useful employee handbook
+
+Accountabilities:
+- Update 'Welcome to the Lab (employee onboarding handbook)' https://docs.google.com/document/d/1-MZNLsxHXaOlziC_skAsBJCFVnMcms3URl7xqrsdiZ0/edit?usp=sharing
 
 Domain: Employee handbook
 
