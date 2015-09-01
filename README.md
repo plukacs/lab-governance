@@ -200,13 +200,13 @@ Purpose:
  - Endless clients
 
 Accountabilities:
-- Following client and team needs, client contract and labour law in human resource allocation 
+- Following client and team needs, client contract and labour law in human resource dedication 
 
 Domains:
- - Human resource allocation
+ - Human resource dedication
   - Partners can be dedicated to work on a Client projects within the Product Development Branch Circle
    - Each week (in average) works on the Client Project for the time agreed with the Client
-  - Changing dedication needs to be based on info from the following roles:
+  - For changing dedication, advising process is necessary with the following roles:
    - Product Development Branch Circle LL
    - Client Product Circle LL
    - Biz
@@ -220,7 +220,7 @@ Domains:
    - Price, pricing
    - Project timeframe
   - The above listed roles can block the above listed changes up to 2 weeks above the legal minimum (usually 4 weeks), if the roles decide in their domains that the decision is not safe to fail
-  - The above listed roles have to agree with changes within their domains, which happen in a shorter period than 4 weeks
+  - The roles listed above holds authority in their defined domains regardless of timing of requests
  - Choice of clients
  - Choice of technologies / workflows
 
