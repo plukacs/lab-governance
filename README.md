@@ -467,6 +467,11 @@ Private:
 Make sure every week, before the tactical meeting, that all your cards are up-to-date.
 Comment on cards what you tell on tactical as update.
 
+##### Policy: Hiring and Firing Process
+- Advising process with Lead Links, Biz, Sales, Recruiter, OrgDev, Legal roles to take financial, client, human and legal into consideration
+- Breaking the law, a contract or planning to make a financially not-safe-to-fail decision is a blocker 
+- No Lead Link wants to give role is a blocker to hire / reason to fire
+
 ##### Policy: Conflict resolution process
 Applies to any type of disagreement. This could be a difference of opinion about a technical decision, an interpersonal conflict or a breach of values. Specifically, it can be used in performance issues when one colleague believes that another is not pulling his weight.
 
