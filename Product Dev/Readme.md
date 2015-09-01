@@ -99,6 +99,9 @@ Purpose:
 Accountability:
  - Making channel copy and validation tests
  - Following the client contract
+ - keeping contact and communicating with the client (first point of contact)
+- handling client related administration (contract, certificate of completion, timesheet) and organizing docs on the drive
+- notifying sales if upsell or conflict resolution is needed
 
 Domain:
  - Client relations
