@@ -200,11 +200,27 @@ Purpose:
  - Endless clients
 
 Accountabilities:
-- Following client and team needs, client contract and labour law in human resource allocation
-- Only re-allocating anyone from a role or circle (including sub-circles) in a shorter notice than 6 weeks is only possible, if it has been approved by the biz role in TLC and by the LL of the Product Development Branch Circle. 
+- Following client and team needs, client contract and labour law in human resource allocation 
 
 Domains:
  - Human resource allocation
+  - Partners can be dedicated to work on a Client projects within the Product Development Branch Circle
+   - Each week (in average) works on the Client Project for the time agreed with the Client
+  - Changing dedication needs to be based on info from the following roles:
+   - Product Development Branch Circle LL
+   - Client Product Circle LL
+   - Biz
+   - Sales
+   - Recruiter
+   - Legal
+  - Advising process is necessary (with the above roles) in case of changes of:
+   - FTE
+   - Roles in direct contact with the client
+   - Contract
+   - Price, pricing
+   - Project timeframe
+  - The above listed roles can block the above listed changes up to 2 weeks above the legal minimum (usually 4 weeks), if the roles decide in their domains that the decision is not safe to fail
+  - The above listed roles have to agree with changes within their domains, which happen in a shorter period than 4 weeks
  - Choice of clients
  - Choice of technologies / workflows
 
