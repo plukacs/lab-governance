@@ -97,7 +97,9 @@ Accountability:
 Domain:
  - Client relations
 
-
+## Domain: Human resource allocation
+## Domain: Choice of clients
+## Domain: Choice of technologies / workflows
 ## Domain: All functions & activities within the Circle
 
 ##### Policy: Bugfixing for clients
