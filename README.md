@@ -75,7 +75,7 @@ Accountabilities:
 - Tracking cash-flow
 - Managing every financial issue
 - Making transactions
-- Reimbursing partners for company cost
+- Settling SplitWise balances between Company and Partners.
 
 Domains:
 - Accountant
