@@ -164,6 +164,7 @@ Accountabilities:
 - Buying food, office equipment to the office (Tesco)
 - Managing the office's daily operations
 - Fixing broken things in the office (except tech equipment)
+- Landloard realtions
 
 Domains:
 
