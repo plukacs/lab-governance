@@ -7,6 +7,8 @@ Purpose, Domains, Accountabilities defined by parent circle.
 ### Rep Link - Tojas
 ### Facilitator - Petak
 ### Secretary - Tojas
+Accountibilities:
+ - Merging the Async pull request if there are no objections in the given period. (See [Policy: Async governance process](#policy-async-governance-process))
 
 ### Org. Dev - Cassus
 Purpose: Develop other organizations
@@ -42,7 +44,7 @@ Accountabilities:
 ## Domain: All functions & activities within the Circle
 
 ### Policy: Async governance process
-We use the same Async governance process as TLC
+We use the same [Async governance process as TLC](README.md#policy-async-governance-process-tlc)
 
 ## Domain: Ownership system and Employee/Partner compensation
 
