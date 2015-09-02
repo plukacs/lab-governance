@@ -375,7 +375,13 @@ To account any kinds of financial liabilities, we use [Splitwise](https://www.sp
 - Company reimbursment happens over 10k HUF and in 10k bulks
 - You have to use 'LabCoop' group for all your payments
 
-
+##### Policy: Company CSR
+- Every partner has 100 EUR each year to spend on any CSR activities or charity
+- Every partner has yearly one day to spend on any, freely choosen CSR activity
+- Pick your cause, aim, organization as you think it is the best way to help an important aim
+- Splitwise your cost with Supercluster for the reimbursment
+- List your spending in CSR Cost tracking https://goo.gl/5VOOi8
+- If the company due tax regulation can donate some money (beside the above personal donations), than it will be decided by the HR LL in an advising process
 
 
 
