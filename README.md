@@ -19,6 +19,8 @@ Purpose:
 ### Lead Link - Petak
 ### Facilitator - Cassus
 ### Secretary - Dani
+Accountibilities:
+ - Merging the Async pull request if there are no objections in the given period. (See [Policy: Async governance process (TLC)](#policy-async-governance-process-tlc))
 
 ### Admin - Virag, B Dani
 Purpose:
@@ -75,6 +77,8 @@ Accountabilities:
 - Tracking cash-flow
 - Managing every financial issue
 - Making transactions
+- Handling Paypal, Transferwise and any other online payment system in use
+- Reimbursing
 
 Domains:
 - Accountant
@@ -124,11 +128,15 @@ Domains:
 
 ### Venture builder - Peták
 Purpose:
-- Building Ventures
+- Building Scaleable Tech Ventures
 
 Accountabilities:
-- Validating ideas
-- Building MVP tests
+- Facilitating idea pitches and hackathons
+- Helping the product team: to validate ideas, build MVP tests, make business model, find resources
+- Making spin-off business modell
+
+Domains:
+- Go-no-go of spin-offs through advising process
 
 ### Strategy - Petak, Tojas
 
@@ -158,6 +166,7 @@ Accountabilities:
 - Buying food, office equipment to the office (Tesco)
 - Managing the office's daily operations
 - Fixing broken things in the office (except tech equipment)
+- Landloard realtions
 
 Domains:
 
@@ -215,9 +224,9 @@ Purpose:
 - A-class people
 
 Accountabilities:
-- Scanning IDs of new hires to https://drive.google.com/drive/u/0/folders/0B_dmDpfClsCFWlNfRE55Tnh2SlU
+- Scanning ID, proof of residency, tax card of new hires to https://drive.google.com/drive/u/0/folders/0B_dmDpfClsCFWlNfRE55Tnh2SlU
 - Adding personal data of new hires to https://docs.google.com/a/brickflow.com/document/d/1pUMIv8rYsxvQ6-oiGw7ieaxIMLxSIXZREr_edReSR3c/edit?usp=sharing
-- Keeping the onboaring process (including relevant materials) uptodate, assigning roles to the steps of the process. This happens on JIRA of course.
+- Keeping the onboaring process (including relevant materials) uptodate, assigning roles to the steps of the process
 
 ### Company Wide Circle - Peták
 
@@ -232,14 +241,6 @@ Purpose:
 - Strong brand (business, emloyer, professional branding)
 
 ####Accountibilities
-- Networking with PR professionals
-- Building media partnerships
-- Press outreach
-- Keeping the website up-to-date
-- Keeping social media channels up-to-date
-- Organizing, participating and sponsoring events
-- Writing copy
-- Proofreading
 
 ####Domains
 - Company image, design, brand
@@ -262,7 +263,7 @@ Purpose:
    - Mark your Objections with :exclamation: ( that is _colon_ + "exclamation" + _colon_ ). This signs to the proposer that the current from of the proposal would degrade the capacity of the Circle to express its Purpose or enact its Accountabilities. (See the [Constitution for the criteria for valid objections](https://github.com/holacracyone/Holacracy-Constitution/blob/master/Holacracy-Constitution.md#324-criteria-for-valid-objections))
    - If you don't read the proposal in this time it's like when you don't attend the governance meeting. If the accepted proposal created tensions in your roles, please bring the tension and your proposal for the next governance meeting or create a new pull request.
 3. You can amend and clarify your proposal, integrate objections by adding changes to the pull request. The time window for Clarifying Questions, Reactions and Objections restart with each amendment or clarification.
-4. The circle's secretary has to merge the pull request if there are no objections in the given period.
+4. Any core circle member can merge the pull request if there are no objections in the given period.
 
 ##### Policy: Long policies
 Policy proposals longer than 10 sentences must be shared at least 48h before the governance meeting to enable the circle to prepare properly for the governance meeting. If the policy if complex than pre-governance discussions are preferable.
@@ -335,7 +336,7 @@ Above ones are NOT available for part time or during probation time.
 - External screen.
 
 ##### Policy: Insurance deductible
-- Company covers all devices with an insurance plan. In case somebody: physically breaks, looses or gets stolen a device outside the office than that person needs to pay the insurance deductible.
+- Company covers all devices with an insurance plan. In case somebody: physically breaks, looses or gets stolen a device outside the office than that person needs to pay the insurance deductible. Deductible is 10% of the damage, but minimum 10k HUF / damage. Detailed insurance terms and conditions: https://drive.google.com/open?id=0B6JxQVzWxgy4eUdZdGJ0bkdKU1RXQTQzM1ROWHRrNEZ2azVj
 
 ##### Policy: Device security
 Prey application has to be installed on each and every company cell phones and laptops. The responsibile person is always the user of the device. https://preyproject.com/
@@ -372,6 +373,7 @@ To account any kinds of financial liabilities, we use [Splitwise](https://www.sp
 - You paid something on behalf of the company, so the company owes you
 - Someone in the team paid you something personal, like lunch
 - Company reimbursment happens over 10k HUF and in 10k bulks
+- You have to use 'LabCoop' group for all your payments
 
 
 
@@ -381,16 +383,21 @@ To account any kinds of financial liabilities, we use [Splitwise](https://www.sp
 
 
 
-## Domain: other Company-Wide policies (default for all roles and circles)
+## Domain: other Company-Wide policies (mandatory by default for all roles and circles)
 
 ##### Policy: Calendar and meetings
-Have your calendar email address at ContactSheet.
-Share your private calendar free-busy status publicly (or with everyone in the ContactSheet). Keep your private calendar free-busy status for work hours up to date. Pay extra attention to mark full-day events as "busy" if you're not available.
+Share your private calendar free-busy status publicly (or with everyone in the ContactSheet). Keep your private calendar free-busy status for work hours up to date. Pay extra attention to mark full-day events as "busy" if you're not available. Have your calendar email address at "Personal data + Contact sheet" sheet: https://goo.gl/NTI6Dl
 
-ContactSheet: https://docs.google.com/spreadsheets/d/1311Z9D_srqIJhXcKYxcZV6xy0dS_ADp_k1SHI96G_PQ/edit#gid=0
+##### Policy: Personal data + Contact sheet
+Keep it uptodate and notify Admin role in case of any change. https://goo.gl/NTI6Dl
+
+##### Policy: Account Logins
+Store all service user names, account emails, passwords etc. in the Logins sheet. https://goo.gl/xHOHkq
+This should include not only the compnay-wide accounts, but also all those personal accounts, which consist mission critical information in case of sick leave / holidays. Mission critical information can be anything, which's lack can block the team's / company's work. It is the account holders call to share it until it is not blocking other.
 
 ##### Policy: Collaboration should be above your work
-It is key to communicate seamlessly to work together. Make it a daily priority to answer your emails, slack messages, invites etc.
+It is key to communicate seamlessly to work together. Make it a daily priority to answer your emails, slack messages, invites, task manager comments etc.
+Secretaries of each circle are responsible to keep the Slack channels, Asana Boards, Google Drive folders etc. coherent (for example naming conventions) to each other and to the circle structure.
 
 ##### Policy: Assigning Tasks
 If you (re)assign a task, the assignee has to accept, otherwise you are responsible for the task. No answer means that the assignee has accepted. If the asignee cannot accept it, he or she should help finding an assignee.
@@ -400,11 +407,11 @@ There is a FedEx day (a 24 hour "hackatlon") on the first Friday of every 3rd mo
 Every kind of project is welcomed (does not have to be Lab related).
 The teams have to arrive with a proposal and deliver the full project at the end of the day.
 
-##### Policy: Google Drive usage (mandatory for all roles and circles)
+##### Policy: Google Drive usage
  - Keep all docs on drive in the respective folder.
  - Use the Drive app for synchronization.
 
-##### Policy: Governance log (mandatory for all roles and circles)
+##### Policy: Governance log
 All the policies are logged on Github.
 
 ##### Policy: Holiday planning
@@ -421,7 +428,7 @@ All our written documents must be in English unless it's not possible.
 ##### Policy: Meetings
 Take and share notes if relevant. If two people attend a meeting, one of them should take notes.
 
-##### Policy: Office hygiene (mandatory for all roles and circles)
+##### Policy: Office hygiene
 Leave the office clean every day so it's a welcoming place for us and our guests.
 - general cleaning (washing-up, vacuum-cleaning etc.) is outsourced to a cleaning lady, coming every Monday
 - clean your desk everyday after yourself: no food, no dirty dishes
@@ -434,6 +441,7 @@ Leave the office clean every day so it's a welcoming place for us and our guests
 - make sure to clear the fridge every Friday, as the cleaning lady throws out old food from the fridge each Monday
 - refill the fridge if it is out of water, beer etc.
 - report to Office role if the office is out of something (beer, water etc.)
+- the last one leaving the office has to close all the windows, alarm the office and lock the external doors
 
 ##### Policy: Stand-ups
 Separate circle standups. Each circle is free to decide if they have a standup or not.
@@ -441,11 +449,15 @@ Focus on what was achieved yesterday and what is your goal for the day and what 
 Time boxing is important, to not spend too much time on standupping
 
 ##### Policy: Time tracking
-We should track the time dedicated to each role, even internal roles. Preferably use one, company wide tool.
+- Use Toggl as company wide time tracking tool.
+- It's enough to put in your times at the end of the months, no need for constant Toggl ON-OFF pushing.
+- Each partner has to track the time dedicated to each role including internal roles.
+- Track with at least half day precision.
+- No task based time tracking is necessary.
 
-##### Policy: Transparency levels (mandatory for all roles and circles)
+##### Policy: Transparency levels
 Public:
- - [Governance](https://github.com/Brickflow/lab-governance) records
+ - [Governance](https://github.com/lab-coop/lab-governance) records
  - Salary formula (without personal records)
 
 Private:
@@ -459,7 +471,7 @@ Private:
 Make sure every week, before the tactical meeting, that all your cards are up-to-date.
 Comment on cards what you tell on tactical as update.
 
-##### Policy: Conflict resolution process (for all circles and roles)
+##### Policy: Conflict resolution process
 Applies to any type of disagreement. This could be a difference of opinion about a technical decision, an interpersonal conflict or a breach of values. Specifically, it can be used in performance issues when one colleague believes that another is not pulling his weight.
 
 Since the disagreement is private, all parties are expected to respect confidentiality during and after the processes. Of course, this confidentiality also applies to the two persons at the heart of the conflict. They must resolve their disagreement between themselves and are discouraged from spreading the conflict by enlisting support and building rival factions.
