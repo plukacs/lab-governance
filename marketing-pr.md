@@ -54,6 +54,20 @@ Purpose, Domains, Accountabilities defined by parent circle.
 ####Domains
 - Choose events to go
 
+### Lab Branding and Service Design - 
+
+####Purpose
+- Have a cool appreance 
+- Have a cool service
+
+####Accountabilities
+- Handling graphic designers
+- Designing our services
+
+####Domains
+- Lab's public visual and service apperance
+- Logo
+- Brand
 
 ##Policies
 
