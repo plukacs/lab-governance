@@ -77,6 +77,7 @@ Accountabilities:
 - Tracking cash-flow
 - Managing every financial issue
 - Making transactions
+- Settling SplitWise balances between Company and Partners.
 - Handling Paypal, Transferwise and any other online payment system in use
 - Reimbursing
 
