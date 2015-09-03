@@ -327,7 +327,7 @@ Services
    NOT available for part time or during probation time. (If you are part time than the company can not oversee all your major activities  so we can not take responsibility for filing your report. You only get your first divident after the end of your probation time, so this is why we won't file your report until being at the company for the long run.) We file the employees' report only about fiscal years she he worked at the company. We do not file the report if you don't work at the company at the time of filing the report.
  - Company cell phone plan, not restricting the employees in-land voice or data usage. Unlimited roaming only for business purposes.
 Above ones are NOT available for part time or during probation time.
- - Travel insurance for business trips (worldwide, basic sport included, charged / day). You have to send a notification email to utas.keretnap@viennalife.hu at least one workday before your trip. The notification should include the name of the traveller, the date and destionation countries. You have to travel with your insurance plastic card, which you can get from the Admin role.
+ - Travel insurance for business trips (worldwide, basic sport included, charged / day). You have to send a notification email to utas.keretnap@viennalife.hu at least one workday before your trip with this sheet, filled out https://goo.gl/Yxujc1. You have to travel with your insurance plastic card, which you can get from the Admin role.
 Details of the insurance: https://drive.google.com/drive/u/0/folders/0B6JxQVzWxgy4dEJJWGhuRElUZms
 
 Devices
