@@ -342,10 +342,6 @@ Above ones are NOT available for part time or during probation time.
 ##### Policy: Device security
 Prey application has to be installed on each and every company cell phones and laptops. The responsibile person is always the user of the device. https://preyproject.com/
 
-##### Policy: Probation
-Probation period: 3 months.
-Peer review should happen at the end of each months of the probation time, which can impact seniorty and glue, so salary increase or decrease could happen as we learn more about a new partner.
-
 ##### Policy: Company purchases
 - If you need to purchase some asset or service for the company (and you have passed the 3rd month of your employment) you can buy it (preferably with the company card to ease administration) up to 200 EUR/year/asset class.
 - After the probbation time any partner can access and use the company credit cards.
