@@ -31,6 +31,11 @@ Domains:
 - asana setup
 - methodologies in use
 
+### Admin - Petak
+
+Accountability:
+- handling client related administration (contract, certificate of completion, timesheet) and organizing docs on the drive
+
 ### Tech lead - Cassus
 
 Purpose: sustainable development
