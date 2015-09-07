@@ -18,12 +18,18 @@ Purpose: Hire great people
 
 Accountabilities:
 - Taking over HR leads from Evangelist / any partner
-- Introducing potential partners to the lab
+- Introducing potential partners to the Lab
 - Handling HR leads through the selection process
 
 Domain:
 - Selection process
-- Who to hire
+- Who to hire through advising process from involved partners
+
+### Employee handbook editor - Latest hire
+
+Purpose: Useful employee handbook
+
+Domain: Employee handbook
 
 ### Engineering learning - Tojas
 Purpose: Professional and expert developers
