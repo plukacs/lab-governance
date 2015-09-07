@@ -103,7 +103,7 @@ A pull request becomes eligible for async once it is posted to #visibl on Slack
 - Use `master` branch
 - Codeship deploys to production
 - Use feature branches if needed
-- Force push to `stage` to deploy your code to staging
+- To deploy to `stage` run `npm run build:stage && npm run deploy:stage`
 - Prefix features branches with your name so we know which branch belongs to whom. eg. `cassus-pretty-icons`
 
 ##### Doing status
@@ -153,3 +153,12 @@ Share any results of client communication that effects the group publicly. That 
  - When you have a call with Visibl put the outputs to Asana tasks/comments or take notes to slack.
 
 ##### When handling an urgent task from Visibl, tell Visibl which task you’re interrupting.
+
+##### Tags we use on the Dev Board
+- project tags: used to show a task belongs to a project; no color
+- WaitingForVisibl: task is blocked, waiting for answer from Visibl; color:  orange
+- Foundation, Bug: tasks that don't belong to any particular project, does not change priority; no color
+- QuickFix: drop what you're doing and fix it the fastest way possible. add followup tasks if needed to clean up; color: orange
+
+##### Work In Progress limit for projects
+3
