@@ -53,6 +53,20 @@ Accountabilities:
 Domains:
 - Choose events to go
 
+### Lab Branding and Service Design - Juli
+
+####Purpose
+- Have a cool appreance 
+- Have a cool service
+
+####Accountabilities
+- Handling graphic designers
+- Designing our services
+
+####Domains
+- Lab's public visual and service apperance
+- Logo
+- Brand
 
 ## Policies for Marketing Communication domain
 
