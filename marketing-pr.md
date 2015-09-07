@@ -54,7 +54,7 @@ Domains:
 - Choose events to go
 
 
-## Policies for PR domain
+## Policies for Marketing Communication domain
 
 #### Blogging
 
