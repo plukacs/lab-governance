@@ -31,7 +31,7 @@ Domains:
 - asana setup
 - methodologies in use
 
-### Account - Petak
+### Admin - Petak
 
 Accountability:
 - handling client related administration (contract, certificate of completion, timesheet) and organizing docs on the drive
