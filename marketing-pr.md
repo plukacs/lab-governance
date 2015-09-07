@@ -49,6 +49,8 @@ Accountabilities:
 - Representing the organization in any public manner, public speaking
 - Keeping good personal relation with the press and public figures
 - Collecting and sharing feedback about perception
+- Generating HR leads (recruitment)
+- Supporting others to successfully evangelize
 
 Domains:
 - Choose events to go
