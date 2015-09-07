@@ -54,7 +54,7 @@ Purpose, Domains, Accountabilities defined by parent circle.
 ####Domains
 - Choose events to go
 
-### Lab Branding and Service Design - 
+### Lab Branding and Service Design - Juli
 
 ####Purpose
 - Have a cool appreance 
