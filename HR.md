@@ -13,13 +13,17 @@ Accountibilities:
 ### Organization Developer (OrgDev) - Cassus
 Purpose: Organization that can scale while keeping it’s agility.
 
-### Recruiter - Cassus, Petak
-Purpose: People to hire
+### HR Selection - Cassus, Petak
+Purpose: Hire great people
 
-### Employee handbook editor - Latest hire
-Purpose: Useful employee handbook
+Accountabilities:
+- Taking over HR leads from Evangelist / any partner
+- Introducing potential partners to the lab
+- Handling HR leads through the selection process
 
-Domain: Employee handbook
+Domain:
+- Selection process
+- Who to hire
 
 ### Engineering learning - Tojas
 Purpose: Professional and expert developers
