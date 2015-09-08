@@ -229,6 +229,9 @@ Accountabilities:
 - Adding personal data of new hires to https://docs.google.com/a/brickflow.com/document/d/1pUMIv8rYsxvQ6-oiGw7ieaxIMLxSIXZREr_edReSR3c/edit?usp=sharing
 - Keeping the onboaring process (including relevant materials) uptodate, assigning roles to the steps of the process
 
+Domains:
+- Probation time
+
 ### Company Wide Circle - Peták
 
 Purpose:
