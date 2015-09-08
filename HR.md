@@ -13,7 +13,7 @@ Accountibilities:
 ### Organization Developer (OrgDev) - Cassus
 Purpose: Organization that can scale while keeping it’s agility.
 
-### HR Selection - Cassus, Petak
+### Recruiter - Cassus, Petak
 Purpose: Hire great people
 
 Accountabilities:
