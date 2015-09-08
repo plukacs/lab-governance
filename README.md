@@ -221,10 +221,10 @@ Purpose:
  - Endless clients
 
 Accountabilities:
-- Following client and team needs, client contract and labour law in human resource allocation
+- Following client and team needs, client contract and labour law in human resource dedication 
 
 Domains:
- - Human resource allocation
+ - Human resource dedication
  - Choice of clients
  - Choice of technologies / workflows
 

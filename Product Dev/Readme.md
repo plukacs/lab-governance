@@ -110,7 +110,7 @@ Accountability:
 
 Domain:
  - Client relations
- 
+
 
 ### Smartdrive - Dani
 
@@ -119,18 +119,39 @@ Purpose:
  - Earn money
  - Upselling
  - Win an EU tender for them
- 
+
 Accountability:
  - Editing the EU tender document
  - Following the client contract
 
 Domain:
  - Client relations
- 
 
-## Domain: Human resource allocation
+
+
+
 ## Domain: Choice of clients
 ## Domain: Choice of technologies / workflows
+## Domain: Human resource dedication
+
+##### Policy: Bugfixing for clients
+- Partners can be dedicated to work on a Client projects within the Product Development Branch Circle
+  - Each week (in average) works on the Client Project for the time agreed with the Client
+- For changing dedication, advising process is necessary with the following roles:
+  - Product Development Branch Circle LL
+  - Client Product Circle LL
+  - Biz
+  - Sales
+  - Recruiter
+  - Legal
+- Advising process is necessary (with the above roles) in case of changes of:
+  - FTE
+  - Roles in direct contact with the client
+  - Contract
+  - Price, pricing
+  - Project timeframe
+- The above listed roles can block the above listed changes up to 2 weeks above the legal minimum (usually 4 weeks), if the roles decide in their domains that the decision is not safe to fail
+
 ## Domain: All functions & activities within the Circle
 
 ### Policy: Async governance process
@@ -138,7 +159,7 @@ We use the same Async governance process as TLC
 A pull request becomes eligible for async once it is posted to #product-circle on Slack
 
 ##### Policy: Bugfixing for clients
-Risk of bugs is managed in the planning phase preferably. 
+Risk of bugs is managed in the planning phase preferably.
 When time is needed for bugfixing it is communicated towards clients transparently, and financially dealt with according to the contract.
 
 ##### Policy: Client relations
