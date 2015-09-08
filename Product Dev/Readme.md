@@ -38,6 +38,8 @@ Accountabilities:
 ### Rep Link - Banyo Marci
 ### Facilitator - Banyo Marci
 ### Secretary - Cassus
+Accountability:
+ - Merging the Async pull request if there are no objections in the given period. (See [Policy: Async governance process](#policy-async-governance-process))
 
 ### Sales - Petak
 
@@ -121,6 +123,10 @@ Domain:
 ## Domain: Choice of clients
 ## Domain: Choice of technologies / workflows
 ## Domain: All functions & activities within the Circle
+
+### Policy: Async governance process
+We use the same Async governance process as TLC
+A pull request becomes eligible for async once it is posted to #product-circle on Slack
 
 ##### Policy: Bugfixing for clients
 Risk of bugs is managed in the planning phase preferably. 
