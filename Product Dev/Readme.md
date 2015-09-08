@@ -33,8 +33,8 @@ Purpose:
 
 Accountabilities:
 - Following the client contract
-- Making minimum €25000 / month / 4 FTE
-- - keeping contact and communicating with the client (first point of contact)
+- Making minimum €25000 / month / 3.5 FTE
+- keeping contact and communicating with the client (first point of contact)
 - handling client related administration (contract, certificate of completion, timesheet) and organizing docs on the drive
 - notifying sales if upsell or conflict resolution is needed
 
