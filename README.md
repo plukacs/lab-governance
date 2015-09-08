@@ -484,6 +484,7 @@ Time boxing is important, to not spend too much time on standupping
 Public:
  - [Governance](https://github.com/lab-coop/lab-governance) records
  - Salary formula (without personal records)
+ - Cap table https://goo.gl/D4Y9eQ
 
 Private:
  - Trello boards
