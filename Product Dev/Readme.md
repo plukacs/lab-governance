@@ -58,7 +58,7 @@ Accountability:
 Domain:
  - Price
 
-### Biz analyst - Banyo Marci + all senior+ dev
+### Biz analyst - all senior+
 Purpose:
  - Quotation
 
@@ -73,7 +73,7 @@ Accountability:
 Domain:
  - Initial backlog
 
-### Estimator - all senior+ dev
+### Estimator - all senior+
 
 Purpose:
  - Quotation
