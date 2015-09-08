@@ -13,7 +13,12 @@ Accountibilities:
 ### Organization Developer (OrgDev) - Cassus
 Purpose: Organization that can scale while keeping it’s agility.
 
-### Recruiter - Cassus, Petak
+### Recruiter - Petak
+Also:
+- Cassus
+- Aniko
+- Juli (focus: design)
+
 Purpose: People to hire
 
 ### Employee handbook editor - Latest hire
