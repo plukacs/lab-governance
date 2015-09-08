@@ -96,6 +96,37 @@ Accountability:
 
 Domain:
  - Client relations
+ 
+
+###Smartdrive
+
+Purpose:
+ - Satisfied Smartdrive
+ - Earn money
+ - Upselling
+ - Win an EU tender for them
+ 
+ Accountability:
+ - Editing the EU tender document
+ - Following the client contract
+
+Domain:
+ - Client relations
+ 
+
+###Telekom
+
+Purpose:
+ - Satisfied Telekom
+ - Earn money
+ - Upselling
+ - Finish a confidential project for them
+ 
+ Accountability:
+ 
+
+Domain:
+ - Client relations
 
 ## Domain: Human resource allocation
 ## Domain: Choice of clients
