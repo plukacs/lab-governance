@@ -96,6 +96,23 @@ Accountability:
 
 Domain:
  - Client relations
+ 
+
+### Smartdrive - Dani
+
+Purpose:
+ - Satisfied Smartdrive
+ - Earn money
+ - Upselling
+ - Win an EU tender for them
+ 
+Accountability:
+ - Editing the EU tender document
+ - Following the client contract
+
+Domain:
+ - Client relations
+ 
 
 ## Domain: Human resource allocation
 ## Domain: Choice of clients
