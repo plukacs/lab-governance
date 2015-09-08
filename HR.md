@@ -7,11 +7,18 @@ Purpose, Domains, Accountabilities defined by parent circle.
 ### Rep Link - Tojas
 ### Facilitator - Petak
 ### Secretary - Tojas
+Accountibilities:
+ - Merging the Async pull request if there are no objections in the given period. (See [Policy: Async governance process](#policy-async-governance-process))
 
-### Org. Dev - Cassus
-Purpose: Develop other organizations
+### Organization Developer (OrgDev) - Cassus
+Purpose: Organization that can scale while keeping it’s agility.
 
-### Recruiter - Cassus, Petak
+### Recruiter - Petak
+Also:
+- Cassus
+- Aniko
+- Juli (focus: design)
+
 Purpose: People to hire
 
 ### Employee handbook editor - Latest hire
@@ -42,7 +49,13 @@ Accountabilities:
 ## Domain: All functions & activities within the Circle
 
 ### Policy: Async governance process
-We use the same Async governance process as TLC
+We use the same [Async governance process as TLC](README.md#policy-async-governance-process-tlc)
+
+## Domain: Bootcamp (newcommer onboarding)
+
+### Policy: Bootcamp single source of truth
+- Bootcamp process template: https://app.asana.com/0/45872219775035/list
+- Welcome to the lab informal document: https://docs.google.com/document/d/1-MZNLsxHXaOlziC_skAsBJCFVnMcms3URl7xqrsdiZ0/edit?usp=sharing
 
 ## Domain: Ownership system and Employee/Partner compensation
 
@@ -55,8 +68,15 @@ Probation time is 3 months, when it comes to ownership there is a one year cliff
 Salary formula, levels, Glue levels and Glue multiplier: https://docs.google.com/spreadsheets/d/1voxCpH29Lr8OlSuG7JL51BQSAwQPfVzkdpkM7aR9GbU/edit#gid=118044564
 
 ##### Policy: Part-time
-If you are an x% part-time employee in the Lab, you get x% pay and x% ownership.
-This is a company level policy.
+- If you are an `x%` part-time employee in the Lab, you get `x%` pay and `x%` ownership.
+- You can't go above 100%
+
+##### Policy: Part-time ratio retroactive adjustments
+If your commitment was `x%` part-time but you spent significantly more `y%` of your efforts on the Lab you can retroactively adjust your part-time ratio.
+
+- With the explicit support of the two people you most worked with.
+- You may only change your part-time ratio for periods after last divident pay.
+- Update your part-time percent value in the slary sheet.
 
 ##### Policy: Salary process
 Assessments based on Level and Glue indicators.
