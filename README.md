@@ -344,7 +344,7 @@ Prey application has to be installed on each and every company cell phones and l
 
 ##### Policy: Company purchases
 - If you need to purchase some asset or service for the company (and you have passed the 3rd month of your employment) you can buy it (preferably with the company card to ease administration) up to 200 EUR/year/asset class.
-- After the probbation time any partner can access and use the company credit cards.
+- After the probation time any partner can access and use the company credit cards.
 - Give the invoice to the finance role and upload it to the Google Drive's relevant subfolder (LabCoop/biz admin/accounting/incoming invoices). https://goo.gl/7QmdqK
 - Partners may _not_ combine their budgets to purchase something more expensive together
 - Preferably paid by a company bank card. Always provide invoices. Give the invoice to the finance role and upload it to the Google Drive's relevant subfolder (LabCoop/biz admin/accounting/incoming invoices). https://goo.gl/7QmdqK
