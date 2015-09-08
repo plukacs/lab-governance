@@ -69,7 +69,14 @@ Domains:
 - Backlog
 
 
-## Steward Roles
+## Steward
+Focuses:
+ - CSS: Anikó
+ - Testing: Cassus
+ - TradeDesk: David
+ - Ruby backend: David
+ - React: Cassus
+ - Analytics: Erik
 
 Accountabilities:
 - decides on foundation
@@ -78,13 +85,6 @@ Accountabilities:
 
 Checklist:
 - was caught up with code review at some point last week
-
-### CSS - Anikó
-### Testing - Cassus
-### TradeDesk - David
-### Ruby backend - David
-### React - Cassus
-### Analytics - Erik
 
 
 
