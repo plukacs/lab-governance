@@ -19,14 +19,14 @@ Purpose:
 ### Lead Link - Petak
 ### Facilitator - Cassus
 ### Secretary - Dani
-Accountibilities:
+Accountabilities:
  - Merging the Async pull request if there are no objections in the given period. (See [Policy: Async governance process (TLC)](#policy-async-governance-process-tlc))
 
 ### Admin - Virag, B Dani
 Purpose:
 - Run the company operations
 
-Accountibilities:
+Accountabilities:
  - Managing Partner data (birth, name, tax number ...).
  - Pre-filling admin forms with all known data before sending it to Partners.
  - Keeping internal administration on track
@@ -257,7 +257,7 @@ Purpose:
 - Inbound leads through good reputation
 - Strong brand (business, emloyer, professional branding)
 
-####Accountibilities
+####Accountabilities
 
 ####Domains
 - Company image, design, brand

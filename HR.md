@@ -7,7 +7,7 @@ Purpose, Domains, Accountabilities defined by parent circle.
 ### Rep Link - Tojas
 ### Facilitator - Petak
 ### Secretary - Tojas
-Accountibilities:
+Accountabilities:
  - Merging the Async pull request if there are no objections in the given period. (See [Policy: Async governance process](#policy-async-governance-process))
 
 ### Organization Developer (OrgDev) - Cassus
