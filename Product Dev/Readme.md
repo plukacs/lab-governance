@@ -98,7 +98,7 @@ Domain:
  - Client relations
  
 
-###Smartdrive
+### Smartdrive - Dani
 
 Purpose:
  - Satisfied Smartdrive
@@ -106,27 +106,13 @@ Purpose:
  - Upselling
  - Win an EU tender for them
  
- Accountability:
+Accountability:
  - Editing the EU tender document
  - Following the client contract
 
 Domain:
  - Client relations
  
-
-###Telekom
-
-Purpose:
- - Satisfied Telekom
- - Earn money
- - Upselling
- - Finish a confidential project for them
- 
- Accountability:
- 
-
-Domain:
- - Client relations
 
 ## Domain: Human resource allocation
 ## Domain: Choice of clients
