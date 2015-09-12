@@ -7,13 +7,18 @@ Purpose, Domains, Accountabilities defined by parent circle.
 ### Rep Link - Tojas
 ### Facilitator - Petak
 ### Secretary - Tojas
-Accountibilities:
+Accountabilities:
  - Merging the Async pull request if there are no objections in the given period. (See [Policy: Async governance process](#policy-async-governance-process))
 
 ### Organization Developer (OrgDev) - Cassus
 Purpose: Organization that can scale while keeping it’s agility.
 
-### Recruiter - Cassus, Petak
+### Recruiter - Petak
+Also:
+- Cassus
+- Aniko
+- Juli (focus: design)
+
 Purpose: People to hire
 
 ### Employee handbook editor - Latest hire

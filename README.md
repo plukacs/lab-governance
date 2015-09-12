@@ -19,14 +19,14 @@ Purpose:
 ### Lead Link - Petak
 ### Facilitator - Cassus
 ### Secretary - Dani
-Accountibilities:
+Accountabilities:
  - Merging the Async pull request if there are no objections in the given period. (See [Policy: Async governance process (TLC)](#policy-async-governance-process-tlc))
 
 ### Admin - Virag, B Dani
 Purpose:
 - Run the company operations
 
-Accountibilities:
+Accountabilities:
  - Managing Partner data (birth, name, tax number ...).
  - Pre-filling admin forms with all known data before sending it to Partners.
  - Keeping internal administration on track
@@ -34,7 +34,7 @@ Accountibilities:
  - Client admin
  - Financial admin
  - Send and pick up post
- 
+
 Domains:
  - Paperwork
 
@@ -47,22 +47,33 @@ Accountabilities:
 - Giving info to biz for return calibaration
 
 
-### Biz, Biz Dev - Petak
+### Biz - Petak
 
 Purpose:
-- Good business relations with other companies
 - Financial stability
-- Strong partnerships
 
 Accountabilities:
-- Creating the business plan
-- Managing the consurtium
+- Creating and keeping the business plan
+- Planning and keeping cash-flow
 - Deciding about non-human insurance plans
+- Making business model
 
 Domains:
 - Business plan and model
 - Every budget in the company
 
+### Biz Dev - Petak
+
+Purpose:
+- Good business relations with other companies
+- Strong partnerships
+
+Accountabilities:
+- Managing the consurtium
+- Establishing business partnership
+
+Domains:
+- Partnerships
 
 ### Finance - Virag
 
@@ -210,10 +221,10 @@ Purpose:
  - Endless clients
 
 Accountabilities:
-- Following client and team needs, client contract and labour law in human resource allocation
+- Following client and team needs, client contract and labour law in human resource dedication
 
 Domains:
- - Human resource allocation
+ - Human resource dedication
  - Choice of clients
  - Choice of technologies / workflows
 
@@ -229,6 +240,11 @@ Accountabilities:
 - Adding personal data of new hires to https://docs.google.com/a/brickflow.com/document/d/1pUMIv8rYsxvQ6-oiGw7ieaxIMLxSIXZREr_edReSR3c/edit?usp=sharing
 - Keeping the onboaring process (including relevant materials) uptodate, assigning roles to the steps of the process
 
+Domains:
+- Ownership system and Employee/Partner compensation
+- Salary system and peer-reviews
+- Bootcamp
+
 ### Company Wide Circle - Peták
 
 Purpose:
@@ -241,7 +257,7 @@ Purpose:
 - Inbound leads through good reputation
 - Strong brand (business, emloyer, professional branding)
 
-####Accountibilities
+####Accountabilities
 
 ####Domains
 - Company image, design, brand
@@ -326,8 +342,10 @@ Services
  - Personal income tax report filed by the company's accountant.
    NOT available for part time or during probation time. (If you are part time than the company can not oversee all your major activities  so we can not take responsibility for filing your report. You only get your first divident after the end of your probation time, so this is why we won't file your report until being at the company for the long run.) We file the employees' report only about fiscal years she he worked at the company. We do not file the report if you don't work at the company at the time of filing the report.
  - Company cell phone plan, not restricting the employees in-land voice or data usage. Unlimited roaming only for business purposes.
+ - VOIP to make cheaper calls abroad.
 Above ones are NOT available for part time or during probation time.
- - Travel insurance for business trips (worldwide, basic sport included, charged / day). You need to let frigyik.marta@mpk.hu know 5 workdays before your trip. You have to travel with your insurance plastic card. Details of the insurance: https://drive.google.com/drive/u/0/folders/0B6JxQVzWxgy4dEJJWGhuRElUZms
+ - Travel insurance for business trips (worldwide, basic sport included, charged / day). You have to send a notification email to utas.keretnap@viennalife.hu at least one workday before your trip with this sheet, filled out https://goo.gl/Yxujc1. You have to travel with your insurance plastic card, which you can get from the Admin role.
+Details of the insurance: https://drive.google.com/drive/u/0/folders/0B6JxQVzWxgy4dEJJWGhuRElUZms
  - You can order all the purchase any software and SAAS you need for your work. Advising process with Biz role is required if the price is over 200 EUR / year.
 
 Devices
@@ -377,7 +395,13 @@ To account any kinds of financial liabilities, we use [Splitwise](https://www.sp
 - Company and partner-to-partner reimbursment happens over 10k HUF and in 10k bulks, independently from the directon of the payment (company >>> partner, partner >>> company, partner >>> partner)
 - You have to use 'LabCoop' group for all your payments
 
-
+##### Policy: Company CSR
+- Every partner has 100 EUR each year to spend on any CSR activities or charity
+- Every partner has yearly one day to spend on any, freely choosen CSR activity
+- Pick your cause, aim, organization as you think it is the best way to help an important aim
+- Splitwise your cost with Supercluster for the reimbursment
+- List your spending in CSR Cost and Time Tracking https://goo.gl/5VOOi8
+- If the company due tax regulation can donate some money (beside the above personal donations), than it will be decided by the HR LL in an advising process
 
 
 
@@ -461,6 +485,7 @@ Time boxing is important, to not spend too much time on standupping
 Public:
  - [Governance](https://github.com/lab-coop/lab-governance) records
  - Salary formula (without personal records)
+ - Cap table https://goo.gl/D4Y9eQ
 
 Private:
  - Trello boards
