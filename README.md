@@ -34,7 +34,7 @@ Accountabilities:
  - Client admin
  - Financial admin
  - Send and pick up post
- 
+
 Domains:
  - Paperwork
 
@@ -221,7 +221,7 @@ Purpose:
  - Endless clients
 
 Accountabilities:
-- Following client and team needs, client contract and labour law in human resource dedication 
+- Following client and team needs, client contract and labour law in human resource dedication
 
 Domains:
  - Human resource dedication
