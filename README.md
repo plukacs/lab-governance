@@ -490,6 +490,10 @@ Private:
 Make sure every week, before the tactical meeting, that all your cards are up-to-date.
 Comment on cards what you tell on tactical as update.
 
+##### Policy: Ordering personal stuff (post, package) to the office
+Authorize at least two people to take your packages. Us the below, official form:
+https://www.posta.hu/static/internet/download/Meghatalmazas_nyomtatvany_20141021.pdf
+
 ##### Policy: Conflict resolution process
 Applies to any type of disagreement. This could be a difference of opinion about a technical decision, an interpersonal conflict or a breach of values. Specifically, it can be used in performance issues when one colleague believes that another is not pulling his weight.
 
