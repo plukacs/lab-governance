@@ -432,13 +432,12 @@ The teams have to arrive with a proposal and deliver the full project at the end
 ##### Policy: Governance log
 All the policies are logged on Github.
 
-##### Policy: Holiday planning
- - Let others know about your holiday plans on Slack
- - Let your circles' leadlink and your clients know 3x the length of your planned holiday (in workdays) before the start of it, but minimum 5 workdays before in writing
- - Letting them know within this period doesn't mean that it's no allowed, but can result in decline (if your plan is not safe to fail)
-
-##### Policy: Home office
-Let your circle know on the previous day if you're working from home all day long.
+##### Policy: Holidays / Home office / Sick leave notification and approval
+You have to clearly distinguish between holidays, home office and sick leave. Mark it in your calendar.
+- Holidays: Let your circles on Slack and your clients know 3x the length of your planned holiday (in workdays) before the start of it, but minimum 5 workdays before in writing
+- Home office: Let your circles on Slack know on the previous day if you would like to work from home all day long.
+In case of Holidays and Home office, letting them know within this period doesn't mean that it's no allowed, but  can be decline, if your plan is not safe to fail.
+- Sick leave: notify ASAP and keep other uptodate about your how being and expected first day of work.
 
 ##### Policy: Language
 All our written documents must be in English unless it's not possible.
