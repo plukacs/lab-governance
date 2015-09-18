@@ -245,11 +245,6 @@ Domains:
 - Salary system and peer-reviews
 - Bootcamp
 
-### Company Wide Circle - Peták
-
-Purpose:
-- Involvment
-
 ### Marketing-PR - Dani
 
 ####Purpose
