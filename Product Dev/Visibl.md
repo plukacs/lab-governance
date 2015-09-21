@@ -90,7 +90,7 @@ Checklist:
 
 ## All functions & activities within the Circle
 
-### Policy: Async governance process
+##### Policy: Async governance process
 We use the same Async governance process as TLC
 A pull request becomes eligible for async once it is posted to #visibl on Slack
 
