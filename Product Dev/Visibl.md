@@ -167,3 +167,7 @@ Share any results of client communication that effects the group publicly. That 
 
 ##### Work In Progress limit for projects
 3
+
+##### Scope Changes
+If you increase the scope of a task while working on it, add new tasks for the overflow.
+If you decrease the scope of a task while working on it, reduce the estimation.
