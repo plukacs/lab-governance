@@ -32,7 +32,7 @@ Domains:
 - asana setup
 - methodologies in use
 
-### Admin - Petak
+### Admin - ?
 
 Accountability:
 - handling client related administration (contract, certificate of completion, timesheet) and organizing docs on the drive
