@@ -16,6 +16,9 @@ Accountabilities:
 - sprint planning
 - following the client contract
 - making minimum €5500 / month / FTE
+- keeping contact and communicating with the client (first point of contact)
+- handling client related administration (contract, certificate of completion, timesheet) and organizing docs on the drive
+- notifying sales if upsell or conflict resolution is needed
 
 Domains:
 - SMS product design
@@ -31,6 +34,9 @@ Purpose:
 Accountabilities:
 - Following the client contract
 - Making minimum €25000 / month / 4 FTE
+- - keeping contact and communicating with the client (first point of contact)
+- handling client related administration (contract, certificate of completion, timesheet) and organizing docs on the drive
+- notifying sales if upsell or conflict resolution is needed
 
 ## Roles
 
@@ -38,6 +44,8 @@ Accountabilities:
 ### Rep Link - Banyo Marci
 ### Facilitator - Banyo Marci
 ### Secretary - Cassus
+Accountability:
+ - Merging the Async pull request if there are no objections in the given period. (See [Policy: Async governance process](#policy-async-governance-process))
 
 ### Sales - Petak
 
@@ -54,18 +62,21 @@ Accountability:
  - Cordinating with Biz analyst and Resource manager
  - Making offers
  - Pitching how we work
+ - Matching the estimation with: cilent resources - Lab.Coop resources - timeframe
+ - Rating client
 
 Domain:
  - Price
 
-### Biz analyst - Banyo Marci + all senior+ dev
+### Biz analyst - all senior+
 Purpose:
  - Quotation
 
 Accountability:
- - Defining service product
- - Creating initial product backlog and roadmap
  - Supporting sales
+ - Defining service product (for example the MVP)
+ - Creating initial product backlog and roadmap
+ - Understing the code, its quality and stage compared to initial product backlog
  - Proposing initial stack / architecture
  - Analizing client's product
  - Rating client
@@ -73,7 +84,7 @@ Accountability:
 Domain:
  - Initial backlog
 
-### Estimator - all senior+ dev
+### Estimator - all senior+
 
 Purpose:
  - Quotation
@@ -93,17 +104,62 @@ Purpose:
 Accountability:
  - Making channel copy and validation tests
  - Following the client contract
+ - keeping contact and communicating with the client (first point of contact)
+- handling client related administration (contract, certificate of completion, timesheet) and organizing docs on the drive
+- notifying sales if upsell or conflict resolution is needed
 
 Domain:
  - Client relations
 
-## Domain: Human resource allocation
+
+### Smartdrive - Dani
+
+Purpose:
+ - Satisfied Smartdrive
+ - Earn money
+ - Upselling
+ - Win an EU tender for them
+
+Accountability:
+ - Editing the EU tender document
+ - Following the client contract
+
+Domain:
+ - Client relations
+
+
+
+
 ## Domain: Choice of clients
 ## Domain: Choice of technologies / workflows
-## Domain: All functions & activities within the Circle
+## Domain: Human resource dedication
 
 ##### Policy: Bugfixing for clients
-Risk of bugs is managed in the planning phase preferably. 
+- Partners can be dedicated to work on a Client projects within the Product Development Branch Circle
+  - Each week (in average) works on the Client Project for the time agreed with the Client
+- For changing dedication, advising process is necessary with the following roles:
+  - Product Development Branch Circle LL
+  - Client Product Circle LL
+  - Biz
+  - Sales
+  - Recruiter
+  - Legal
+- Advising process is necessary (with the above roles) in case of changes of:
+  - FTE
+  - Roles in direct contact with the client
+  - Contract
+  - Price, pricing
+  - Project timeframe
+- The above listed roles can block the above listed changes up to 2 weeks above the legal minimum (usually 4 weeks), if the roles decide in their domains that the decision is not safe to fail
+
+## Domain: All functions & activities within the Circle
+
+### Policy: Async governance process
+We use the same Async governance process as TLC
+A pull request becomes eligible for async once it is posted to #product-circle on Slack
+
+##### Policy: Bugfixing for clients
+Risk of bugs is managed in the planning phase preferably.
 When time is needed for bugfixing it is communicated towards clients transparently, and financially dealt with according to the contract.
 
 ##### Policy: Client relations
@@ -117,4 +173,11 @@ Dedicate weekly 4 hours for the tactical and governance meeting.
 ##### Policy: Project leading
 Every project lead has to take responsibility in organizing meetings, liaising with clients, and do resource management for the project → mini project management 
 No other person (TLC lead link) should get into mini-projects
+
+##### Policy: Holidays / Home office / Sick leave notification and approval
+You have to clearly distinguish between holidays, home office and sick leave. Mark it in your calendar as soon as you're aware of it.
+- Holidays: Let your circles on Slack and your clients know 2x the length of your planned holiday (in workdays) before the start of it, but minimum 5 workdays before in writing
+- Home office: Let your circles on Slack know on the previous day if you would like to work from home all day long.
+In case of Holidays and Home office, letting them know within this period doesn't mean that it's not allowed, but  can be declined, if your plan is not safe to fail.
+- Sick leave: notify ASAP and keep others uptodate about your how being and expected first day of work.
 

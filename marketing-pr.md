@@ -8,6 +8,8 @@ Purpose, Domains, Accountabilities defined by parent circle.
 ### Rep Link - Anikó
 ### Facilitator - Anikó
 ### Secretary - Dani
+Accountabilities:
+ - Merging the Async pull request if there are no objections in the given period. (See [Async governance process](#async-governance-process))
 
 ### Lab Marketing - Dani
 
@@ -18,6 +20,7 @@ Accountabilities:
 - Press outreach
 - Keeping the website up-to-date
 - Keeping social media channels up-to-date
+- Managing marketing channels, for example Adwords
 - Writing copy
 - Proofreading
 
@@ -69,6 +72,12 @@ Domains:
 - Lab's public visual and service apperance
 - Logo
 - Brand
+
+
+## Policies for All functions & activities within the Circle
+
+### Async governance process
+We use the same [Async governance process as TLC](README.md#policy-async-governance-process-tlc)
 
 ## Policies for Marketing Communication domain
 
