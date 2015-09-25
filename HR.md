@@ -7,7 +7,7 @@ Purpose, Domains, Accountabilities defined by parent circle.
 ### Rep Link - Tojas
 ### Facilitator - Petak
 ### Secretary - Tojas
-Accountibilities:
+Accountabilities:
  - Merging the Async pull request if there are no objections in the given period. (See [Policy: Async governance process](#policy-async-governance-process))
 
 ### Organization Developer (OrgDev) - Cassus
@@ -18,16 +18,28 @@ Accountabilities:
 - Arranging NVC practice
 - Organizing team retreats
 
-### Recruiter - Cassus, Petak
-Purpose: People to hire
+### Recruiter - Cassus
+Also:
+- Cassus
+- Aniko
+- Juli (focus: design)
+
+Purpose: Hire great people
 
 Accountabilities:
+- Taking over HR leads from Evangelist / any partner
+- Introducing potential partners to the Lab
+- Handling HR leads through the selection process
 - Attracting partner candidates
 - Advising hiring and firing decisions
 - Testing, interviewing candidates
 - Arranging recruitment process
 - Building freelancer pool
 - Matching freelancers and hires with potential clients through an advising process
+
+Domain:
+- Selection process
+- Who to hire through advising process from involved partners
 
 ### Employee onboarding handbook editor - Latest hire
 Purpose: Useful employee handbook
@@ -71,7 +83,9 @@ We use the same [Async governance process as TLC](README.md#policy-async-governa
 ## Domain: Ownership system and Employee/Partner compensation
 
 ##### Policy: Probation time and ownership cliff
-Probation time is 3 months, when it comes to ownership there is a one year cliff.
+- Probation time is 3 months, when it comes to ownership there is a one year cliff.
+- After probation time, each partner gains access to company credit cards.
+- Peer review should happen at the end of each months of the probation time, which can impact seniorty and glue, so salary increase or decrease could happen as we learn more about a new partner.
 
 ## Domain: Salary system and peer-reviews
 
