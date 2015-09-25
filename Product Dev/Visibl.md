@@ -94,6 +94,13 @@ Checklist:
 We use the same Async governance process as TLC
 A pull request becomes eligible for async once it is posted to #visibl on Slack
 
+##### Policy: Holidays / Home office / Sick leave notification and approval
+You have to clearly distinguish between holidays, home office and sick leave. Mark it in your calendar as soon as you're aware of it.
+- Holidays: Let your circles on Slack and your clients know 2x the length of your planned holiday (in workdays) before the start of it, but minimum 5 workdays before in writing
+- Home office: Let your circles on Slack know on the previous day if you would like to work from home all day long.
+In case of Holidays and Home office, letting them know within this period doesn't mean that it's not allowed, but  can be declined, if your plan is not safe to fail.
+- Sick leave: notify ASAP and keep others uptodate about your how being and expected first day of work.
+
 ##### Meetings
 - _Standup_: report last day’s achievments and the plan for next day on Slack #standup
 - _Tactical, governance, demo_: retrospective before the demo meeting
