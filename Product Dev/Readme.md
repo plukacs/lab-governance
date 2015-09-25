@@ -112,22 +112,18 @@ Domain:
  - Client relations
 
 
-### Smartdrive - Dani
+### NextTV - Juli
 
 Purpose:
- - Satisfied Smartdrive
+ - Satisfied clients
  - Earn money
  - Upselling
- - Win an EU tender for them
 
 Accountability:
- - Editing the EU tender document
  - Following the client contract
 
 Domain:
  - Client relations
-
-
 
 
 ## Domain: Choice of clients
