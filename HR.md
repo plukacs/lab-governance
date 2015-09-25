@@ -60,7 +60,9 @@ We use the same [Async governance process as TLC](README.md#policy-async-governa
 ## Domain: Ownership system and Employee/Partner compensation
 
 ##### Policy: Probation time and ownership cliff
-Probation time is 3 months, when it comes to ownership there is a one year cliff.
+- Probation time is 3 months, when it comes to ownership there is a one year cliff.
+- After probation time, each partner gains access to company credit cards.
+- Peer review should happen at the end of each months of the probation time, which can impact seniorty and glue, so salary increase or decrease could happen as we learn more about a new partner.
 
 ## Domain: Salary system and peer-reviews
 
