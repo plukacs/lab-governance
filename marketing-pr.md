@@ -8,56 +8,80 @@ Purpose, Domains, Accountabilities defined by parent circle.
 ### Rep Link - Anikó
 ### Facilitator - Anikó
 ### Secretary - Dani
+Accountabilities:
+ - Merging the Async pull request if there are no objections in the given period. (See [Async governance process](#async-governance-process))
 
 ### Lab Marketing - Dani
 
-####Purpose
+Purpose: undefined
 
-####Accountabilities
+Accountabilities:
 - Building media partnerships
 - Press outreach
 - Keeping the website up-to-date
 - Keeping social media channels up-to-date
+- Managing marketing channels, for example Adwords
 - Writing copy
 - Proofreading
 
-####Domains
+Domains:
 
 ### Events & Community - Anikó
 
-####Purpose
-- Strong and continuous presence on events
+Purpose: Strong and continuous presence on events
 
-####Accountabilities
+Accountabilities:
 - Coordinating event organization
 - Partnering with events
 - Coordinating speaking opportunities
 
-####Domains
+Domains:
 - Sponsoring decisions
 - Events to organize
 
 ### Evangelist - Petak
 
-####Purpose
+Purpose:
 - Personal representation of the brand and the organization
 - Trustworthy brand through personal reputation
 
-####Accountabilities
+Accountabilities:
 - Networking with PR professionals
 - Networking
 - Perticipating on events
 - Representing the organization in any public manner, public speaking
 - Keeping good personal relation with the press and public figures
 - Collecting and sharing feedback about perception
+- Generating HR leads (recruitment)
+- Supporting others to successfully evangelize
 
-####Domains
+Domains:
 - Choose events to go
 
+### Lab Branding and Service Design - Juli
 
-##Policies
+####Purpose
+- Have a cool appreance 
+- Have a cool service
 
-####Blogging
+####Accountabilities
+- Handling graphic designers
+- Designing our services
+
+####Domains
+- Lab's public visual and service apperance
+- Logo
+- Brand
+
+
+## Policies for All functions & activities within the Circle
+
+### Async governance process
+We use the same [Async governance process as TLC](README.md#policy-async-governance-process-tlc)
+
+## Policies for Marketing Communication domain
+
+#### Blogging
 1. The author submits the appr. 1000 words/1 page piece by the deadline in the content calendar (https://app.asana.com/0/47359267643244/46728362102993)
 2. Marketing-PR Circle Lead Link reviews it, also from SEO point of view (but please take these instructions into account when writing http://searchengineland.com/quality-content-factors-list-thats-actually-helpful-213796)
 3. If necessary author revises the article based on the review

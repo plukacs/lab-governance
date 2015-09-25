@@ -8,6 +8,10 @@ Purpose, Domains, Accountabilities defined by parent circle.
 ### Facilitator - Erik, mandate until 2015. dec 1.
 ### Secretary - Anikó, mandate until 2015. dec 1.
 
+Accountabilities:
+- Make holiday schedule transparent towards the client through the Visibl dev team holidays calendar and in sync with the timesheet
+(lab.coop_khb0ef170b9le7jidqkuco8484@group.calendar.google.com)
+
 
 ### Developer
 
@@ -18,8 +22,9 @@ Accountability:
 
 Checklist:
 - notified Visibl of all noticeable changes
+- test cases were written before starting implementation of last week’s tasks
 
-### Agile Pony
+### Agile Pony - Cassus
 
 Purpose: Efficient team
 
@@ -27,14 +32,19 @@ Domains:
 - asana setup
 - methodologies in use
 
-### Tech lead
+### Admin - ?
+
+Accountability:
+- handling client related administration (contract, certificate of completion, timesheet) and organizing docs on the drive
+
+### Tech lead - Cassus
 
 Purpose: sustainable development
 
 Domain:
 - technical decisions not covered by steward roles
 
-### Product Owner
+### Product Owner - ?
 
 Accountabilities:
 - Prioritizing the dev backlog
@@ -47,13 +57,13 @@ Domains:
 - speed / quality tradeoffs
 - what improvements to release continuously and what to hold back for bigger releases
 
-### PO-proxy
+### PO-proxy - Cassus
 
 Purpose: satisfied client and represents the PO, users within the team
 
 Accountabilities:
 - Manage client expectations
-- Make holiday schedule transparent towards the client through the Visibl dev team holidays calendar (lab.coop_khb0ef170b9le7jidqkuco8484@group.calendar.google.com)
+
 
 Domains:
 - Backlog
@@ -68,7 +78,6 @@ Accountabilities:
 
 Checklist:
 - was caught up with code review at some point last week
-- test cases were written before starting implementation of last week’s tasks
 
 ### CSS - Anikó
 ### Testing - Cassus
@@ -85,6 +94,13 @@ Checklist:
 We use the same Async governance process as TLC
 A pull request becomes eligible for async once it is posted to #visibl on Slack
 
+##### Policy: Holidays / Home office / Sick leave notification and approval
+You have to clearly distinguish between holidays, home office and sick leave. Mark it in your calendar as soon as you're aware of it.
+- Holidays: Let your circles on Slack and your clients know 2x the length of your planned holiday (in workdays) before the start of it, but minimum 5 workdays before in writing
+- Home office: Let your circles on Slack know on the previous day if you would like to work from home all day long.
+In case of Holidays and Home office, letting them know within this period doesn't mean that it's not allowed, but  can be declined, if your plan is not safe to fail.
+- Sick leave: notify ASAP and keep others uptodate about your how being and expected first day of work.
+
 ##### Meetings
 - _Standup_: report last day’s achievments and the plan for next day on Slack #standup
 - _Tactical, governance, demo_: retrospective before the demo meeting
@@ -99,8 +115,18 @@ A pull request becomes eligible for async once it is posted to #visibl on Slack
 - Use `master` branch
 - Codeship deploys to production
 - Use feature branches if needed
-- Force push to `stage` to deploy your code to staging
+- To deploy to `stage` run `npm run build:stage && npm run deploy:stage`
 - Prefix features branches with your name so we know which branch belongs to whom. eg. `cassus-pretty-icons`
+
+##### Doing status
+- Move the card to `Doing` before you start working on it.
+- Don’t work on cards not in `Doing`.
+
+##### Blocked status
+- When you’re waiting for an answer from someone at Visibl, tag the task with `waiting for Visibl`.
+- When you’re blocked by someone else, have the tag `blocked` on the task.
+- Whether the card was in `Todo` or in `Doing`, the card stays in the same place when you tag it.
+- Comment why it’s blocked.
 
 ##### Definition of DONE
 - works locally
@@ -118,6 +144,8 @@ A pull request becomes eligible for async once it is posted to #visibl on Slack
 
 ##### Before starting a task commit test cases without bodies and review them together
 Our aim is to have the test titles ready before the estimation
+
+##### For discussions that are not blocking a dev task, add a ticket to the `Visibl Discussions` project in Asana
 
 ##### If you run into foundation stuff, make a card for it so that others are aware
 
@@ -137,3 +165,12 @@ Share any results of client communication that effects the group publicly. That 
  - When you have a call with Visibl put the outputs to Asana tasks/comments or take notes to slack.
 
 ##### When handling an urgent task from Visibl, tell Visibl which task you’re interrupting.
+
+##### Tags we use on the Dev Board
+- project tags: used to show a task belongs to a project; no color
+- WaitingForVisibl: task is blocked, waiting for answer from Visibl; color:  orange
+- Foundation, Bug: tasks that don't belong to any particular project, does not change priority; no color
+- QuickFix: drop what you're doing and fix it the fastest way possible. add followup tasks if needed to clean up; color: orange
+
+##### Work In Progress limit for projects
+3

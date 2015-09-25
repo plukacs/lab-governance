@@ -2,8 +2,8 @@
 
 ## Pre
  1. Register to github.
- 2. Send us your username to join the https://github.com/Brickflow group
- 3. Link for the governance: https://github.com/Brickflow/lab-governance
+ 2. Send us your username to join the https://github.com/lab-coop group
+ 3. Link for the governance: https://github.com/lab-coop/lab-governance
 
 ## How to write a new policy
  1. Select the file, that you would like to edit 
