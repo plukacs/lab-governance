@@ -318,10 +318,12 @@ In case of Holidays and Home office, letting them know within this period doesn'
 
 ##### Policy: Company financed learning (for everyone and all circles in the Lab)
 - Up to 2000 EUR + VAT / person / year (incl. travel costs)
+- Monthly max. 3000 EUR + VAT on the company level. Biz role approval is needed about this monthly budget.
 - Get an invoice for the the company. Pay by company card/transfer if possible.
 - This includes travel and related costs as defined in [Policy: Business cost reimbursement](#policy-business-cost-reimbursement) so that all these costs count against your learning budget.
 - Make it transparent at https://docs.google.com/spreadsheets/d/1n1xfIGBuBe1IAIjhP-SUL0LrzrLgYIjZm2XaaFaV-rY/edit#gid=0
 - Make a brownbag talk if possible.
+- If someone spends on learning during his/her probation time and decides to leave before the probation ends s/he has to pay back the amount s/he spent on learning.
 
 ##### Policy: Employee Benefits (for everyone and all circles in the Lab)
 
