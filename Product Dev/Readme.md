@@ -174,10 +174,3 @@ Dedicate weekly 4 hours for the tactical and governance meeting.
 Every project lead has to take responsibility in organizing meetings, liaising with clients, and do resource management for the project → mini project management 
 No other person (TLC lead link) should get into mini-projects
 
-##### Policy: Holidays / Home office / Sick leave notification and approval
-You have to clearly distinguish between holidays, home office and sick leave. Mark it in your calendar as soon as you're aware of it.
-- Holidays: Let your circles on Slack and your clients know 2x the length of your planned holiday (in workdays) before the start of it, but minimum 5 workdays before in writing
-- Home office: Let your circles on Slack know on the previous day if you would like to work from home all day long.
-In case of Holidays and Home office, letting them know within this period doesn't mean that it's not allowed, but  can be declined, if your plan is not safe to fail.
-- Sick leave: notify ASAP and keep others uptodate about your how being and expected first day of work.
-
