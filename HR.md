@@ -15,7 +15,6 @@ Purpose: Organization that can scale while keeping it’s agility.
 
 Accountabilities:
 - Keeping 'Onboarding' Asana project up-to-date https://app.asana.com/0/45872219775035/list
-- Arranging NVC practice
 - Organizing team retreats
 
 ### Recruiter - Cassus
@@ -54,6 +53,16 @@ Purpose: Professional and expert developers
 
 Accountabilities:
  - Facilitating weekly Dev learning workshop
+
+### NVC learning
+Purpose: Lab practices NVC.
+
+Accountabilities:
+- Arranging NVC practices
+- Helping newcommers learn it
+
+### Holocracy learning
+Purpose: Lab understands Holocracy.
 
 ### English lesson organizer - David
 Purpose: Unspecified.
