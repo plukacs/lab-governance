@@ -445,6 +445,9 @@ All our written documents must be in English unless it's not possible.
 ##### Policy: Meetings
 Take and share notes if relevant. If two people attend a meeting, one of them should take notes.
 
+##### Policy: Office guests
+- Share the door code with your guests when you invite them to help us focus and reduce office noise.
+
 ##### Policy: Office hygiene
 Leave the office clean every day so it's a welcoming place for us and our guests.
 - general cleaning (washing-up, vacuum-cleaning etc.) is outsourced to a cleaning lady, coming every Monday
