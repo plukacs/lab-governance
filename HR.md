@@ -80,8 +80,13 @@ Accountabilities:
 
 ## Domain: All functions & activities within the Circle
 
-### Policy: Async governance process
+##### Policy: Async governance process
 We use the same [Async governance process as TLC](README.md#policy-async-governance-process-tlc)
+
+##### Policy: Hiring process
+- Managed in Asana.
+- When you start the selection process with someone in the Recruitment pipeline, copy the subtasks from `= template =` to the person
+- Mark the subtasks done and comment about your results and impressions on the person-card as the person progresses through the hiring process.
 
 ## Domain: Bootcamp (newcommer onboarding)
 
