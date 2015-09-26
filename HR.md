@@ -17,10 +17,10 @@ Accountabilities:
 - Keeping 'Onboarding' Asana project up-to-date https://app.asana.com/0/45872219775035/list
 - Organizing team retreats
 
-### Recruiter - Cassus
+### Recruiter - Petak
 Also:
-- Cassus
-- Aniko
+- Cassus (focus: dev)
+- Aniko (focus: dev &  design)
 - Juli (focus: design)
 
 Purpose: Hire great people
