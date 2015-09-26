@@ -40,6 +40,13 @@ Domain:
 - Selection process
 - Who to hire through advising process from involved partners
 
+### Interviewer
+- Cassus (focus: Cultural fit)
+- Tojas (focus: Dev skills)
+- Juli (focus: Design skills)
+
+Purpose: Hire the right people
+
 ### Employee onboarding handbook editor - Latest hire
 Purpose: Useful employee handbook
 
