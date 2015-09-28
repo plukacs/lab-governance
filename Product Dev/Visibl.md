@@ -45,29 +45,42 @@ Purpose: sustainable development
 Domain:
 - technical decisions not covered by steward roles
 
-### Product Owner - ?
+### Product Owner - Primarily Simon, also Aquilles and Cassus
+
+Purpose: Development backlog, released product
 
 Accountabilities:
 - Prioritizing the dev backlog
 - Showing the product vision to the dev team
 - Establishing acceptance criteria for the stories (and what’s not needed to do)
-- Accepting stories as they are delivered
+- Reading slack messages about finished stories, and making sure they are what the story author actually intended.
 - Elaborating on stories as needed
 
 Domains:
 - speed / quality tradeoffs
 - what improvements to release continuously and what to hold back for bigger releases
+- Development backlog and it’s priorities
+Decides between implementation alternatives
+Accept/reject implementation proposals
+Expected quality level
+What improvements to release continuously and what to hold back for bigger releases
+Establishing priorities and Strategies for the Circle
 
-### PO-proxy - Cassus
 
-Purpose: satisfied client and represents the PO, users within the team
-
-Accountabilities:
-- Manage client expectations
-
+### Product Manager (Client Link) -- Aquiles
+Purpose: Business needs, domain knowledge, network
 
 Domains:
-- Backlog
+- Budget
+- Product Vision
+- Product Backlog (Epics)
+
+Accountabilities:
+- Establishing priorities and Strategies for the Circle
+- Defining the potential business value of Epics
+- Generating business needs
+- Sharing resources from the client’s team
+- Purchasing and Managing project specific services, external resources for the team
 
 
 ## Steward
@@ -170,7 +183,11 @@ Share any results of client communication that effects the group publicly. That 
 - project tags: used to show a task belongs to a project; no color
 - WaitingForVisibl: task is blocked, waiting for answer from Visibl; color:  orange
 - Foundation, Bug: tasks that don't belong to any particular project, does not change priority; no color
-- QuickFix: drop what you're doing and fix it the fastest way possible. add followup tasks if needed to clean up; color: orange
+- QuickFix:
+  - drop what you're doing and fix it the fastest way possible
+  - add followup tasks if needed to clean up; color: orange.
+  - When you find a bug that prevents users from accessing the basic functionality of the site, it becomes a `quickfix`, even without consulting the PO.
+  - Its ok to revert any commits that caused the problem. Notify everyone involved, and unfinish the tasks.
 
 ##### Work In Progress limit for projects
 3
@@ -178,3 +195,6 @@ Share any results of client communication that effects the group publicly. That 
 ##### Scope Changes
 If you increase the scope of a task while working on it, add new tasks for the overflow.
 If you decrease the scope of a task while working on it, reduce the estimation.
+
+##### Retroactive Estimation of Bug Cards
+After you finish a bug card, estimate how many story points you could have finished with that time, and put your estimate as the size of the card.
