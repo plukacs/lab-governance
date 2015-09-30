@@ -87,3 +87,8 @@ We use the same [Async governance process as TLC](README.md#policy-async-governa
 3. If necessary author revises the article based on the review
 4. Have it proofread by a native speaker
 5. Publish weekly one article
+
+## Policies for Sponsoring domain
+
+#### Sponsorship log
+The list of all previous sponsorship expenses can be found here: https://docs.google.com/spreadsheets/d/1I6Oay7ZKdUdcJgHEf2ppXYCzvwpCxpHRALTGgEkTR-Y/edit#gid=0
