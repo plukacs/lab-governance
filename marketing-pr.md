@@ -89,4 +89,4 @@ We use the same [Async governance process as TLC](README.md#policy-async-governa
 5. Publish weekly one article
 
 #### Press coverage listing
-If you find an online/offline article about Lab.Coop or any partner in national/international press, share it on Slack add it to the press coverage list: https://docs.google.com/spreadsheets/d/1mq2PGI5MNDyWOP4QJ9H1kzzSjyt1Ibj057Au6Iiu-Ik/edit#gid=0
+If you find an online/offline article about Lab.Coop or any partner in national/international press, share it on Slack and add it to the press coverage list: https://docs.google.com/spreadsheets/d/1mq2PGI5MNDyWOP4QJ9H1kzzSjyt1Ibj057Au6Iiu-Ik/edit#gid=0
