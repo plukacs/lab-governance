@@ -195,3 +195,6 @@ If you decrease the scope of a task while working on it, reduce the estimation.
 
 ##### Retroactive Estimation of Bug Cards
 After you finish a bug card, estimate how many story points you could have finished with that time, and put your estimate as the size of the card.
+
+##### Project info that's decided outside of governance
+is tracked in the `project info` doc.
