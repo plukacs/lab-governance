@@ -168,9 +168,6 @@ Our aim is to have the test titles ready before the estimation
 ##### change infrastructure safely
 - When configuring a third party service, work in a pair if you are not confident or there is no revert option.
 
-##### Browser support
-IE9 and up
-
 ##### Transparent client communication
 Share any results of client communication that effects the group publicly. That can be easily done if you follow these guidelines:
  - When you chat with Visibl make sure to use a public slack channel.
@@ -198,3 +195,6 @@ If you decrease the scope of a task while working on it, reduce the estimation.
 
 ##### Retroactive Estimation of Bug Cards
 After you finish a bug card, estimate how many story points you could have finished with that time, and put your estimate as the size of the card.
+
+##### Project info that's decided outside of governance
+is tracked in the `project info` doc.
