@@ -150,11 +150,6 @@ Accountabilities:
 Domains:
 - Go-no-go of spin-offs through advising process
 
-### Strategy - Petak, Tojas
-
-Purpose:
-- Clear strategy for the organization
-
 Accountabilities:
 - Keeping in touch with advisors
 - Following market trends
@@ -195,6 +190,12 @@ Accountabilities:
 Domains:
 
 ## CIRCLES
+
+### Strategy - Petak
+
+Purpose:
+- Clear strategy for the organization
+- Long term mission and vision
 
 ### Education Branch Circle - Barbi
 
