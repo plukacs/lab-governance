@@ -24,7 +24,7 @@ Checklist:
 - notified Visibl of all noticeable changes
 - test cases were written before starting implementation of last week’s tasks
 
-### Agile Pony - Cassus
+### Agile Pony - Erik, Cassus
 
 Purpose: Efficient team
 
