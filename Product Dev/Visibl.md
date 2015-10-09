@@ -11,6 +11,7 @@ Purpose, Domains, Accountabilities defined by parent circle.
 Accountabilities:
 - Make holiday schedule transparent towards the client through the Visibl dev team holidays calendar and in sync with the timesheet
 (lab.coop_khb0ef170b9le7jidqkuco8484@group.calendar.google.com)
+- Capturing demo agenda
 
 
 ### Developer
@@ -90,7 +91,6 @@ Focuses:
  - TradeDesk: David
  - Ruby backend: David
  - React: Cassus
- - Analytics: Erik
 
 Accountabilities:
 - decides on foundation
