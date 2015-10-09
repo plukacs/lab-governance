@@ -61,7 +61,7 @@ Domains:
 ### Lab Branding and Service Design - Juli
 
 ####Purpose
-- Have a cool appreance 
+- Have a cool appreance
 - Have a cool service
 
 ####Accountabilities
@@ -90,3 +90,8 @@ We use the same [Async governance process as TLC](README.md#policy-async-governa
 
 #### Press coverage listing
 If you find an online/offline article about Lab.Coop or any partner in national/international press, share it on Slack and add it to the press coverage list: https://docs.google.com/spreadsheets/d/1mq2PGI5MNDyWOP4QJ9H1kzzSjyt1Ibj057Au6Iiu-Ik/edit#gid=0
+
+## Policies for Sponsoring domain
+
+#### Sponsorship log
+The list of all previous sponsorship expenses can be found here: https://docs.google.com/spreadsheets/d/1I6Oay7ZKdUdcJgHEf2ppXYCzvwpCxpHRALTGgEkTR-Y/edit#gid=0
