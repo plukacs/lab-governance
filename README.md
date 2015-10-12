@@ -22,7 +22,7 @@ Purpose:
 Accountabilities:
  - Merging the Async pull request if there are no objections in the given period. (See [Policy: Async governance process (TLC)](#policy-async-governance-process-tlc))
 
-### Admin - Virag, B Dani
+### Admin - Virag
 Purpose:
 - Run the company operations
 
@@ -210,7 +210,7 @@ Domains:
 - Syllabus
 
 
-### Product Development Branch Circle - Peták (until Banyó has time...)
+### Product Development Branch Circle - Banyó
 
 Purpose:
  - Endless Money :) $$$$
