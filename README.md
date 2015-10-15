@@ -193,6 +193,7 @@ Accountabilities:
 - Calling Dell waranty service
 
 Domains:
+- Choosing the best fit devices for each usecase
 
 ## CIRCLES
 
