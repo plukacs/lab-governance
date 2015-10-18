@@ -139,7 +139,7 @@ Domain:
   - Biz
   - Sales
   - Recruiter
-  - Legal
+  - Stróman
 - Advising process is necessary (with the above roles) in case of changes of:
   - FTE
   - Roles in direct contact with the client
