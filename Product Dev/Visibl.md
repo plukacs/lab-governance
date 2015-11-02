@@ -108,6 +108,10 @@ Checklist:
 We use the same Async governance process as TLC
 A pull request becomes eligible for async once it is posted to #visibl on Slack
 
+##### Policy: Immediate acknowledgement of TODOs from Visibl
+ - Whenever you see a request for us to do something with `@channel` in the Visibl slack, just reply 'got it'.
+ - If you just replied 'got it', then make sure the task is represented in Asana somehow. You can make the card yourself, ask someone else to make it, or do whatever it takes.
+
 ##### Policy: Holidays / Home office / Sick leave notification and approval
 You have to clearly distinguish between holidays, home office and sick leave. Mark it in your calendar as soon as you're aware of it.
 - Holidays: Let your circles on Slack and your clients know 2x the length of your planned holiday (in workdays) before the start of it, but minimum 5 workdays before in writing
