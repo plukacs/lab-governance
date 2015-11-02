@@ -40,7 +40,7 @@ Accountabilities:
 
 ## Roles
 
-### Lead Link - Petak
+### Lead Link - Banyo Marci
 ### Rep Link - Banyo Marci
 ### Facilitator - Banyo Marci
 ### Secretary - Cassus
