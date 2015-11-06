@@ -175,7 +175,7 @@ Domains:
 Purpose: Unspecified
 
 Accountabilities:
-- Buying food, office equipment to the office (Tesco)
+- Buying food, medicine, hygiene products, office equipment to the office (Tesco)
 - Managing the office's daily operations
 - Fixing broken things in the office (except tech equipment)
 - Landloard realtions
