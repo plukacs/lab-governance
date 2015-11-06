@@ -1,4 +1,4 @@
-# Lab / Product Dev / Visibl
+# Lab / Visibl
 Purpose, Domains, Accountabilities defined by parent circle.
 
 ## Roles
