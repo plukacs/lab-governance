@@ -5,7 +5,7 @@ Purpose, Domains, Accountabilities defined by parent circle.
 
 ### Lead Link - Erik
 ### Rep Link - Anikó, mandate until 2015. nov 1.
-### Facilitator - Cassus, mandate until 2015. feb 6.
+### Facilitator - Cassus, mandate until 2016. feb 6.
 ### Secretary - Anikó, mandate until 2015. dec 1.
 
 Accountabilities:
