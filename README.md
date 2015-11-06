@@ -195,9 +195,7 @@ Accountabilities:
 Domains:
 - Choosing the best fit devices for each usecase
 
-## CIRCLES
-
-### Education Branch Circle - Barbi
+### Education - Barbi
 
 Purpose:
 - Training thech industry professionals
@@ -210,6 +208,7 @@ Domains:
 - External education
 - Syllabus
 
+## CIRCLES
 
 ### Product Development Branch Circle - Banyó
 
