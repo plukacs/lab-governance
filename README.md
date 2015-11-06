@@ -388,7 +388,7 @@ No other person (TLC lead link) should get into mini-projects
   - Biz
   - Sales
   - Recruiter
-  - Legal
+  - Stróman
 - Advising process is necessary (with the above roles) in case of changes of:
   - FTE
   - Roles in direct contact with the client
