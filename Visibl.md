@@ -29,6 +29,9 @@ Checklist:
 
 Purpose: Efficient team
 
+Accountability:
+- Watch for stuck tasks
+
 Domains:
 - asana setup
 - methodologies in use
@@ -67,6 +70,12 @@ Expected quality level
 What improvements to release continuously and what to hold back for bigger releases
 Establishing priorities and Strategies for the Circle
 
+### Wireless Router -- Erik
+Purpose: 0% packet loss in distributed team
+
+Accountabilities:
+- remind people to respond to messages addressed to them, if they don't respond for a while
+- put @channels on slack into Asana, and make sure they are acknowledged
 
 ### Product Manager (Client Link) -- Aquiles
 Purpose: Business needs, domain knowledge, network
