@@ -17,28 +17,27 @@ Accountabilities:
 - Keeping 'Onboarding' Asana project up-to-date https://app.asana.com/0/45872219775035/list
 - Organizing team retreats
 
-### Recruiter - Petak
-Also:
-- Cassus (focus: dev)
-- Aniko (focus: dev &  design)
-- Juli (focus: design)
+### Partner Evangelist - Petak, Cassus (focus: dev), Aniko (focus: dev &  design), Juli (focus: design)
+Purpose: Introduce great people to Lab.Coop
 
+Accountabilities:
+- Attracting partner candidates
+
+### Recruiter - Cassus
 Purpose: Hire great people
 
 Accountabilities:
-- Taking over HR leads from Evangelist / any partner
+- Taking over HR leads from Partner Evangelist or any partner
 - Introducing potential partners to the Lab
 - Handling HR leads through the selection process
-- Attracting partner candidates
-- Advising hiring and firing decisions
-- Testing, interviewing candidates
+- Taking advice on hiring decisions
 - Arranging recruitment process
 - Building freelancer pool
 - Matching freelancers and hires with potential clients through an advising process
 
 Domain:
 - Selection process
-- Who to hire through advising process from involved partners
+- Hiring decision
 
 ### Interviewer
 - Cassus (focus: Cultural fit)
