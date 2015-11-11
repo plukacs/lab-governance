@@ -25,7 +25,7 @@ Checklist:
 - notified Visibl of all noticeable changes
 - test cases were written before starting implementation of last week’s tasks
 
-### Agile Pony - Erik, Cassus
+### Agile Pony - Erik
 
 Purpose: Efficient team
 
@@ -42,14 +42,14 @@ Accountability:
 - handling client related administration (contract, certificate of completion, timesheet)
 - organizing docs on the drive
 
-### Tech lead - Cassus
+### Tech lead - Erik
 
 Purpose: sustainable development
 
 Domain:
 - technical decisions not covered by steward roles
 
-### Product Owner - Primarily Simon, also Aquilles and Cassus
+### Product Owner - Aquilles
 
 Purpose: Development backlog, released product
 
@@ -96,10 +96,10 @@ Accountabilities:
 ## Steward
 Focuses:
  - CSS: Anikó
- - Testing: Cassus
+ - Testing: Erik
  - TradeDesk: David
  - Ruby backend: David
- - React: Cassus
+ - React: Erik
 
 Accountabilities:
 - decides on foundation
