@@ -66,21 +66,31 @@ Accountabilities:
 Domains:
 - Choose events to go
 
-### Lab Branding and Service Design - Juli
+### Service Design - Juli
 
 ####Purpose
-- Have a cool appreance
 - Have a cool service
 
 ####Accountabilities
-- Handling graphic designers
+- Handling designers
 - Designing our services
 
 ####Domains
-- Lab's public visual and service apperance
+- Lab's public service apperance
+
+### Lab Branding - Deme Dani
+
+####Purpose
+- Have a cool appreance
+
+####Accountabilities
+- Handling graphic designers
+- Preparing visual a creative inputs or having them prepared 
+
+####Domains
+- Lab's public visual apperance
 - Logo
 - Brand
-
 
 ## Policies for All functions & activities within the Circle
 
