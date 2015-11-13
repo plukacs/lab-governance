@@ -16,13 +16,22 @@ Accountabilities:
 Purpose: undefined
 
 Accountabilities:
-- Building media partnerships
-- Press outreach
 - Keeping the website up-to-date
 - Keeping social media channels up-to-date
 - Managing marketing channels, for example Adwords
 - Writing copy
 - Proofreading
+
+Domains:
+
+### PR - 
+
+Purpose: undefined
+
+Accountabilities:
+- Building media partnerships
+- Press outreach
+- Networking with PR professionals
 
 Domains:
 
@@ -46,7 +55,6 @@ Purpose:
 - Trustworthy brand through personal reputation
 
 Accountabilities:
-- Networking with PR professionals
 - Networking
 - Perticipating on events
 - Representing the organization in any public manner, public speaking
