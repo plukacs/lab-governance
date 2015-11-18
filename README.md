@@ -61,6 +61,7 @@ Accountabilities:
 Domains:s
 - Business plan and model
 - Every budget in the company
+- Pricing
 
 ### Biz Dev - Petak
 
@@ -227,7 +228,7 @@ Accountability:
  - Rating client
 
 Domain:
- - Price
+ - CRM
 
 ### Biz analyst - all senior+
 Purpose:
