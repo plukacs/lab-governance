@@ -575,11 +575,6 @@ Secretaries of each circle are responsible to keep the Slack channels, Asana Boa
 ##### Policy: Assigning Tasks
 If you (re)assign a task, the assignee has to accept, otherwise you are responsible for the task. No answer means that the assignee has accepted. If the asignee cannot accept it, he or she should help finding an assignee.
 
-##### Policy: Learning - FedExDay
-There is a FedEx day (a 24 hour "hackatlon") on the first Friday of every 3rd month. (First occasion: 2015-07-03)
-Every kind of project is welcomed (does not have to be Lab related).
-The teams have to arrive with a proposal and deliver the full project at the end of the day.
-
 ##### Policy: Google Drive usage
  - Keep all docs on drive in the respective folder.
  - Use the Drive app for synchronization.
