@@ -290,6 +290,7 @@ Domain:
 
 Purpose:
  - Great education
+ - Making money
 
 Accountability:
  - Following the client contract
