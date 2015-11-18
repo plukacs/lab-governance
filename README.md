@@ -335,19 +335,21 @@ Domains:
 ### HR Circle - Cassus
 
 Purpose:
-- Satisfied partners
+- Satisfied and happy partners
 - A-class people
 
 Accountabilities:
-- Scanning ID, proof of residency, tax card of new hires to https://drive.google.com/drive/u/0/folders/0B_dmDpfClsCFWlNfRE55Tnh2SlU
-- Adding personal data of new hires to https://docs.google.com/a/brickflow.com/document/d/1pUMIv8rYsxvQ6-oiGw7ieaxIMLxSIXZREr_edReSR3c/edit?usp=sharing
+- Explaining ownership and Partner compensation system
 - Keeping the onboaring process (including relevant materials) uptodate, assigning roles to the steps of the process
 
 Domains:
-- Ownership system and Employee/Partner compensation
-- Salary system and peer-reviews
+- Ownership system and Partner compensation
+- Salary system
+- Peer-reviews
 - Bootcamp
 - Probation time
+- Team retreat
+- Use of recruiter
 
 ### Marketing-PR - Dani
 
