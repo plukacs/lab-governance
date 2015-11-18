@@ -75,7 +75,7 @@ Accountabilities:
 Domains:
 - Partnerships
 
-### Finance - Virag
+### Finance and Controlling - Virag
 
 Purpose:
 - Financial clarity and stability
@@ -87,15 +87,17 @@ Accountabilities:
 - Optimizing financial processes
 - Tracking cash-flow
 - Managing every financial issue
-- Making transactions
-- Settling SplitWise balances between Company and Partners.
+- Financial transactions
+- Settling SplitWise balances between Company and Partners
 - Handling Paypal, Transferwise and any other online payment system in use
 - Reimbursing
+- Dealing with the bank
 
 Domains:
 - Accountant
 - Bank
 - Financial best practices
+- Tax optimalization and safety
 
 
 ### Corporate lawyer - Nora Kiss
