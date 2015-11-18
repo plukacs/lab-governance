@@ -207,6 +207,7 @@ Accountabilities:
 - Accounting financial and human investment
 - Helping GreenFox Lead Link
 - Supporting GreenFox Academy's sales and business development efforts
+- Developing GreenFox Academy education design strategy
 
 Domains:
 - Lead Link with Digital Natives CEO
@@ -221,7 +222,7 @@ Purpose:
 Accountabilities:
 - Teaching at GreenFox Academy
 - Participating in sales events
-- Developing Green Fox education design concept
+- Developing GreenFox Academy education design
 
 Domains:
 - What and how to teach (syllabus)
