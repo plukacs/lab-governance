@@ -179,10 +179,11 @@ Accountabilities:
 - Managing the office's daily operations
 - Fixing broken things in the office (except tech equipment)
 - Landloard realtions
+- Providing access to company food
 
 Domains:
 - Office hygiene and safety
-- Office food
+- Office company food
 
 
 ### Tech Support - Jeszi
@@ -656,7 +657,7 @@ https://www.posta.hu/static/internet/download/Meghatalmazas_nyomtatvany_20141021
 - Share the door code with your guests when you invite them to help us focus and reduce office noise.
 
 
-## Domain of Office and Supply: Office food
+## Domain of Office and Supply: Office company food
  - tea
  - coffee
  - beer
