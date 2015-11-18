@@ -277,7 +277,7 @@ Domain:
 
 Purpose:
  - Satisfied clients
- - Earn money
+ - Earn 112.500 HUF + VAT / day
  - Upselling
 
 Accountability:
