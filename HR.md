@@ -111,6 +111,8 @@ We use the same [Async governance process as TLC](README.md#policy-async-governa
 
 ##### Policy: Employee money
 Salary formula, levels, Glue levels and Glue multiplier: https://docs.google.com/spreadsheets/d/1voxCpH29Lr8OlSuG7JL51BQSAwQPfVzkdpkM7aR9GbU/edit#gid=118044564
+- Market salary databas can be changed only once a year.
+- The salary formula can only be changed every 3 months and comes into force quarterly.
 
 ##### Policy: Part-time
 - If you are an `x%` part-time employee in the Lab, you get `x%` pay and `x%` ownership.
@@ -134,6 +136,3 @@ Assessments based on Level and Glue indicators.
 ##### Policy: Peer review frequency
 Peer reviews are every 3 months after the divident payments.
 
-##### Policy: Salary formula changes
-- Market salary databas only once a year.
-- Formula itself only every 3 months.
