@@ -241,7 +241,7 @@ Accountability:
  - Proposing initial stack / architecture
  - Analizing client's product
  - Rating client
- - Aapplying to jobs to start converting the recruiting company into clients
+ - Applying to jobs to start converting the recruiting company into clients
 
 Domain:
  - Initial backlog
