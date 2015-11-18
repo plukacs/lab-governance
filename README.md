@@ -504,7 +504,7 @@ Devices
 Only on request.
 Above ones are NOT available for part time or during probation time.
 - Laptop. Preferably with 3 year, on site warranty. Due price-value balance and short warranty, Mac only if it is worth due productivity or a must. If an employee has a good enough laptop, the company could buy it on market price, if it financially makes sense, decided case by case.
-- External screen.
+- External screen, automatically for the office and on request for home.
 
 ##### Policy: Insurance deductible
 - Company covers all devices with an insurance plan. In case somebody: physically breaks, looses or gets stolen a device outside the office than that person needs to pay the insurance deductible. Deductible is 10% of the damage, but minimum 10k HUF / damage. Detailed insurance terms and conditions: https://drive.google.com/open?id=0B6JxQVzWxgy4eUdZdGJ0bkdKU1RXQTQzM1ROWHRrNEZ2azVj
