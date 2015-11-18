@@ -350,6 +350,8 @@ Domains:
 - Probation time
 - Team retreat
 - Use of recruiter
+- Team learning
+- Hiring and firing process
 
 ### Marketing-PR - Dani
 
