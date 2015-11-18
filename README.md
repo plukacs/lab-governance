@@ -542,6 +542,7 @@ To account any kinds of financial liabilities, we use [Splitwise](https://www.sp
 - Company and partner-to-partner reimbursment happens over 10k HUF and in 10k bulks, independently from the directon of the payment (company >>> partner, partner >>> company, partner >>> partner)
 - You have to use 'LabCoop' group for all your payments
 - Use the following prefixes in each expense report, which involves Supercluster: office food, office, pr, travel, sales / biz dev, hr. For example "[office food] sör".
+- Do not add costs to Splitwise, which have been paid with company card / cash
 
 ##### Policy: Company CSR
 - Every partner has 100 EUR each year to spend on any CSR activities or charity
