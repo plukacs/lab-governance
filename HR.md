@@ -89,10 +89,14 @@ Accountabilities:
 ##### Policy: Async governance process
 We use the same [Async governance process as TLC](README.md#policy-async-governance-process-tlc)
 
-##### Policy: Hiring process
+##### Policy: Hiring and Firing Process
 - Managed in Asana.
 - When you start the selection process with someone in the Recruitment pipeline, copy the subtasks from `= template =` to the person
 - Mark the subtasks done and comment about your results and impressions on the person-card as the person progresses through the hiring process.
+- Nobody can be hired, who has no role
+- Anybody can be fired being without a role for at least 2 weeks
+- Anybody can be fired, who's roles all together do not require at least 50% of the agreet work time
+- Follow this prcess https://app.asana.com/0/33571529181921/52945793670150
 
 ## Domain: Bootcamp (newcommer onboarding)
 
