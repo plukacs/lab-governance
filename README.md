@@ -58,9 +58,9 @@ Accountabilities:
 - Deciding about non-human insurance plans
 - Making business model
 
-Domains:s
+Domains:
 - Business plan and model
-- Every budget in the company
+- Cash-flow
 
 ### Biz Dev - Petak
 
@@ -78,7 +78,8 @@ Domains:
 ### Finance - Virag
 
 Purpose:
-- Financial clarity and stability
+- Optimal financial operation
+- Financial clarity and legality
 
 Accountabilities:
 - Invoicing
@@ -107,19 +108,22 @@ Purpose:
 Accountabilities:
 - Making sure that accounting and financial practices are legal
 - Reviewing, writing legal documents
+- Supporting negotiations
 
 Domains:
 - Text of contracts (both internal and external)
 
 
-### Stróman - Peták
+### Legal representative - Peták
 
 Purpose:
+- Legal operations
 - Match business needs and legal documentation
 
 Accountabilities:
 - Final reviewing and signing contracts
 - Working with the corporate lawyer
+- Negotiating legal documents
 
 Domains:
 - Choose corporate lawyer
