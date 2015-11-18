@@ -27,15 +27,12 @@ Purpose:
 - Run the company operations
 
 Accountabilities:
- - Managing Partner data (birth, name, tax number ...).
- - Pre-filling admin forms with all known data before sending it to Partners.
- - Keeping internal administration on track
- - HR admin
- - Client admin
- - Financial admin
- - Send and pick up post
- - Scanning ID, proof of residency, tax card of new hires to https://drive.google.com/drive/u/0/folders/0B_dmDpfClsCFWlNfRE55Tnh2SlU
-- Adding personal data of new hires to https://docs.google.com/a/brickflow.com/document/d/1pUMIv8rYsxvQ6-oiGw7ieaxIMLxSIXZREr_edReSR3c/edit?usp=sharing
+- Managing Partner data (birth, name, tax number ...).
+- Pre-filling admin forms with all known data before sending it to Partners.
+- Keeping internal administration on track
+- Client admin
+- Financial admin
+- Send and pick up post
 
 Domains:
  - Paperwork
@@ -341,7 +338,9 @@ Purpose:
 - A-class people
 
 Accountabilities:
-- Keeping the onboaring process (including relevant materials) uptodate, assigning roles to the steps of the process
+- Keeping the onboaring process (including relevant materials) uptodate, assigning roles to the steps of the process - Scanning ID, proof of residency, tax card of new hires to https://drive.google.com/drive/u/0/folders/0B_dmDpfClsCFWlNfRE55Tnh2SlU
+- Adding personal data of new hires to https://docs.google.com/a/brickflow.com/document/d/1pUMIv8rYsxvQ6-oiGw7ieaxIMLxSIXZREr_edReSR3c/edit?usp=sharing
+- Managing HR admin
 
 Domains:
 - Ownership system and Employee/Partner compensation
