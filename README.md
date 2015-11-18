@@ -171,7 +171,7 @@ Domains:
 - Long term goals
 - To start and stop branches
 - Strategy
-- Advisors
+- Advisor selection and dismissal
 
 
 ### Office and Supplies - Virag
