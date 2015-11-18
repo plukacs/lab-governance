@@ -220,9 +220,11 @@ Purpose:
 
 Accountabilities:
 - Teaching at GreenFox Academy
+- Participating in sales events
+- Developing Green Fox education design concept
 
 Domains:
-- What to teach (syllabus)
+- What and how to teach (syllabus)
 
 ### Sales - Petak
 
