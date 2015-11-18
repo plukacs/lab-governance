@@ -517,7 +517,7 @@ Prey application has to be installed on each and every company cell phones and l
 - After the probation time any partner can access and use the company credit cards.
 - Give the invoice to the finance role and upload it to the Google Drive's relevant subfolder (LabCoop/biz admin/accounting/incoming invoices). https://goo.gl/7QmdqK
 - Partners may _not_ combine their budgets to purchase something more expensive together
-- Preferably paid by a company bank card. Always provide invoices. Give the invoice to the finance role and upload it to the Google Drive's relevant subfolder (LabCoop/biz admin/accounting/incoming invoices). https://goo.gl/7QmdqK
+- Preferably paid by a company bank card. Always provide invoices. Give the invoice to the finance role and upload it to the Google Drive's relevant subfolder (LabCoop/biz admin/accounting/incoming invoices). https://goo.gl/7QmdqK Name the files to include your name and the short describtion of the purchase, using tags like "office", "sales / biz dev", "hr", "hardware", "marketing".
 - Add the newly purchased asset to the asset inventory. https://goo.gl/AzyIEF
 - Before deciding on the purchase take advice from the roles/people the purchase will affect (for example: finance, office, biz).
 
