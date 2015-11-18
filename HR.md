@@ -133,3 +133,7 @@ Assessments based on Level and Glue indicators.
 
 ##### Policy: Peer review frequency
 Peer reviews are every 3 months after the divident payments.
+
+##### Policy: Salary formula changes
+- Market salary databas only once a year.
+- Formula itself only every 3 months.
