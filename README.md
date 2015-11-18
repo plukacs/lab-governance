@@ -253,7 +253,7 @@ Purpose:
 Accountability:
  - Estimating initial product backlog
 
- ### HowWeWork and Service Design - Juli, Banyó, Dávid
+ ### How We Work and Service Design - Juli, Banyó, Dávid
 
 Purpose:
  - Great processes
@@ -263,6 +263,7 @@ Purpose:
 Accountability:
  - Setting up the key work processes
  - Designing the services we offer
+ - Making quotation template
 
 ### Shiwaforce - Dani
 
