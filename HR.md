@@ -34,6 +34,10 @@ Accountabilities:
 - Arranging recruitment process
 - Building freelancer pool
 - Matching freelancers and hires with potential clients through an advising process
+- Advertising open positions
+- Promoting Lab as a workplace
+- Reaching out to potential candidates
+- Writing preliminary job/role describtion and expectations
 
 Domain:
 - Selection process
