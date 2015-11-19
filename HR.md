@@ -38,6 +38,7 @@ Accountabilities:
 - Promoting Lab as a workplace
 - Reaching out to potential candidates
 - Writing preliminary job/role describtion and expectations
+- Headhunting
 
 Domain:
 - Selection process
