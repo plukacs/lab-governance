@@ -446,13 +446,16 @@ In case of Holidays and Home office, letting them know within this period doesn'
 - All costs must be within a common sense limit. No ***** hotel, no luxury.
 
 ##### Policy: Company financed learning (for everyone and all circles in the Lab)
-- Up to 2000 EUR + VAT / person / year (incl. travel costs)
-- Monthly max. 3000 EUR + VAT on the company level. Biz role approval is needed about this monthly budget.
+- Up to 2000 EUR + VAT / person / year (incl. travel costs), 166.7 EUR / month in average
+- Monthly max. 3000 EUR + VAT in total on the company level. Biz role approval is needed about this monthly budget.
 - Get an invoice for the the company. Pay by company card/transfer if possible.
 - This includes travel and related costs as defined in [Policy: Business cost reimbursement](#policy-business-cost-reimbursement) so that all these costs count against your learning budget.
 - Make it transparent at https://docs.google.com/spreadsheets/d/1n1xfIGBuBe1IAIjhP-SUL0LrzrLgYIjZm2XaaFaV-rY/edit#gid=0
 - Make a brownbag talk if possible.
-- If someone spends on learning during his/her probation time and decides to leave before the probation ends s/he has to pay back the amount s/he spent on learning.
+- If a Partner spends on learning during his/her probation time and decides to leave before the probation ends s/he has to pay back the amount s/he spent on learning.
+- If a Partner leaves the company, s/he needs to pay the balanec over the proportional usage of the learning budget in that given year. (For example if the Partner leaves by the end of Oct and her/his learning budget for the given year was 1800 EUR than s/he owes the company 133 EUR (2000/12*10-
+- Learning budget over 2000 EUR / year is the domain of the Biz role as it becomes an investment for the company. If the Partner leaves the company before his/her cummulative learning budget balance is over the 2000 EUR / year average, the person need to pay it back proportionally to the company. (For example the Partner has worked 24 months for the company and has spent 6000 EUR on learning, then the Partner owes 1000 EUR to the company.)
+
 
 ##### Policy: Employee Benefits (for everyone and all circles in the Lab)
 
