@@ -12,7 +12,7 @@ Purpose:
 - An entrepreneurial community of A class partners building tech ventures and providing each other a stable, motivating & challenging work environment.
 - Risk & resource community of entrepreneurs aiming to build scalable tech ventures, learn, and have fun in order to create financial wealth together.
 - A constantly evolving community of constantly evolving partners.
-
+efef
 
 ## ROLES
 
