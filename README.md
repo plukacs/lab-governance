@@ -276,7 +276,7 @@ Accountabilities:
 - Developing GreenFox Academy education design strategy
 
 Domains:
-- Lead Link with Digital Natives CEO
+- Hiring and firing the Lead Link of GreenFox Academy in consensus with the CEO of Digital Natives as co-owner
 - Investment to GreenFox Academy
 
 ### GreenFox Academy Teacher - Tojás, Anikó, Viktor
