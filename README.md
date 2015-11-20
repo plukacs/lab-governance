@@ -92,12 +92,13 @@ Accountabilities:
 - Handling Paypal, Transferwise and any other online payment system in use
 - Reimbursing
 - Dealing with the bank
+- Securing our financial operations and tax payments
 
 Domains:
 - Accountant
 - Bank
 - Financial best practices
-- Tax optimalization and safety
+- Tax payments and optimalization
 
 
 ### Corporate lawyer - Nora Kiss
