@@ -60,7 +60,8 @@ Accountabilities:
 
 Domains:
 - Business plan and model
-- Cash-flow
+- All company budgets to secure the cash-flow
+- Investment
 
 ### Biz Dev - Petak
 
