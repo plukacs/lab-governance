@@ -343,7 +343,7 @@ Accountabilities:
 - Keeping the onboaring process (including relevant materials) uptodate, assigning roles to the steps of the process
 
 Domains:
-- Ownership system (once every 3 months)
+- Ownership system, updated at most every 3 months
 - Partner compensation
 - Salary system
 - Peer-reviews
