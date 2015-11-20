@@ -654,8 +654,9 @@ Leave the office clean every day so it's a welcoming place for us and our guests
 - the last one leaving the office has to close all the windows, alarm the office and lock the external doors
 - Authorize at least two people to take your packages. Us the below, official form:
 https://www.posta.hu/static/internet/download/Meghatalmazas_nyomtatvany_20141021.pdf
-- Share the door code with your guests when you invite them to help us focus and reduce office noise.
 
+-##### Policy: Office guests
+- Share the door code with your guests when you invite them to help us focus and reduce office noise.
 
 ## Domain of Office and Supply: Office company food
  - tea
