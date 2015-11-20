@@ -17,13 +17,23 @@ Accountabilities:
 - Keeping 'Onboarding' Asana project up-to-date https://app.asana.com/0/45872219775035/list
 - Organizing team retreats
 
-### Partner Evangelist - Petak, Cassus (focus: dev), Aniko (focus: dev &  design), Juli (focus: design)
-Purpose: Introduce great people to Lab.Coop
+### Network Recruiter - Cassus (focus: dev), Aniko (focus: dev & design), Juli (focus: design)
+Purpose: Introduce great people to Lab.Coop from our 1st and 2nd degree professional networks.
 
 Accountabilities:
-- Attracting partner candidates
+- Promoting Lab as a workplace in our network
+- Advertising our partner needs in our network
+- Reaching out and introducing Lab to potential candidates in our network
 
-### Recruiter - Cassus
+### General Recruiter - Petak
+Purpose: Introduce great people outside our professinal network to Lab.Coop
+
+Accountabilities:
+- Promoting Lab as a workplace
+- Advertising our partner needs 
+- Reaching out and introducing Lab to potential candidates
+
+### Recruitment Processor - Cassus
 Purpose: Hire great people
 
 Accountabilities:
