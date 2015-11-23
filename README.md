@@ -58,9 +58,10 @@ Accountatabilities:
 - Deciding about non-human insurance plans
 - Making business model
 
-Domains:s
+Domains:
 - Business plan and model
 - Every budget in the company
+- Pricing
 
 ### Biz Dev - Petak
 
@@ -230,7 +231,7 @@ Accountability:
  - Rating client
 
 Domain:
- - Price
+ - Sales CRM
 
 ### Biz analyst - all senior+
 Purpose:
