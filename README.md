@@ -52,7 +52,7 @@ Accountabilities:
 Purpose:
 - Financial stability
 
-Accountabilities:
+Accountatabilities:
 - Creating and keeping the business plan
 - Planning and keeping cash-flow
 - Deciding about non-human insurance plans
@@ -98,7 +98,7 @@ Domains:
 - Accountant
 - Bank
 - Financial best practices
-- Tax payments and optimalization
+- Tax payments and optimization
 
 
 ### Corporate lawyer - Nora Kiss
