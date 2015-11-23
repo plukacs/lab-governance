@@ -34,6 +34,7 @@ Accountabilities:
  - Client admin
  - Financial admin
  - Send and pick up post
+ - Booking hotels, flights, trains, conference tickets etc. based on the provided travel preferences and information. Partners do not have to use this service, but it is the partner's responsibility to book as early as possible to avoide overprice.
 
 Domains:
  - Paperwork
