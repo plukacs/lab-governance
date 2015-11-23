@@ -84,8 +84,8 @@ Domains:
 - Have a cool appreance
 
 ####Accountabilities
-- Handling graphic designers
-- Preparing visual a creative inputs or having them prepared 
+- Building brand identity
+- Preparing and making visual creative
 
 ####Domains
 - Lab's public visual apperance
