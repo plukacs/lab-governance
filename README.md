@@ -270,6 +270,18 @@ Accountability:
 Domain:
  - Client relations
 
+### MOME - Anikó, Tojás
+
+Purpose:
+ - Great education
+ - Making money
+
+Accountability:
+ - Following the client contract
+
+Domain:
+ - Client relations 
+
 ## CIRCLES
 
 ### Emarsys - Banyo Marci
