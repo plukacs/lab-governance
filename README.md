@@ -155,13 +155,15 @@ Accountabilities:
 Domains:
 - Go-no-go of spin-offs through advising process
 
-### Strategy - Petak, Tojas
+### Strategy - Petak
 
 Purpose:
 - Clear strategy for the organization
 
 Accountabilities:
-- Keeping in touch with advisors
+- Making strategy
+- Keeping in touch and get input with advisors
+- Getting advice and input from the team
 - Following market trends
 - Exploring market opportunities
 - Keeping shareholders in the loop
@@ -173,6 +175,8 @@ Domains:
 - Vision
 - Long term goals
 - To start and stop branches
+- Strategy
+- Advisor selection and dismissal
 
 
 ### Office and Supplies - Virag
