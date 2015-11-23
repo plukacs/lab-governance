@@ -124,6 +124,7 @@ Purpose:
 
 Accountabilities:
 - Final reviewing and signing contracts
+- Check partner and client company backgrounds before signing the contract
 - Working with the corporate lawyer
 
 Domains:
