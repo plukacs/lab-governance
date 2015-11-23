@@ -341,6 +341,7 @@ Accountabilities:
 - Scanning ID, proof of residency, tax card of new hires to https://drive.google.com/drive/u/0/folders/0B_dmDpfClsCFWlNfRE55Tnh2SlU
 - Adding personal data of new hires to https://docs.google.com/a/brickflow.com/document/d/1pUMIv8rYsxvQ6-oiGw7ieaxIMLxSIXZREr_edReSR3c/edit?usp=sharing
 - Keeping the onboaring process (including relevant materials) uptodate, assigning roles to the steps of the process
+- Facilitating team learning
 
 Domains:
 - Ownership system and Employee/Partner compensation
@@ -573,11 +574,6 @@ Secretaries of each circle are responsible to keep the Slack channels, Asana Boa
 
 ##### Policy: Assigning Tasks
 If you (re)assign a task, the assignee has to accept, otherwise you are responsible for the task. No answer means that the assignee has accepted. If the asignee cannot accept it, he or she should help finding an assignee.
-
-##### Policy: Learning - FedExDay
-There is a FedEx day (a 24 hour "hackatlon") on the first Friday of every 3rd month. (First occasion: 2015-07-03)
-Every kind of project is welcomed (does not have to be Lab related).
-The teams have to arrive with a proposal and deliver the full project at the end of the day.
 
 ##### Policy: Google Drive usage
  - Keep all docs on drive in the respective folder.
