@@ -451,7 +451,7 @@ You have to clearly distinguish between holidays, home office and sick leave. Ma
 - Home office: Let your circles on Slack know on the previous day if you would like to work from home all day long.
 In case of Holidays and Home office, letting them know within this period doesn't mean that it's not allowed, but  can be declined, if your plan is not safe to fail.
 - Sick leave: notify ASAP and keep others uptodate about your how being and expected first day of work.
-- More, than 50% of the team can only go on holidays / training / sick leave, if it is pre-approved by the client. Of course, sick leave can not be pre-planned, but if due pre-planned holidays and unexpected sick leaves the team shrinks below 50%, then the team needs to get a client approval. In case of rejection from the client, the holiday needs to be suspended.
+- More, than 50% of the team can only go on holidays / training / sick leave, if it is pre-approved by the client. Of course, sick leave can not be pre-planned, but if due pre-planned holidays and unexpected sick leaves the team shrinks below 50%, then the team needs to get a client approval. In case of rejection from the client with a strong reasoning (for example a top prio bug), the holiday needs to be suspended.
 
 
 
