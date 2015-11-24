@@ -46,3 +46,7 @@ Accountability:
 #### Policy: Async governance process
 
 We use the same Async governance process as TLC. A pull request becomes eligible for async once it is posted to #element on Slack.
+
+### Policy: Continous check-in
+
+Everyone has to check-in and check-out on the #chico channel of Elemet's Slack when they are working on the project.
