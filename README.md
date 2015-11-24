@@ -447,6 +447,7 @@ In case of Holidays and Home office, letting them know within this period doesn'
 
 ##### Policy: Company financed learning (for everyone and all circles in the Lab)
 - Up to 2000 EUR + VAT / person / year (incl. travel costs), 166.7 EUR / month in average
+- If a Partner does not use his/her budget the given year, it can be used later
 - Monthly max. 3000 EUR + VAT in total on the company level. Biz role approval is needed about this monthly budget.
 - Get an invoice for the the company. Pay by company card/transfer if possible.
 - This includes travel and related costs as defined in [Policy: Business cost reimbursement](#policy-business-cost-reimbursement) so that all these costs count against your learning budget.
