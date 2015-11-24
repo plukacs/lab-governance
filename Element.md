@@ -38,6 +38,7 @@ Accountability:
 
 Accountability:
 - handling client related administration (contract, certificate of completion, timesheet)
+- filling in timesheet based on Toggle logs
 
 
 
@@ -46,3 +47,8 @@ Accountability:
 #### Policy: Async governance process
 
 We use the same Async governance process as TLC. A pull request becomes eligible for async once it is posted to #element on Slack.
+
+#### Policy: Time tracking and timesheet
+
+We track time spent with the project on a half day basis. Time spent on the project is logged on Toggle individually. The timesheet (https://www.dropbox.com/s/j90lkq5txpsgs01/timesheet%20lab%20element.xlsx?dl=0), which is shared with the client, is filled by the Admin role on a weekly basis based on Toggle logs.
+
