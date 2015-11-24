@@ -42,6 +42,7 @@ Domain:
 ### Interviewer
 - Cassus (focus: Cultural fit)
 - Tojas (focus: Dev skills)
+- David (focus: Dev skills as backup)
 - Juli (focus: Design skills)
 
 Purpose: Hire the right people
