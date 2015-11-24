@@ -2,9 +2,9 @@ Checklists, assignments of people to roles, and other stuff not decided in gover
 
 # Roles
 
-### Rep Link -
+### Rep Link - Jeszi, mandate until 2016. feb 19.
 ### Facilitator - Cassus, mandate until 2016. feb 6.
-### Secretary -
+### Secretary - Jeszi, mandate until 2016. feb 19.
 
 ### Developer
 
