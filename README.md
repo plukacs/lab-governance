@@ -398,6 +398,8 @@ No other person (TLC lead link) should get into mini-projects
   - Price, pricing
   - Project timeframe
 - The above listed roles can block the above listed changes up to 2 weeks above the legal minimum (usually 4 weeks), if the roles decide in their domains that the decision is not safe to fail. Moreover, it is highly preferred not to change within 6 months, and change at the time of contract change.
+- Minimum 6 months on a client project, except agreed otherwise with the client.
+- No more than 1 person should be replaced within one month, except agreed otherwise with the client.
 
 ##### Policy: Quality assurance, bug handling
 - Each software development client project should define bug priorities. Highest prio bug should mean, that fixing it becomes the number one team priority above any other activities.
