@@ -468,13 +468,6 @@ No other person (TLC lead link) should get into mini-projects
 ##### Policy: Long policies
 Policy proposals longer than 10 sentences must be shared at least 48h before the governance meeting to enable the circle to prepare properly for the governance meeting. If the policy if complex than pre-governance discussions are preferable.
 
-##### Policy: Penatly for being late from TLC stad-ups and meetings
-Who’s late from TLC stand-ups and meetings owes one beer/chocolate/one third of a bottle of wine for the team, there’s a paper on the door where we follow this
-Except when someone lets the others know that s/he is not coming at least 1h before the meeting, and the meeting should be started without them
-Facilitator keeps the log
-Old Brickflow beer debts are brought to the Brickflow farewell party
-Postponing a meeting is OK if all parties agreed
-
 ##### Policy: Asana for top level boards
 Use [Asana](https://app.asana.com/0/31935013151061) for top level circle boards
 
