@@ -403,7 +403,7 @@ No other person (TLC lead link) should get into mini-projects
 
 ##### Policy: Quality assurance, bug handling
 - Each software development client project should define bug priorities. Highest prio bug should mean, that fixing it becomes the number one team priority above any other activities.
-- Each 3+ team has to have someone on call, available to the client within 15 min of notice, 24/7
+- Each 3+ FTE team has to have someone on call, available to the client within 15 min of notice during our team's normal office hours, and within 12 hours outside office hours.
 - More, than 25% of the team can only go on holidays + training + sickleave , if it is pre-approved by the client.
 
 ## Domain: All functions & activities within the Circle
