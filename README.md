@@ -231,6 +231,7 @@ Accountability:
  - Pitching how we work
  - Matching the estimation with: cilent resources - Lab.Coop resources - timeframe
  - Rating client
+ - Capturing client complaints and giving feedback to the team, when approached by the client with team isssues
 
 Domain:
  - Sales CRM
@@ -320,6 +321,8 @@ Accountability:
 
 Domain:
  - Client relations
+ 
+ 
 
 ## CIRCLES
 
