@@ -61,8 +61,9 @@ Accountatabilities:
 
 Domains:
 - Business plan and model
-- Every budget in the company
 - Pricing
+- All company budgets to secure the cash-flow
+- Investment
 
 ### Biz Dev - Petak
 
@@ -80,7 +81,8 @@ Domains:
 ### Finance and Controlling - Virag
 
 Purpose:
-- Financial clarity and stability
+- Optimal financial operation
+- Financial clarity and legality
 
 Accountabilities:
 - Invoicing
@@ -112,20 +114,23 @@ Purpose:
 Accountabilities:
 - Making sure that accounting and financial practices are legal
 - Reviewing, writing legal documents
+- Supporting negotiations
 
 Domains:
 - Text of contracts (both internal and external)
 
 
-### Stróman - Peták
+### Legal representative - Peták
 
 Purpose:
+- Legal operations
 - Match business needs and legal documentation
 
 Accountabilities:
 - Final reviewing and signing contracts
 - Check partner and client company backgrounds before signing the contract
 - Working with the corporate lawyer
+- Negotiating legal documents
 
 Domains:
 - Choose corporate lawyer
@@ -288,7 +293,7 @@ Accountability:
  - Following the client contract
 
 Domain:
- - Client relations 
+ - Client relations
 
 ## CIRCLES
 
@@ -403,6 +408,8 @@ No other person (TLC lead link) should get into mini-projects
   - Sales
   - Recruiter
   - Stróman
+  - Legal representative
+
 - Advising process is necessary (with the above roles) in case of changes of:
   - FTE
   - Roles in direct contact with the client
