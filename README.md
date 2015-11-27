@@ -356,7 +356,7 @@ Purpose:
 
 Accountabilities:
 - Following the client contract
-- Making minimum €25000 / month / 3.5 FTE
+- Making minimum €25000 / month / 3.5 client w
 - keeping contact and communicating with the client (first point of contact)
 - handling client related administration (contract, certificate of completion, timesheet) and organizing docs on the drive
 - notifying sales if upsell or conflict resolution is needed
@@ -422,6 +422,8 @@ Dedicate weekly 4 hours for the tactical and governance meeting.
 Every project lead has to take responsibility in organizing meetings, liaising with clients, and do resource management for the project → mini project management
 No other person (TLC lead link) should get into mini-projects
 
+##### Policy: FTE definition
+FTE, full time employee in average means 4 days / week, daily 8 hours, 130 hours / month. This time includes holidays, learning time and sick leave.
 
 ## Domain: Choice of clients
 ## Domain: Choice of technologies / workflows
@@ -440,7 +442,7 @@ No other person (TLC lead link) should get into mini-projects
   - Legal representative
 
 - Advising process is necessary (with the above roles) in case of changes of:
-  - FTE
+  - client w
   - Roles in direct contact with the client
   - Contract
   - Price, pricing
