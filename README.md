@@ -210,18 +210,6 @@ Accountabilities:
 Domains:
 - Choosing the best fit devices for each usecase
 
-### Education - Barbi
-
-Purpose:
-- Training thech industry professionals
-
-Accountabilities:
-- Organizing courses
-- Teaching
-
-Domains:
-- External education
-- Syllabus
 
 ### Sales - Petak
 
@@ -282,6 +270,41 @@ Accountability:
 
 Domain:
  - Client relations
+
+
+
+
+### GreenFox Academy Owner - Peták
+
+Purpose:
+- Great owner of GreenFox Academy
+- Help GreenFox Academy to be a great and profitable educational venutre
+
+Accountabilities:
+- Planning Greenfox Academy strategy
+- Approving financial reports
+- Accounting financial and human investment
+- Helping GreenFox Lead Link
+- Supporting GreenFox Academy's sales and business development efforts
+- Developing GreenFox Academy education design strategy
+
+Domains:
+- Hiring and firing the Lead Link of GreenFox Academy in consensus with the CEO of Digital Natives as co-owner
+- Investment to GreenFox Academy
+
+### GreenFox Academy Teacher - Tojás, Anikó, Viktor
+
+Purpose:
+- Deliver great education
+- Make 50 USD / h in long, 70 USD / h in short term projects
+
+Accountabilities:
+- Teaching at GreenFox Academy
+- Participating in sales events
+- Developing GreenFox Academy education design
+
+Domains:
+- What and how to teach (syllabus)
 
 ### MOME - Anikó, Tojás
 
