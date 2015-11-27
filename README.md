@@ -185,7 +185,7 @@ Domains:
 - Advisor selection and dismissal
 
 
-### Office and Supplies - Virag
+### Office and Supply - Virag
 
 Purpose: Unspecified
 
@@ -194,8 +194,11 @@ Accountabilities:
 - Managing the office's daily operations
 - Fixing broken things in the office (except tech equipment)
 - Landloard realtions
+- Providing access to company food
 
 Domains:
+- Office hygiene and safety
+- Office company food
 
 
 ### Tech Support - Jeszi
@@ -511,17 +514,6 @@ In case of Holidays and Home office, letting them know within this period doesn'
 
 ##### Policy: Employee Benefits (for everyone and all circles in the Lab)
 
-Office
- - tea
- - coffee
- - beer
- - wine
- - sparkling water aka szóda
- - fruit
- - yogurt
- - cereals
- - 'szörp'
-
 Services
  - Dinner if working after 8pm
  - Uber home of working later than 10pm
@@ -629,24 +621,6 @@ All our written documents must be in English unless it's not possible.
 ##### Policy: Meetings
 Take and share notes if relevant. If two people attend a meeting, one of them should take notes.
 
-##### Policy: Office guests
-- Share the door code with your guests when you invite them to help us focus and reduce office noise.
-
-##### Policy: Office hygiene
-Leave the office clean every day so it's a welcoming place for us and our guests.
-- general cleaning (washing-up, vacuum-cleaning etc.) is outsourced to a cleaning lady, coming every Monday
-- clean your desk everyday after yourself: no food, no dirty dishes
-- clean common spaces / meeting desks after using it
-- use dishwasher according to the magnet on the front (clean/dirty). If it is possible put your dirty dishes in the dishwasher. Take clean dishes out and put them to their place.
-- start the dishwasher when it is full
-- collect the trash selectively and take it down if it is full
-- take the trash bag down if it is full and put in a new one
-- do not disturb the meetings of others with loud noise
-- make sure to clear the fridge every Friday, as the cleaning lady throws out old food from the fridge each Monday
-- refill the fridge if it is out of water, beer etc.
-- report to Office role if the office is out of something (beer, water etc.)
-- the last one leaving the office has to close all the windows, alarm the office and lock the external doors
-
 ##### Policy: Stand-ups
 Separate circle standups. Each circle is free to decide if they have a standup or not.
 Focus on what was achieved yesterday and what is your goal for the day and what obstacles you have.
@@ -676,10 +650,6 @@ Private:
 Make sure every week, before the tactical meeting, that all your cards are up-to-date.
 Comment on cards what you tell on tactical as update.
 
-##### Policy: Ordering personal stuff (post, package) to the office
-Authorize at least two people to take your packages. Us the below, official form:
-https://www.posta.hu/static/internet/download/Meghatalmazas_nyomtatvany_20141021.pdf
-
 ##### Policy: Conflict resolution process
 Applies to any type of disagreement. This could be a difference of opinion about a technical decision, an interpersonal conflict or a breach of values. Specifically, it can be used in performance issues when one colleague believes that another is not pulling his weight.
 
@@ -702,3 +672,35 @@ Since the disagreement is private, all parties are expected to respect confident
  1. If mediation fails, a panel of topic-relevant colleagues is convened. The panel’s role, again, is to listen and help shape agreement. It cannot force a decision, but usually carries enough moral weight for matters to come to a conclusion.
 
  1. In an ultimate step, the Top Level Circle Lead Link, can be called into the panel, to further reinforce the panel’s moral weight (but not to impose a solution).
+
+
+## Domain of Office and Supply: Office hygiene and safety
+Leave the office clean every day so it's a welcoming place for us and our guests.
+- general cleaning (washing-up, vacuum-cleaning etc.) is outsourced to a cleaning lady, coming every Monday
+- clean your desk everyday after yourself: no food, no dirty dishes
+- clean common spaces / meeting desks after using it
+- use dishwasher according to the magnet on the front (clean/dirty). If it is possible put your dirty dishes in the dishwasher. Take clean dishes out and put them to their place.
+- start the dishwasher when it is full
+- collect the trash selectively and take it down if it is full
+- take the trash bag down if it is full and put in a new one
+- do not disturb the meetings of others with loud noise
+- make sure to clear the fridge every Friday, as the cleaning lady throws out old food from the fridge each Monday
+- refill the fridge if it is out of water, beer etc.
+- report to Office role if the office is out of something (beer, water etc.)
+- the last one leaving the office has to close all the windows, alarm the office and lock the external doors
+- Authorize at least two people to take your packages. Us the below, official form:
+https://www.posta.hu/static/internet/download/Meghatalmazas_nyomtatvany_20141021.pdf
+
+-##### Policy: Office guests
+- Share the door code with your guests when you invite them to help us focus and reduce office noise.
+
+## Domain of Office and Supply: Office company food
+ - tea
+ - coffee
+ - beer
+ - wine
+ - sparkling water aka szóda
+ - fruit
+ - yogurt
+ - cereals
+ - 'szörp'
