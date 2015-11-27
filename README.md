@@ -484,7 +484,7 @@ In case of Holidays and Home office, letting them know within this period doesn'
 - In teams over 3 FTE, more than 50% FTE of the team can only go on holidays / training / sick leave, if it is pre-approved by the client. Of course, sick leave can not be pre-planned, but if due pre-planned holidays and unexpected sick leaves the team shrinks below 50%, then the team needs to get a client approval. In case of rejection from the client with a strong reasoning (for example a top prio bug), the holiday needs to be suspended. In case this causes personal costs, it needs to be compensated by the company.
 
 ##### Policy: Work hours
-We do not have fixed office hours, like 9to5. It is flexible and partners schedule their own time. However, Partners need to attend to the agreed meetings and be available for our clients. It is the Partners' responibility to use their time in the best interest of the company and the clients.
+We do not have fixed office hours, like 9to5. It is flexible and partners schedule their own time. However, Partners need to attend to the agreed meetings and be available for our clients. It is the Partners' responibility to use their time in the best interest of the company and the clients. The company does not pay for overtime.
 
 
 
