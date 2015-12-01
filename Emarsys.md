@@ -7,7 +7,7 @@ Purpose, Domains, Accountabilities defined by parent circle.
 ### Facilitator - Tojas
 ### Secretary - Marci
 
-### Process Facilitator - Tojas
+### Process Facilitator - Denes, Tojas
 Purpose: stable velocity
 
 Accountabilities:
@@ -24,7 +24,7 @@ Domains:
 - tech tools
 - tech processes
 
-### Product Owner - Banyo, Dani
+### Product Owner - Banyo
 Purpose:
 - happy customer, happy vienna
 
@@ -36,7 +36,7 @@ Accountabilities:
 Domains:
 - relations with EMS / PM / third parties
 
-### Dev - Laci, Tojas, Marci, Simon
+### Dev - Laci, Tojas, Marci, Simon, Denes
 Accountabilities:
 - implementing software based on user stories which meets the DoD
 
