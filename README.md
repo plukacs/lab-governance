@@ -429,34 +429,31 @@ Dedicate weekly 4 hours for the tactical and governance meeting.
 Every project lead has to take responsibility in organizing meetings, liaising with clients, and do resource management for the project → mini project management
 No other person (TLC lead link) should get into mini-projects
 
-
-## Domain: Choice of clients
-## Domain: Choice of technologies / workflows
-## Domain: Human resource dedication
-
 ##### Policy: Human resource dedication
-- Partners can be dedicated to work on a Client projects within the Product Development Branch Circle
+- Partners can be dedicated to work on a Client projects
   - Each week (in average) works on the Client Project for the time agreed with the Client
 - For changing dedication, advising process is necessary with the following roles:
-  - Product Development Branch Circle LL
-  - Client Product Circle LL
   - Biz
   - Sales
   - Recruiter
-  - Stróman
   - Legal representative
-
+  - HR Circle LL
+  - Resource Clarity
+  
 - Advising process is necessary (with the above roles) in case of changes of:
   - FTE
   - Roles in direct contact with the client
   - Contract
   - Price, pricing
   - Project timeframe
-- The above listed roles can block the above listed changes up to 2 weeks above the legal minimum (usually 4 weeks), if the roles decide in their domains that the decision is not safe to fail
+- The above listed roles can block the above listed changes up to 2 weeks above the legal minimum (usually 4 weeks), if the roles decide in their domains that the decision is not safe to fail. Moreover, it is highly preferred not to change within 6 months, and change at the time of contract change.
+- Minimum 6 months on a client project, except agreed otherwise with the client.
+- No more than 1 person should be replaced within one month, except agreed otherwise with the client.
 
-
-
-
+##### Policy: Quality assurance, bug handling
+- Each software development client project should define bug priorities. Highest prio bug should mean, that fixing it becomes the number one team priority above any other activities.
+- Each 3+ FTE team has to have someone on call, available to the client within 15 min of notice during our team's normal office hours, and within 12 hours outside office hours.
+- More, than 50% of the team can only go on holidays + training + sickleave , if it is pre-approved by the client.
 
 ## Domain: All functions & activities within the Circle
 
