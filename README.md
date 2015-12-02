@@ -195,6 +195,8 @@ Accountabilities:
 - Fixing broken things in the office (except tech equipment)
 - Landloard realtions
 - Providing access to company food
+- Ordering tech devices and services
+- Managing Dell waranty service, CHS, UPS etc relations
 
 Domains:
 - Office hygiene and safety
@@ -207,11 +209,10 @@ Purpose: Unspecified
 
 Accountabilities:
 - Fixing tech stuff around office: TV, wifi, printer, updateing computers
-- Ordering tech devices and services
-- Calling Dell waranty service
+- Managing tech infrastructure
 
 Domains:
-- Choosing the best fit devices for each usecase
+- Choosing the best fit devices and service for each usecase
 
 
 ### Sales - Petak
@@ -389,6 +390,7 @@ Accountabilities:
 - Keeping the onboaring process (including relevant materials) uptodate, assigning roles to the steps of the process
 - Fulfill human resource needs of the organization
 - Facilitating team learning
+- Onboarding to tools we use (Asana, Slack, Google Drive...)
 
 Domains:
 - Ownership system and Employee/Partner compensation
