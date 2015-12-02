@@ -342,6 +342,8 @@ Accountabilities:
 - keeping contact and communicating with the client (first point of contact)
 - handling client related administration (contract, certificate of completion, timesheet) and organizing docs on the drive
 - notifying sales if upsell or conflict resolution is needed
+- Define bug priorities. Highest prio bug should mean, that fixing it becomes the number one team priority above any other activities.
+- Have someone on call 24/7. Be available over the phone to the client in case of a Prio1 bug within 15 min of notice in office hours and 12 hours outside of office hours.
 
 Domains:
 - SMS product design
@@ -360,6 +362,8 @@ Accountabilities:
 - keeping contact and communicating with the client (first point of contact)
 - handling client related administration (contract, certificate of completion, timesheet) and organizing docs on the drive
 - notifying sales if upsell or conflict resolution is needed
+- Define bug priorities. Highest prio bug should mean, that fixing it becomes the number one team priority above any other activities.
+- Have someone on call 24/7. Be available over the phone to the client in case of a Prio1 bug within 15 min of notice in office hours and 12 hours outside of office hours.
 
 
 ### Element22 - David Judik
@@ -367,6 +371,8 @@ Purpose:
 - satisfied Merlin and William
 
 Accountabilities:
+- Define bug priorities. Highest prio bug should mean, that fixing it becomes the number one team priority above any other activities.
+- Have someone on call 24/7. Be available over the phone to the client in case of a Prio1 bug within 15 min of notice in office hours and 12 hours outside of office hours.
 
 Domains:
 
