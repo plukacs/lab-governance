@@ -342,7 +342,8 @@ Domain:
 
 ### Emarsys - Banyo Marci
 Purpose:
-- satisfied Emarsys
+- Satisfied Emarsys
+- Make min 5000 EUR / week
 
 Accountabilities:
 - planning architecture
@@ -363,7 +364,7 @@ Domains:
 - SMS product design
 - Client relation
 - working methods
-- architecture
+- Architecture
 
 
 ### Visibl - Erik
@@ -373,18 +374,22 @@ Purpose:
 Accountabilities:
 - Following the client contract
 - Making minimum €25000 / month / 3.5 FTE
-- keeping contact and communicating with the client (first point of contact)
-- handling client related administration (contract, certificate of completion, timesheet) and organizing docs on the drive
-- notifying sales if upsell or conflict resolution is needed
+- Keeping contact and communicating with the client (first point of contact)
+- Handling client related administration (contract, certificate of completion, timesheet) and organizing docs on the drive
+- Notifying sales if upsell or conflict resolution is needed
 - Define bug priorities. Highest prio bug should mean, that fixing it becomes the number one team priority above any other activities.
 - Have someone on call 24/7. Be available over the phone to the client in case of a Prio1 bug within 15 min of notice in office hours and 12 hours outside of office hours.
 
-
 ### Element22 - David Judik
 Purpose:
-- satisfied Merlin and William
+- Following the client contract
+- Satisfied Merlin and William
+- Make 20k EUR / mo
 
 Accountabilities:
+- Keeping contact and communicating with the client (first point of contact)
+- Handling client related administration (contract, certificate of completion, timesheet) and organizing docs on the drive
+- Notifying sales if upsell or conflict resolution is needed
 - Define bug priorities. Highest prio bug should mean, that fixing it becomes the number one team priority above any other activities.
 - Have someone on call 24/7. Be available over the phone to the client in case of a Prio1 bug within 15 min of notice in office hours and 12 hours outside of office hours.
 
