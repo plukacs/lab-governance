@@ -631,11 +631,13 @@ Time boxing is important, to not spend too much time on standupping
 ##### Policy: Transparency levels
 Public:
  - [Governance](https://github.com/lab-coop/lab-governance) records
- - Salary formula (without personal records)
  - Cap table https://goo.gl/D4Y9eQ
+ - Salary level and glue indicators
+ - General logic of salary formula
 
 Private:
  - Trello boards
+ - Salary formula, how much each person earns, dividend logic (except in hiring process, close to completion)
  - Asana
  - Slack
  - Drive
