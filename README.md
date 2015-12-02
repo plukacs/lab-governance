@@ -280,7 +280,7 @@ Domain:
 
 Purpose:
  - Satisfied clients
- - Earn money
+ - Earn 112.500 HUF + VAT / day
  - Upselling
 
 Accountability:
@@ -332,6 +332,8 @@ Purpose:
 
 Accountability:
  - Following the client contract
+ - Keeping contact and communicating with the client (first point of contact)
+ - Handling client related administration (contract, certificate of completion, timesheet) and organizing docs on the drive
 
 Domain:
  - Client relations
