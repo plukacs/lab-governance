@@ -262,6 +262,19 @@ Purpose:
 Accountability:
  - Estimating initial product backlog
 
+### How We Work and Service Design - Juli, Banyó, Dávid
+
+Purpose:
+ - Great processes
+ - Happy clients
+ - Profitable company
+
+Accountability:
+ - Setting up the key work processes
+ - Designing the services we offer
+ - Making quotation template
+
+Domain:
 
 ### NextTV - Juli
 
