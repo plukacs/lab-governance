@@ -21,3 +21,10 @@ Purpose: Product is seamless, understandable and familiar-feeling
 Accountabilities:
 - Make mockups
 - Translate business needs into user stories
+
+### Planner
+
+Purpose: Shared understanding of the 1-2 week future, technically
+
+Accountabilities:
+- Create estimations and test cases for tasks marked 'NeedsEstimationAndTestCases'
