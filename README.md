@@ -39,6 +39,12 @@ Accountabilities:
 Domains:
  - Paperwork
 
+### Guardian of the Galaxy
+Purpose: todo
+
+Domains:
+- Ownership system
+
 ### Resource clarity - Marci Banyo
 Purpose:
 - Clarity on our commitments and available resources
@@ -46,6 +52,7 @@ Purpose:
 Accountabilities:
 - Tracking allocation information for sales
 - Giving info to biz for return calibaration
+
 
 
 ### Biz - Petak
@@ -411,9 +418,10 @@ Accountabilities:
 - Fulfill human resource needs of the organization
 - Facilitating team learning
 - Onboarding to tools we use (Asana, Slack, Google Drive...)
+- Proposing changes to the Ownership system
 
 Domains:
-- Ownership system and Employee/Partner compensation
+- Employee/Partner compensation
 - Salary system and peer-reviews
 - Bootcamp
 - Probation time
