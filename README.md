@@ -52,6 +52,11 @@ Purpose:
 Accountabilities:
 - Tracking allocation information for sales
 - Giving info to biz for return calibaration
+- Setting up and running time tracking system
+- Tracking role based time allocation and reporting on request
+
+Domains:
+- Company-wide time tracking system
 
 
 
@@ -654,13 +659,6 @@ Take and share notes if relevant. If two people attend a meeting, one of them sh
 Separate circle standups. Each circle is free to decide if they have a standup or not.
 Focus on what was achieved yesterday and what is your goal for the day and what obstacles you have.
 Time boxing is important, to not spend too much time on standupping
-
-##### Policy: Time tracking
-- Use Toggl as company wide time tracking tool.
-- It's enough to put in your times at the end of the months, no need for constant Toggl ON-OFF pushing.
-- Each partner has to track the time dedicated to each role including internal roles.
-- Track with at least half day precision.
-- No task based time tracking is necessary.
 
 ##### Policy: Transparency levels
 Public:
