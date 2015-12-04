@@ -341,17 +341,16 @@ Purpose:
 Accountabilities:
 - Explaining ownership and Partner compensation system
 - Keeping the onboaring process (including relevant materials) uptodate, assigning roles to the steps of the process
+- Conductng orderly peer-reviews
+- Organizing team retreats
+- Facilitating team learning
 
 Domains:
-- Ownership system, updated at most every 3 months
+- Ownership system
 - Partner compensation
-- Salary system
-- Peer-reviews
 - Bootcamp
 - Probation time
-- Team retreat
 - Use of recruiter
-- Team learning
 - Hiring and firing process
 
 ### Marketing-PR - Dani
