@@ -356,7 +356,7 @@ Purpose:
 
 Accountabilities:
 - Following the client contract
-- Making minimum €25000 / month / 3.5 client w
+- Making minimum €25000 / month / 3.5 FTE
 - keeping contact and communicating with the client (first point of contact)
 - handling client related administration (contract, certificate of completion, timesheet) and organizing docs on the drive
 - notifying sales if upsell or conflict resolution is needed
@@ -442,7 +442,7 @@ FTE, full time employee in average means 4 days / week, daily 8 hours, 130 hours
   - Legal representative
 
 - Advising process is necessary (with the above roles) in case of changes of:
-  - client w
+  - FTE
   - Roles in direct contact with the client
   - Contract
   - Price, pricing
