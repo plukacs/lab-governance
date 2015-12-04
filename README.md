@@ -39,7 +39,7 @@ Accountabilities:
 Domains:
  - Paperwork
 
-### Guardian of the Galaxy
+### Guardian of the Galaxy - Tojás, Peták
 Purpose: todo
 
 Domains:
